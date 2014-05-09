@@ -13,6 +13,14 @@ __Attention!!__
 {: .callout-danger}
 
 May 2014
+:  New book [_The Tale of the Dueling
+   Neurosurgeons_](http://www.amazon.com/The-Tale-Dueling-Neurosurgeons-Revealed/dp/0316182346) talks about what it's like living without a
+   hippocampus. Excerpted
+   [here](http://www.wired.com/2014/05/heres-what-happens-when-a-neurosurgeon-slurps-out-your-hippocampus/).
+
+^
+
+May 2014
 :  Samantha Summerson receives first PhD in lab! Thesis here.
 {: .callout-info}
 
@@ -82,7 +90,6 @@ February 2013
 December 2012
 :   The website of the newest addition to the Rice University Electrical and Computer
     Engineering __Neuroengineering__ team is now live [here](http://www.robinsonlab.com).
-
 ^
 
 November 2012
@@ -92,7 +99,8 @@ November 2012
 
 September 2012
 :   Professor Kemere featured in the annual _Rice Engineering_
-    [magazine](http://www.scribd.com/doc/115817339/Rice-Engineering-2012).
+    [magazine](http://www.scribd.com/doc/115817339/Rice-Engineering-2012). The article is also
+    archived [here](/news/content/2012pgs16-17.pdf).
 
 ^
 
