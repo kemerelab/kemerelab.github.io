@@ -48,7 +48,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-color: #999;
+  background-color: #FFF;
 }
 .carousel-inner > .item > img {
   position: absolute;
@@ -86,8 +86,21 @@ body {
 /* Featurettes
 ------------------------- */
 
+/*
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+*/
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  font-size:1.5em; /* Simulate an <hr> */
+  text-align:center;
+  height: 20px;
+  width: 40%;
+  background: #F77;
+  /* height:0.5em; 
+  margin-bottom:0.5em
+  border-bottom:1px solid #eeeeee; */
 }
 
 /* Thin out the marketing headings */
