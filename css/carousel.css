@@ -7,6 +7,25 @@ body {
   color: #5a5a5a;
 }
 
+.main-container {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.feature-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.grid {
+  background-image:url(/images/bluegrid-light.png);
+  background-repeat:repeat;
+}
+
+.light-gray {
+  background-color:#EEE;
+}
+
 
 
 /* CUSTOMIZE THE NAVBAR

@@ -14,7 +14,7 @@
     <link href="{{ site.baseurl }}css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Navigation Bar -->
-    <link href="{{ site.baseurl }}css/navbar.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}css/navbar-static-top.css" rel="stylesheet">
 
 
     {% if page.nav == "home" %}
@@ -38,20 +38,19 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body style="margin:0px; padding:0px;">
 
-    <div class="container">
+    <div class="container-fluid" style="padding:0px">
 
 
-      {% include navbar.html %}
+      <div class="container">
+        {% include navbar.html %}
+      </div>
 
       {{ content }}
 
-      <footer class="footer">
-        <div class="contact text-center">
-          <p> Kemere Lab &#8226; Rice University &#8226; 6500 Main St &#8226; BRC 740 &#8226; Houston &#8226; TX &#8226; 77005 </p>
-        </div>
-      </footer>
+      {% include footer.html %}
+
     </div>
 
     <!-- Bootstrap core JavaScript

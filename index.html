@@ -1,11 +1,12 @@
 ---
-layout: home
+layout: default
 title: Rice Realtime Neural Engineering Lab
 nav: home
 ---
 <!-- Carousel
 ================================================== -->
-<div class="container">
+<div class="container-fluid">
+  <div class="container">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -57,99 +58,77 @@ nav: home
     <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
   </div><!-- /.carousel -->
 </div>
+</div>
 
 
-<div class="container">
+<div class="container-fluid feature-container grid">
   <a name="research"></a>
-  <hr class="featurette-divider">
-
-  <div class="row featurette">
-    <div class="col-md-7">
-      <h2>Realtime Neural Engineering.</h2>
-      <p class="lead"> We design systems to interact with complex neural circuits in vivo in
-      behaving rodents. These systems enable us to explore how information is processed, stored,
-      and retrieved in both healthy brains and in models of human neurological diseases and
-      disorders. We’re focused on two areas: <a href="/#research-memory">memory</a> and <a
-        href="/#research-dbs">deep brain stimulation</a>.</p>
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2>Realtime Neural Engineering.</h2>
+        <p class="lead"> We design systems to interact with complex neural circuits in vivo in
+        behaving rodents. These systems enable us to explore how information is processed, stored,
+        and retrieved in both healthy brains and in models of human neurological diseases and
+        disorders. We’re focused on two areas: <a href="/#research-memory">memory</a> and <a
+          href="/#research-dbs">deep brain stimulation</a>.</p>
+      </div>
+      <div class="col-md-5 hidden-xs">
+        <img class="featurette-image img-responsive" src="images/Bird.png" alt="Realtime neural
+        signal processing icon" style="height:300px;">
+      </div>
     </div>
-    <div class="col-md-5 hidden-xs">
-      <img class="featurette-image img-responsive" src="images/Bird.png" alt="Realtime neural
-      signal processing icon" style="height:300px;">
-    </div>
-    <!--
-    <div>
-      <a href="#research-memory" role="button" class="btn btn-default btn-lg form-control
-        featurette-divider"
-        style="vertical-align:bottom;padding-top:10px;border:none;background:#E3ECFA;padding-bottom:0px;line-height:1"> 
-        <span style="vertical-align:bottom" class="glyphicon glyphicon-chevron-down"> </span></a>
-    </div> -->
   </div>
 </div>
 
-<div class="container">
-  <a href="#research-memory"> 
-    <div class"featurette-divider">
-      <!--<span style="vertical-align:top; color: #ffffff; padding:5px 15px;border-radius:15px; text-align: center; background-color: #E3ECFA;">
-      </span>-->
-        <span class="glyphicon glyphicon-chevron-down"> </span>
-    </div>
-  </a>
-</div>
 
-<div class="container">
+<div class="container-fluid feature-container">
   <a name="research-memory"></a>
-  <hr class="featurette-divider">
-  <div class="row featurette">
-    <div class="col-md-5 hidden-xs">
-      <img class="featurette-image img-responsive" src="images/research-features/Jadhav_F1_F2.jpg"
-      style="width:500px" alt="Jadhav_et_al Science 2012">
-    </div>
-    <div class="col-md-7">
-      <h2>Interacting with Memory</h2>
-      <p class="lead">Forming, storing, and using memory requires the hippocampus. We are
-      developing systems that translate ongoing neural activity into information and use this
-      to manipulate the hippocampal circuit in real-time.  <em>Why is that useful?</em> We hope
-      to build systems that will, for example, allow us to <span class="text-success"><em>selectively
-          inhibit the recall or long-term storage of traumatic episodes.</em></span>
-      <a href="/research/memory.html">More information.</a></p>
-    </div>
-    <div style="padding-top:20px"> 
-      <a href="#research-dbs" role="button"class="btn btn-default btn-lg form-control"> 
-        <span  style="vertical-align:middle" class="glyphicon glyphicon-chevron-down"></span></a>
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-md-5 hidden-xs">
+        <img class="featurette-image img-responsive" src="images/research-features/Jadhav_F1_F2.jpg"
+        style="width:500px" alt="Jadhav_et_al Science 2012">
+      </div>
+      <div class="col-md-7">
+        <h2>Interacting with Memory</h2>
+        <p class="lead">Forming, storing, and using memory requires the hippocampus. We are
+        developing systems that translate ongoing neural activity into information and use this
+        to manipulate the hippocampal circuit in real-time.  <em>Why is that useful?</em> We hope
+        to build systems that will, for example, allow us to <span class="text-success"><em>selectively
+            inhibit the recall or long-term storage of traumatic episodes.</em></span>
+        <a href="/research/memory.html">More information.</a></p>
+      </div>
     </div>
   </div>
 </div>
 
-<div class="container">
+<div class="container-fluid feature-container grid">
   <a name="research-dbs"></a>
-  <hr class="featurette-divider">
-
-  <div class="row featurette">
-    <div class="col-md-7">
-      <h2>Deep brain stimulation</h2>
-      <p class="lead"><abbr title="Deep Brain Stimulation">DBS</abbr> - stimulation of midbrain
-      regions with implanted electrodes - currently benefits patients with
-      Parkinson's disease despite its side effects and crude stimulation patterns. By
-      understanding information flows in movement-generating neural circuits in healthy
-      brains, how this flow is disrupted by disease, and how DBS changes the
-      flow, we hope to <span class="text-success"><em>optimize DBS stimulation to maximize
-          therapeutic benefit and minimize side effects</em></span>.
-      <a href="/research/dbs.html">More information.</a></p>
-    </div>
-    <div class="col-md-5 hidden-xs">
-      <img class="featurette-image img-responsive" style="width:500px"
-      src="images/research-features/K1_slide1_UR_10x-cropped.jpg" alt="6-OHDA Lesion Histology">
-    </div>
-    <div style="padding-top:20px"> 
-      <a href="#research-tools" role="button"class="btn btn-default btn-lg form-control"> 
-        <span  style="vertical-align:middle" class="glyphicon glyphicon-chevron-down"></span></a>
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2>Deep brain stimulation</h2>
+        <p class="lead"><abbr title="Deep Brain Stimulation">DBS</abbr> - stimulation of midbrain
+        regions with implanted electrodes - currently benefits patients with
+        Parkinson's disease despite its side effects and crude stimulation patterns. By
+        understanding information flows in movement-generating neural circuits in healthy
+        brains, how this flow is disrupted by disease, and how DBS changes the
+        flow, we hope to <span class="text-success"><em>optimize DBS stimulation to maximize
+            therapeutic benefit and minimize side effects</em></span>.
+        <a href="/research/dbs.html">More information.</a></p>
+      </div>
+      <div class="col-md-5 hidden-xs">
+        <img class="featurette-image img-responsive" style="width:500px"
+        src="images/research-features/K1_slide1_UR_10x-cropped.jpg" alt="6-OHDA Lesion Histology">
+      </div>
     </div>
   </div>
 </div>
 
-<div class="container">
+<div class="container-fluid feature-container">
   <a name="research-tools"></a>
-  <hr class="featurette-divider">
+  <div class="container">
 
   <div class="row featurette">
     <div class="col-md-5 hidden-xs">
@@ -166,31 +145,29 @@ nav: home
       More information about <a href="/research/tools.html">tools for neuroscience and neural
         engineering</a>.</p>
     </div>
-    <div style="padding-top:20px"> 
-      <a href="#research-join" role="button"class="btn btn-default btn-lg form-control"> 
-        <span  style="vertical-align:middle" class="glyphicon glyphicon-chevron-down"></span></a>
+  </div>
+</div>
+</div>
+
+<div class="container-fluid feature-container light-gray">
+  <a name="research-join"></a>
+
+  <div class="container">
+    <div class="row featurette">
+      <div class="col-md-7">
+        <a name="research-tools"></a>
+        <h2>Interested in Working Here?</h2>
+        <p class="lead">Information for potential <a href="/news/postdocs.html">postdocs</a>, 
+        <a href="/news/gradstudents.html">graduate students</a>, and <a
+          href="/news/undergrads.html">undergraduate research assistants</a>.
+        </p>
+      </div>
+      <div class="col-md-5 hidden-xs">
+        <img class="featurette-image img-responsive" style="width:500px"
+        src="images/research-features/Kickball.jpg" alt="Kickball picture">
+      </div>
     </div>
   </div>
 </div>
-
-<div class="container">
-  <a name="research-join"></a>
-  <hr class="featurette-divider">
-
-  <div class="row featurette">
-    <div class="col-md-7">
-      <a name="research-tools"></a>
-      <h2>Interested in Working Here?</h2>
-      <p class="lead">Information for potential <a href="/news/postdocs.html">postdocs</a>, 
-      <a href="/news/gradstudents.html">graduate students</a>, and <a
-        href="/news/undergrads.html">undergraduate research assistants</a>.
-      </p>
-    </div>
-    <div class="col-md-5 hidden-xs">
-      <img class="featurette-image img-responsive" style="width:500px"
-      src="images/research-features/Kickball.jpg" alt="Kickball picture">
-    </div>
-  </div>
-  <div class="container">
 
 
