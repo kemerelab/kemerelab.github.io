@@ -1,0 +1,39 @@
+<div class="media">
+  <a class="pull-left" href="#"><img class="media-object" 
+    src="/images/headshots/fullsize/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
+    width=125 /></a>
+  <div class="media-object">
+    <h4 class="media-heading">{{indiv.name}}</h4>
+    <address>
+      {% if indiv.title %}
+      <i>{{ indiv.title }}</i><br />
+      {% endif %}
+
+      {% if indiv.title2 %}
+      <i>{{ indiv.title2 }}</i><br />
+      {% endif %}
+
+      {% if indiv.address %}
+      {{indiv.address}} <br />
+      {% endif %}
+
+      {% if indiv.phone %}
+      <abbr title="Phone">P:</abbr> {{ indiv.phone }} <br />
+      {% endif %}
+
+      {% if indiv.email %}
+      <abbr title="Email">E:</abbr> <a href="mailto:#">{{ indiv.email }}</a>
+      {% endif %}
+
+      {% if indiv.phone %}
+      <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a>
+      {% endif %}
+
+      {% if indiv.group != "Alumni" %}
+      Research Interests: {{ indiv.interests }}
+      {% elsif indiv.currentRole %}
+      Current Role: {{ indiv.currentRole }}
+      {% endif %}
+    </address>
+  </div>
+</div>

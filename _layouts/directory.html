@@ -1,0 +1,46 @@
+---
+layout: default
+title: RNEL People
+nav: people
+---
+
+<div class="container">
+
+  <h2>Group Members</h2>
+
+  <h3 class="panel-title">Principal Investigator</h3>
+  {% for indiv in page.people %}
+  {% if indiv.group =="PI" %}
+  {% include directory_entry.html %}
+  {% endif %}
+  {% endfor %}
+
+  <h3 class="panel-title">Postdocs and Staff</h3>
+  {% for indiv in page.people %}
+  {% if indiv.group =="Postdocs" %}
+  {% include directory_entry.html %}
+  {% endif %}
+  {% endfor %}
+
+  <h3 class="panel-title">Graduate Students</h3>
+  {% for indiv in page.people %}
+  {% if indiv.group =="Graduate Students" %}
+  {% include directory_entry.html %}
+  {% endif %}
+  {% endfor %}
+
+  <h3 class="panel-title">Undergraduate Assistants</h3>
+  {% for indiv in page.people %}
+  {% if indiv.group =="Undergraduate Students" %}
+  {% include directory_entry.html %}
+  {% endif %}
+  {% endfor %}
+
+  <h3 class="panel-title">Alumni</h3>
+  {% for indiv in page.people %}
+  {% if indiv.group =="Alumni" %}
+  {% include directory_entry.html %}
+  {% endif %}
+  {% endfor %}
+
+</div>
