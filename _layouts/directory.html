@@ -29,7 +29,7 @@ nav: people
   <div class="row">
     {% for indiv in page.people %}
     {% if indiv.group =="Postdocs" %}
-    <div class="col-md-6">
+    <div class="col-md-6 directory">
       {% include directory_entry.html %}
     </div>
     {% endif %}
@@ -42,7 +42,7 @@ nav: people
   <div class="row">
     {% for indiv in page.people %}
     {% if indiv.group =="Graduate Students" %}
-    <div class="col-md-6">
+    <div class="col-md-6 directory">
       {% include directory_entry.html %}
     </div>
     {% endif %}
@@ -55,7 +55,7 @@ nav: people
   <div class="row">
     {% for indiv in page.people %}
     {% if indiv.group =="Undergraduate Students" %}
-    <div class="col-md-6">
+    <div class="col-md-6 directory">
       {% include directory_entry.html %}
     </div>
     {% endif %}
@@ -68,7 +68,7 @@ nav: people
   <div class="row">
     {% for indiv in page.people %}
     {% if indiv.group =="Alumni" %}
-    <div class="col-md-6">
+    <div class="col-md-6 directory">
       {% include directory_entry.html %}
     </div>
     {% endif %}

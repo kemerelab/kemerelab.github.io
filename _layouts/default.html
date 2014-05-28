@@ -16,7 +16,6 @@
     <!-- Navigation Bar -->
     <link href="{{ site.baseurl }}css/navbar-static-top.css" rel="stylesheet">
 
-
     {% if page.nav == "home" %}
     <link href="{{ site.baseurl }}css/carousel.css" rel="stylesheet">
     {% endif %}
@@ -26,6 +25,10 @@
     {% endif %}
 
     <link href="{{ site.baseurl }}css/callouts.css" rel="stylesheet">
+
+    {% if page.nav == "people" %}
+    <link href="{{ site.baseurl }}css/directory.css" rel="stylesheet">
+    {% endif %}
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
