@@ -6,41 +6,73 @@ nav: people
 
 <div class="container">
 
-  <h2>Group Members</h2>
+  <div class="row">
+    <h2>Group Members</h2>
+  </div>
 
-  <h3 class="panel-title">Principal Investigator</h3>
-  {% for indiv in page.people %}
-  {% if indiv.group =="PI" %}
-  {% include directory_entry.html %}
-  {% endif %}
-  {% endfor %}
+  <div class="bs-callout bs-callout-info">
+    <h3 class="panel-title">Principal Investigator</h3>
+  </div>
+  <div class="row">
+    {% for indiv in page.people %}
+    {% if indiv.group =="PI" %}
+    <div class="col-md-8">
+      {% include directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
 
-  <h3 class="panel-title">Postdocs and Staff</h3>
-  {% for indiv in page.people %}
-  {% if indiv.group =="Postdocs" %}
-  {% include directory_entry.html %}
-  {% endif %}
-  {% endfor %}
+  <div class="bs-callout bs-callout-info">
+    <h3 class="panel-title">Postdocs and Staff</h3>
+  </div>
+  <div class="row">
+    {% for indiv in page.people %}
+    {% if indiv.group =="Postdocs" %}
+    <div class="col-md-6">
+      {% include directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
 
-  <h3 class="panel-title">Graduate Students</h3>
-  {% for indiv in page.people %}
-  {% if indiv.group =="Graduate Students" %}
-  {% include directory_entry.html %}
-  {% endif %}
-  {% endfor %}
+  <div class="bs-callout bs-callout-info">
+    <h3 class="panel-title">Graduate Students</h3>
+  </div>
+  <div class="row">
+    {% for indiv in page.people %}
+    {% if indiv.group =="Graduate Students" %}
+    <div class="col-md-6">
+      {% include directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
 
-  <h3 class="panel-title">Undergraduate Assistants</h3>
-  {% for indiv in page.people %}
-  {% if indiv.group =="Undergraduate Students" %}
-  {% include directory_entry.html %}
-  {% endif %}
-  {% endfor %}
+  <div class="bs-callout bs-callout-info">
+    <h3 class="panel-title">Undergraduate Assistants</h3>
+  </div>
+  <div class="row">
+    {% for indiv in page.people %}
+    {% if indiv.group =="Undergraduate Students" %}
+    <div class="col-md-6">
+      {% include directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
 
-  <h3 class="panel-title">Alumni</h3>
-  {% for indiv in page.people %}
-  {% if indiv.group =="Alumni" %}
-  {% include directory_entry.html %}
-  {% endif %}
-  {% endfor %}
+  <div class="bs-callout bs-callout-info">
+    <h3 class="panel-title">Alumni</h3>
+  </div>
+  <div class="row">
+    {% for indiv in page.people %}
+    {% if indiv.group =="Alumni" %}
+    <div class="col-md-6">
+      {% include directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
 
 </div>

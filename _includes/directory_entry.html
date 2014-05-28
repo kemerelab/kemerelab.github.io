@@ -22,17 +22,21 @@
       {% endif %}
 
       {% if indiv.email %}
-      <abbr title="Email">E:</abbr> <a href="mailto:#">{{ indiv.email }}</a>
+      <abbr title="Email">E:</abbr> <a href="mailto:#">{{ indiv.email }}</a> <br />
       {% endif %}
 
       {% if indiv.phone %}
-      <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a>
+      <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a> <br />
       {% endif %}
 
       {% if indiv.group != "Alumni" %}
+      {% if indiv.interests %}
       Research Interests: {{ indiv.interests }}
+      {% endif %}
       {% elsif indiv.currentRole %}
+      {% if indiv.currentRole %}
       Current Role: {{ indiv.currentRole }}
+      {% endif %}
       {% endif %}
     </address>
   </div>

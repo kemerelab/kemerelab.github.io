@@ -4,10 +4,12 @@ title: RNEL News
 nav: news
 ---
 
-# Lab News and Announcements
 {::options parse_block_html="true" /}
 
-<div tyle="border:black">
+<div class="container">
+## Lab News and Announcements
+
+<div style="border:black">
 __Attention!!__
 :  Information for potential [postdocs](/news/postdocs.html), [graduate students](/news/gradstudents.html), and [undergraduate research assistants](/news/undergrads.html).
 {: .callout-danger}
@@ -26,7 +28,8 @@ May 2014
 
 April 2014 
 :  CK recieves NSF CAREER Award "Dynamic Deep Brain Stimulation: From Theory to Technologies".
-   Link [here](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1351692).
+   Link [here](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1351692). 
+   [Press release](http://news.rice.edu/2014/05/27/rice-researcher-rebooting-deep-brain-stimulation/).
 {: .callout-success}
 
 March 2014 
@@ -111,4 +114,5 @@ June 2012
     Caleb Kemere, P. Walter German and Loren Frank __Science__ 15 June 2012.  Full text [here]().
     
     
+</div>
 </div>
