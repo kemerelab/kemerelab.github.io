@@ -40,6 +40,11 @@ people:
     title: Cognitive Science
     interests: Memory, motor disorders, depression
 
+  - name: Boying Meng
+    group: Undergraduate Students
+    title: Electrical and Computer Engineering
+    interests: Deep Brain Stimulation, Embedded systems
+
   - name: Paul Rockaway
     group: Undergraduate Students
     title: Electrical and Computer Engineering
