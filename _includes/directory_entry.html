@@ -1,7 +1,13 @@
 <div class="media">
+  {% if indiv.website %}
   <a class="pull-left" href="#"><img class="media-object" 
     src="/images/headshots/fullsize/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
     width=125 /></a>
+  {% else %}
+  <div class="pull-left"><img class="media-object" 
+    src="/images/headshots/fullsize/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
+    width=125 /></div>
+  {% endif %}
   <div class="media-object">
     <h4 class="media-heading">{{indiv.name}}</h4>
     <address>
@@ -25,7 +31,7 @@
       <abbr title="Email">E:</abbr> <a href="mailto:#">{{ indiv.email }}</a> <br />
       {% endif %}
 
-      {% if indiv.phone %}
+      {% if indiv.website %}
       <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a> <br />
       {% endif %}
 

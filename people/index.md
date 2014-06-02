@@ -32,8 +32,7 @@ people:
   - name: Ziying Chen
     group: Graduate Students
     title: MBioe Student Bioengineering
-    website: http://era3.web.rice.edu
-    interests: Signal processing, realtime systems
+    interests: Realtime systems, virtual reality
 
   - name: Nicola Park
     group: Undergraduate Students
