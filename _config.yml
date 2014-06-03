@@ -1,4 +1,4 @@
 name: Rice RNEL
 markdown: kramdown
-pygments: true
+highlighter: true
 url: http://rnel.rice.edu
