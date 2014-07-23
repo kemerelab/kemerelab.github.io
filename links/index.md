@@ -10,7 +10,7 @@ nav: links
 #### Local neuroengineering 
 </div>
 
-####[Neuroengineering Research Center @ Rice University]()
+####[Neuroengineering Research Center @ Rice University](http://neuroengineering.rice.edu)
 
 ####[NSF IGERT Neuroengineering Graduate Training Program @ Rice University](http://igert2.blogs.rice.edu/)
 
