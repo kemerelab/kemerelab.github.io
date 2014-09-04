@@ -18,6 +18,11 @@ people:
     title: Chemical Engineering
     interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
 
+  - name: Sarah Eagleman
+    group: Postdocs
+    title: Neuroscience
+    interests: Memory, Learning/Reward, Sleep
+
   - name: Ankit Sethi
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
