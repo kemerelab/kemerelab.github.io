@@ -14,6 +14,10 @@ __Attention!!__
 :  Information for potential [postdocs](/news/postdocs.html), [graduate students](/news/gradstudents.html), and [undergraduate research assistants](/news/undergrads.html).
 {: .callout-danger}
 
+August 2014 
+:  New people in the lab: Sarah Eagleman (postdoc) and Eric Lewis (graduate student).
+{: .callout-success}
+
 June 2014 
 :  Voice of America
 [interview](http://m.voanews.com/a/study-electric-brain-stimulation-alleviates-some-disorders/1934057.html)
