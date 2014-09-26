@@ -64,6 +64,10 @@ people:
     title: Electrical and Computer Engineering
     interests: Deep Brain Stimulation, Embedded systems
 
+  - name: Holly Liang
+    group: Undergraduate Students
+    title: Electrical and Computer Engineering
+    interests: Deep Brain Stimulation, Embedded systems
 
   - name: Samantha Summerson
     group: Alumni
