@@ -2,3 +2,9 @@ name: Rice RNEL
 markdown: kramdown
 highlighter: true
 url: http://rnel.rice.edu
+
+analytics:
+  provider : google
+  google :
+    tracking_id : UA-55673230-1
+
