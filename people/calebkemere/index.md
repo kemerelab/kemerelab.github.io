@@ -7,7 +7,7 @@ nav: calebkemere
 {::options parse_block_html="true" /}
 
 <div class="row">
-<div class="col-md-3">
+<div class="col-md-3 hidden-xs">
 <a class="thumbnail" href="#">
   <img src="CalebKemereHeadshot2.jpg" alt="[Caleb Kemere]">
 </a>
@@ -18,8 +18,9 @@ nav: calebkemere
 
 ##Caleb Kemere, PhD
 
-<strong>Assstant Professor, Electrical and Computer Engineering, Rice University  
-Adjunct Assistant Professor, Neuroscience, Baylor College of Medicine
+<strong>Assstant Professor, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
+[Rice University](http://www.rice.edu)  
+Adjunct Assistant Professor, [Neuroscience](https://www.bcm.edu/departments/neuroscience), Baylor College of Medicine
 </strong>
 
 * * *
@@ -44,11 +45,18 @@ Houston, TX 77030
 
 <h3><span class="label label-info"> Teaching </span></h3>
 
-**Spring 2015** | | ELEC327
-**Fall 2014**  | | ELEC548
+**Fall 2014**  |    | [ELEC548](http://dsp.rice.edu/courses/elec548)
+**Spring 2014** |   | [ELEC327](http://dsp.rice.edu/courses/elec327-0)
+**Fall 2013** |   | [ELEC548](http://dsp.rice.edu/courses/elec548-2013)
+**Spring 2013** |   | [ELEC327](http://dsp.rice.edu/courses/elec327)
+**Fall 2012** |   | ELEC548
+**Spring 2012** |   | ELEC631
 
 <h3><span class="label label-info"> Publications </span></h3>
-*coming soon*
+
+[Google Scholar Profile](http://scholar.google.com/citations?user=tA0QQq0AAAAJ)
+
+*full listing coming soon*
 
 
 </div>

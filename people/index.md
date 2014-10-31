@@ -11,7 +11,7 @@ people:
     address: BRC 736 | Duncan Hall 2026
     phone: 713.348.6089
     email: caleb.kemere@rice.edu
-    website: http://rnel.rice.edu/people/calebkemere
+    website: /people/calebkemere
 
   - name: Flavia Vitale
     group: Postdocs
