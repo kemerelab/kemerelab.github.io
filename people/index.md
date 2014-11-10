@@ -8,7 +8,7 @@ people:
     group: PI
     title: Asst. Professor, Electrical and Computer Engineering, Rice University
     title2: Adjunct Asst. Professor, Neuroscience, Baylor College of Medicine
-    address: BRC 736 | Duncan Hall 2026
+    address: BRC 727
     phone: 713.348.6089
     email: caleb.kemere@rice.edu
     website: /people/calebkemere
