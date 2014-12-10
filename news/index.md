@@ -15,7 +15,7 @@ __Attention!!__
 {: .callout-danger}
 
 December 2014 
-:  ![|width=100px](gallery/TNSRE_Feature.png) Samantha's paper ["Characterizing Motor and Cognitive Effects Associated With Deep Brain Stimulation in the GPi of Hemi-Parkinsonian Rats".](pubs/assets/Summerson\,\ Aazhang\,\ Kemere\ -\ IEEE\ transactions\ on\ neural\ systems\ and\ rehabilitation\ engineering\ 2014.pdf) featured on IEEE TNSRE cover and website.
+:  ![|width=100px]({{ site.url }}/gallery/TNSRE_Feature.png) Samantha's paper ["Characterizing Motor and Cognitive Effects Associated With Deep Brain Stimulation in the GPi of Hemi-Parkinsonian Rats".]({{ site.url }}pubs/assets/Summerson, Aazhang, Kemere - IEEE transactions on neural systems and rehabilitation engineering 2014.pdf) featured on IEEE TNSRE cover and website.
 {: .callout-success}
 
 August 2014 
@@ -63,7 +63,7 @@ October 2013
 :   “Current amplitude-dependent modulation of rotational behavior with GPi stimulation in the
     rodent model of Parkinson’s Disease.” __EMBS 2013__, by Summerson, Kemere, and Aazhang is
     now online. A copy can be downloaded
-    [here](pubs/assets/Summerson-Kemere-Aazhang-Engineering-in-Medicine-and-Biology-Society-EMBC-2013-35th-Annual-International-Conference-of-the-IEEE-.pdf).
+    [here]({{site.url}}pubs/assets/Summerson-Kemere-Aazhang-Engineering-in-Medicine-and-Biology-Society-EMBC-2013-35th-Annual-International-Conference-of-the-IEEE-.pdf).
 
 ^
 
