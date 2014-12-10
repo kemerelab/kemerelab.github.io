@@ -15,7 +15,7 @@ __Attention!!__
 {: .callout-danger}
 
 December 2014 
-:  <img src="/gallery/TNSRE_Feature.png" style="width: 80px;"/> Samantha's paper ["Characterizing Motor and Cognitive Effects Associated With Deep Brain Stimulation in the GPi of Hemi-Parkinsonian Rats".](/pubs/assets/Summerson, Aazhang, Kemere - IEEE transactions on neural systems and rehabilitation engineering 2014.pdf) featured on IEEE TNSRE cover and website.
+:  <img src="/gallery/TNSRE_Feature.png" style="width: 80px;"/> <br /> Samantha's paper ["Characterizing Motor and Cognitive Effects Associated With Deep Brain Stimulation in the GPi of Hemi-Parkinsonian Rats".](/pubs/assets/Summerson, Aazhang, Kemere - IEEE transactions on neural systems and rehabilitation engineering 2014.pdf) featured on IEEE TNSRE cover and website.
 {: .callout-success}
 
 August 2014 
