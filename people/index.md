@@ -46,8 +46,8 @@ people:
     
   - name: Yun Li
     group: Graduate Students
-    title: 
-    interests: 
+    title: MS Student Electrical and Computer Engineering
+    interests: Signal Processing, Neuroscience
 
   - name: Kinsey Dittmar
     group: Undergraduate Students
