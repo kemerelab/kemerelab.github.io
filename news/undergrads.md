@@ -9,7 +9,7 @@ nav: undergrad_announcement
 <div class="jumbotron">
 ##Undergraduate research in the RNEL
 
-During a typical semester at Rice University, there are one to four undergraduates doing
+During a typical semester at Rice University, there are one to four undergraduates in the lab doing
 research for course credit. The availability of these positions varies by year and depending on
 the ebb and flow of ongoing research projects. Undergraduates typically assist with animal
 behavioral experiments -- interest and excitement about neuroscience in behaving animal models
@@ -22,6 +22,8 @@ If you are interested in working in the lab, please **take a close look at our
 research** (read the research sections on the website and related papers).
 Then, please **send an email with your CV and a research statement explaining
 your interest in the lab** (we can’t reply to all generic emails received).
+For student volunteers during the school year, we typically require a commitment of at 
+least one full semester (multiple semesters are ideal) and at least 10 hours per week.
 
 We occasionally welcome undergraduates who are not students at Rice University for summer
 internships, but this typically requries bringing outside financial support. 
