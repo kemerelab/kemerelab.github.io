@@ -14,6 +14,18 @@ __Attention!!__
 :  Information for potential [postdocs](/news/postdocs.html), [graduate students](/news/gradstudents.html), and [undergraduate research assistants](/news/undergrads.html).
 {: .callout-danger}
 
+March 2015
+:  [Engadget coverage](http://www.engadget.com/2015/03/27/carbon-nanotubes-parkinsons-therapy/)
+of Flavia Vitale's CNT fiber electrode paper in __ACS__Nano.
+{: .callout-success}
+
+March 2015
+:   “Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber
+    Microelectrodes.” __ACS Nano__, by Vitale, Summerson, Aazhang, Kemere, and Pasquali is
+    now [online](http://pubs.acs.org/doi/abs/10.1021/acsnano.5b01060).
+    
+^
+
 December 2014 
 :  <img src="/gallery/TNSRE_Feature.png" style="width: 80px; float:right;"/> Samantha's paper ["Characterizing Motor and Cognitive Effects Associated With Deep Brain Stimulation in the GPi of Hemi-Parkinsonian Rats".](/pubs/assets/Summerson, Aazhang, Kemere - IEEE transactions on neural systems and rehabilitation engineering 2014.pdf) featured on IEEE TNSRE cover and website.
 {: .callout-success}
