@@ -16,13 +16,14 @@ __Attention!!__
 
 March 2015
 :  [Engadget coverage](http://www.engadget.com/2015/03/27/carbon-nanotubes-parkinsons-therapy/)
-of Flavia Vitale's CNT fiber electrode paper in __ACS__Nano.
+of Flavia Vitale's CNT fiber electrode paper in _ACS Nano_.
 {: .callout-success}
 
 March 2015
 :   “Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber
-    Microelectrodes.” __ACS Nano__, by Vitale, Summerson, Aazhang, Kemere, and Pasquali is
+    Microelectrodes.” _ACS Nano_, by Vitale, Summerson, Aazhang, Kemere, and Pasquali is
     now [online](http://pubs.acs.org/doi/abs/10.1021/acsnano.5b01060).
+{: .callout-success}
     
 ^
 
@@ -32,7 +33,7 @@ December 2014
 
 August 2014 
 :  New people in the lab: Sarah Eagleman (postdoc) and Eric Lewis (graduate student).
-{: .callout-success}
+{: .callout-info}
 
 June 2014 
 :  Voice of America
