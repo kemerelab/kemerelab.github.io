@@ -8,20 +8,20 @@ nav: etienneackermann
 
 
 <div class="row">
-	<div class="col-md-3 hidden-xs">
-	<a class="thumbnail" href="#">
-	  <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
-	</a>
-	</div>
+<div class="col-md-3 hidden-xs">
+<a class="thumbnail" href="#">
+<img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
+</a>
+</div>
 
 
-	<div class="col-md-9 lead">
+<div class="col-md-9 lead">
 
-	##Etienne Ackermann
+##Etienne Ackermann
 
-	<strong>Graduate Student, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
-	[Rice University](http://www.rice.edu)
-	</strong>
+<strong>Graduate Student, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
+[Rice University](http://www.rice.edu)
+</strong>
 
 	* * *
 
