@@ -91,7 +91,7 @@ nav: etienneackermann
 
 <p>Blah blah blah</p>
 </div>
-
+<!--
 <h3><span class="label label-info"> Education</span></h3>
 
 2005-2008 | | B.Eng (Computer Engineering), University of Pretoria, South Africa
@@ -100,7 +100,7 @@ nav: etienneackermann
 2011-2013 | | MA (Computational and Applied Mathematics), Rice University, Houston TX
 2013- | | PhD (Electrical and Computer Engineering), Rice University, Houston TX
 
-<!--
+
 <h3><span class="label label-info"> Teaching </span></h3>
 
 **Fall 2014**  |    | [ELEC548](http://dsp.rice.edu/courses/elec548)
