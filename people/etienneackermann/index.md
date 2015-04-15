@@ -50,8 +50,7 @@ nav: etienneackermann
 <p>Blah blah blah</p>
 </div>
 
-<div class="row">
-<div class="bs-callout bs-callout-warning">
+<div class="row bs-callout bs-callout-warning">
 ###Three dimensional spatial representation in the hippocampus
 
 <div class="col-md-2">
@@ -66,7 +65,6 @@ nav: etienneackermann
 <p>Blah blah blah</p>
 </div>
 
-</div>
 </div>
 
 <div class="bs-callout bs-callout-funding">
