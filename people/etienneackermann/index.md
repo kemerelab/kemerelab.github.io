@@ -55,18 +55,18 @@ nav: etienneackermann
 <div class="bs-callout bs-callout-warning">
 ###Three dimensional spatial representation in the hippocampus
 
-<div class="col-md-3 hidden-xs">
+<div class="col-md-2">
 <a class="thumbnail" href="#">
   <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
 </a>
-
-<div class="col-md-9 lead">
+</div>
+<div class="col-md-10">
 
 <p>This is a project description</p>
 
 <p>Blah blah blah</p>
 </div>
-</div>
+
 </div>
 
 <div class="bs-callout bs-callout-funding">
