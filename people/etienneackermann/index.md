@@ -37,7 +37,8 @@ Houston, TX 77030
 
 * * * 
 
-<div class="row">
+<div class="container">
+##Projects
 
 <h2><span class="label label-info"> Projects</span></h2>
 
@@ -50,7 +51,7 @@ Houston, TX 77030
 </div>
 
 <div class="bs-callout bs-callout-warning">
-### Three dimensional spatial representation in the hippocampus
+####Three dimensional spatial representation in the hippocampus
 
 <p>This is a project description</p>
 
