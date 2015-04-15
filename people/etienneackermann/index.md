@@ -34,38 +34,31 @@ Biosciences Research Collaborative 702
 Houston, TX 77030
 </strong>
 
-<div class="bs-callout bs-callout-success">
-####Conference Papers
+<h3><span class="label label-info"> Projects</span></h3>
 
+<div class="bs-callout bs-callout-success">
+###Probabilistic modeling of neural reactivation
+
+<p>This is a project description</p>
+
+<p>Blah blah blah</p>
 </div>
 
 <div class="bs-callout bs-callout-warning">
-#### Useful Links 
+#### Three dimensional spatial representation in the hippocampus
 </div>
 
 <div class="bs-callout bs-callout-funding">
-#### Funding 
+#### Uninterupted chronic wireless neural recording 
 </div>
 
 <div class="bs-callout bs-callout-danger">
-#### Useful Links 
+#### High density microdrive tetrode array 
 </div>
 
 <div class="bs-callout bs-callout-info">
-#### Funding 
+#### Real-time video tracking and offline video analysis and annotation 
 </div>
-
-<h3><span class="label label-info"> Projects</span></h3>
-
-<h4><span class="label label-info"> Probabilistic modeling of neural reactivation</span></h4>
-
-<h4><span class="label label-info"> Three dimensional spatial representation in the hippocampus</span></h4>
-
-<h4><span class="label label-info"> Uninterupted chronic wireless neural recording</span></h4>
-
-<h4><span class="label label-info"> High density microdrive tetrode array</span></h4>
-
-<h4><span class="label label-info"> Real-time video tracking and offline video analysis and annotation</span></h4>
 
 <h3><span class="label label-info"> Education</span></h3>
 
