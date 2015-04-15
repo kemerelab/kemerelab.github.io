@@ -6,7 +6,6 @@ nav: etienneackermann
 
 {::options parse_block_html="true" /}
 
-<div class="container-fluid">
 <div class="row">
 	<div class="col-md-3 hidden-xs">
 	<a class="thumbnail" href="#">
@@ -35,7 +34,6 @@ nav: etienneackermann
 	Houston, TX 77030
 	</strong>
 	</div>
-</div>
 </div>
 
 * * * 
@@ -70,11 +68,6 @@ nav: etienneackermann
 </div>
 
 <div class="bs-callout bs-callout-funding">
-<div class="col-md-3 hidden-xs">
-<a class="thumbnail" href="#">
-  <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
-</a>
-</div>
 ### Uninterupted chronic wireless neural recording
 
 <p>This is a project description</p>
