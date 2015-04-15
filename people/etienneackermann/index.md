@@ -56,9 +56,12 @@ Houston, TX 77030
   <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
 </a>
 
+<div class="col-md-9 lead">
+
 <p>This is a project description</p>
 
 <p>Blah blah blah</p>
+</div>
 </div>
 
 <div class="bs-callout bs-callout-funding">
