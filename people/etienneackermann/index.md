@@ -35,10 +35,13 @@ Houston, TX 77030
 </strong>
 </div>
 
-<div class="row">
-<h3><span class="label label-info"> Projects</span></h3>
+* * * 
 
-<div class="bs-callout bs-callout-success">
+<div class="row">
+
+<h2><span class="label label-info"> Projects</span></h2>
+
+<div class="bs-callout bs-callout-info">
 ###Probabilistic modeling of neural reactivation
 
 <p>This is a project description</p>
@@ -70,7 +73,7 @@ Houston, TX 77030
 <p>Blah blah blah</p>
 </div>
 
-<div class="bs-callout bs-callout-info">
+<div class="bs-callout bs-callout-success">
 ### Real-time video tracking and offline video analysis and annotation
 
 <p>This is a project description</p>
