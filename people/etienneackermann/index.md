@@ -6,7 +6,7 @@ nav: etienneackermann
 
 {::options parse_block_html="true" /}
 
-
+<div class="container">
 <div class="row">
 <div class="col-md-3 hidden-xs">
 <a class="thumbnail" href="#">
@@ -23,23 +23,21 @@ nav: etienneackermann
 [Rice University](http://www.rice.edu)
 </strong>
 
-	* * *
+* * *
 
-	<h3><span class="label label-info"> Contact info </span></h3>
+<h3><span class="label label-info"> Contact info </span></h3>
 
-	**email: etienne.ackermann <i>at</i> rice.edu**
+**email: etienne.ackermann <i>at</i> rice.edu**
 
-	<strong>
-	6500 Main St  
-	Biosciences Research Collaborative 702  
-	Houston, TX 77030
-	</strong>
-	</div>
+<strong>
+6500 Main St  
+Biosciences Research Collaborative 702  
+Houston, TX 77030
+</strong>
+</div>
+</div>
 
-
-* * * 
-
-
+* * *
 
 <h2><span class="label label-info"> Projects</span></h2>
 
