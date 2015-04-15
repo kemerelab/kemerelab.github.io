@@ -26,7 +26,7 @@ nav: etienneackermann
 
 <h3><span class="label label-info"> Contact info </span></h3>
 
-**email: etienne.ackermann@rice.edu**
+**email: etienne.ackermann <i>at</i> rice.edu**
 
 <strong>
 6500 Main St  
@@ -34,6 +34,38 @@ Biosciences Research Collaborative 702
 Houston, TX 77030
 </strong>
 
+<div class="bs-callout bs-callout-success">
+####Conference Papers
+
+</div>
+
+<div class="bs-callout bs-callout-warning">
+#### Useful Links 
+</div>
+
+<div class="bs-callout bs-callout-funding">
+#### Funding 
+</div>
+
+<div class="bs-callout bs-callout-danger">
+#### Useful Links 
+</div>
+
+<div class="bs-callout bs-callout-info">
+#### Funding 
+</div>
+
+<h3><span class="label label-info"> Projects</span></h3>
+
+<h4><span class="label label-info"> Probabilistic modeling of neural reactivation</span></h4>
+
+<h4><span class="label label-info"> Three dimensional spatial representation in the hippocampus</span></h4>
+
+<h4><span class="label label-info"> Uninterupted chronic wireless neural recording</span></h4>
+
+<h4><span class="label label-info"> High density microdrive tetrode array</span></h4>
+
+<h4><span class="label label-info"> Real-time video tracking and offline video analysis and annotation</span></h4>
 
 <h3><span class="label label-info"> Education</span></h3>
 
