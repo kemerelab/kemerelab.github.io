@@ -6,6 +6,7 @@ nav: etienneackermann
 
 {::options parse_block_html="true" /}
 
+<div class="container">
 <div class="row">
 	<div class="col-md-3 hidden-xs">
 	<a class="thumbnail" href="#">
@@ -35,9 +36,11 @@ nav: etienneackermann
 	</strong>
 	</div>
 
+</div>
+
 * * * 
 
-<div class="container">
+
 
 <h2><span class="label label-info"> Projects</span></h2>
 
@@ -116,5 +119,5 @@ nav: etienneackermann
 
 -->
 </div>
-</div>
+
 
