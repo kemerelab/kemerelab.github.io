@@ -34,7 +34,6 @@ nav: etienneackermann
 	Houston, TX 77030
 	</strong>
 	</div>
-</div>
 
 * * * 
 
@@ -116,5 +115,6 @@ nav: etienneackermann
 *full listing coming soon*
 
 -->
+</div>
 </div>
 
