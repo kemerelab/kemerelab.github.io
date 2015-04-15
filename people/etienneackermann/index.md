@@ -6,33 +6,36 @@ nav: etienneackermann
 
 {::options parse_block_html="true" /}
 
+<div class="container-fluid">
 <div class="row">
-<div class="col-md-3 hidden-xs">
-<a class="thumbnail" href="#">
-  <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
-</a>
+	<div class="col-md-3 hidden-xs">
+	<a class="thumbnail" href="#">
+	  <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
+	</a>
+	</div>
+
+
+	<div class="col-md-9 lead">
+
+	##Etienne Ackermann
+
+	<strong>Graduate Student, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
+	[Rice University](http://www.rice.edu)
+	</strong>
+
+	* * *
+
+	<h3><span class="label label-info"> Contact info </span></h3>
+
+	**email: etienne.ackermann <i>at</i> rice.edu**
+
+	<strong>
+	6500 Main St  
+	Biosciences Research Collaborative 702  
+	Houston, TX 77030
+	</strong>
+	</div>
 </div>
-
-
-<div class="col-md-9 lead">
-
-##Etienne Ackermann
-
-<strong>Graduate Student, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
-[Rice University](http://www.rice.edu)
-</strong>
-
-* * *
-
-<h3><span class="label label-info"> Contact info </span></h3>
-
-**email: etienne.ackermann <i>at</i> rice.edu**
-
-<strong>
-6500 Main St  
-Biosciences Research Collaborative 702  
-Houston, TX 77030
-</strong>
 </div>
 
 * * * 
@@ -121,4 +124,4 @@ Houston, TX 77030
 
 -->
 </div>
-</div>
+
