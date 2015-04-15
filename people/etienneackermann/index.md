@@ -33,7 +33,9 @@ nav: etienneackermann
 Biosciences Research Collaborative 702  
 Houston, TX 77030
 </strong>
+</div>
 
+<div class="row">
 <h3><span class="label label-info"> Projects</span></h3>
 
 <div class="bs-callout bs-callout-success">
@@ -45,19 +47,35 @@ Houston, TX 77030
 </div>
 
 <div class="bs-callout bs-callout-warning">
-#### Three dimensional spatial representation in the hippocampus
+### Three dimensional spatial representation in the hippocampus
+
+<p>This is a project description</p>
+
+<p>Blah blah blah</p>
 </div>
 
 <div class="bs-callout bs-callout-funding">
-#### Uninterupted chronic wireless neural recording 
+### Uninterupted chronic wireless neural recording
+
+<p>This is a project description</p>
+
+<p>Blah blah blah</p>
 </div>
 
 <div class="bs-callout bs-callout-danger">
-#### High density microdrive tetrode array 
+### High density microdrive tetrode array
+
+<p>This is a project description</p>
+
+<p>Blah blah blah</p>
 </div>
 
 <div class="bs-callout bs-callout-info">
-#### Real-time video tracking and offline video analysis and annotation 
+### Real-time video tracking and offline video analysis and annotation
+
+<p>This is a project description</p>
+
+<p>Blah blah blah</p>
 </div>
 
 <h3><span class="label label-info"> Education</span></h3>
