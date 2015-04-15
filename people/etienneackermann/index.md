@@ -58,7 +58,7 @@ nav: etienneackermann
   <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
 </a>
 </div>
-<div class="col-md-10">
+<div class="col-md-10 lead">
 
 <p>This is a project description</p>
 
