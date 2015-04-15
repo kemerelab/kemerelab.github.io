@@ -38,7 +38,6 @@ Houston, TX 77030
 * * * 
 
 <div class="container">
-</br>
 
 <h2><span class="label label-info"> Projects</span></h2>
 
@@ -52,6 +51,10 @@ Houston, TX 77030
 
 <div class="bs-callout bs-callout-warning">
 ###Three dimensional spatial representation in the hippocampus
+
+<a class="thumbnail" href="#">
+  <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
+</a>
 
 <p>This is a project description</p>
 
