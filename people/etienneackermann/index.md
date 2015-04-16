@@ -54,7 +54,7 @@ Houston, TX 77030
 
 <div class="col-md-2">
 <a class="thumbnail" href="#">
-  <img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
+  <img src="logo_elevator.svg" alt="[Etienne Ackermann]">
 </a>
 </div>
 <div class="col-md-10 lead">
