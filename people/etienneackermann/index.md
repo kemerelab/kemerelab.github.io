@@ -54,7 +54,7 @@ Houston, TX 77030
 
 <div class="col-md-2">
 <a class="thumbnail" href="#">
-  <img src="logoelevator.png" alt="[logoelevator]">
+  <img src="logoelevator.svg" alt="[logoelevatorsvg]">
 </a>
 </div>
 <div class="col-md-10 lead">
