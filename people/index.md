@@ -23,11 +23,6 @@ people:
     title: Neuroscience
     interests: Memory, Learning/Reward, Sleep
 
-  - name: Ankit Sethi
-    group: Graduate Students
-    title: PhD Student Electrical and Computer Engineering
-    interests: Signal processing, realtime systems
-
   - name: Etienne Ackermann
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
@@ -126,5 +121,9 @@ people:
     title: BS Cognitive Science
     interests: Lucid dreaming, neuroscience
     currentRole: Research assistant
+
+  - name: Ankit Sethi
+    group: Alumni
+
 ---
 
