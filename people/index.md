@@ -31,7 +31,7 @@ people:
 
   - name: Ziying Chen
     group: Graduate Students
-    title: MBioe Student Bioengineering
+    title: PhD Student Electrical and Computer Engineering
     interests: Realtime systems, virtual reality
     
   - name: Eric Lewis
@@ -39,11 +39,6 @@ people:
     title: PhD Student Electrical and Computer Engineering
     interests: Deep Brain Stimulation
     
-  - name: Yun Li
-    group: Graduate Students
-    title: MS Student Electrical and Computer Engineering
-    interests: Signal Processing, Neuroscience
-
   - name: Kinsey Dittmar
     group: Undergraduate Students
     title: BS Cognitive Science
