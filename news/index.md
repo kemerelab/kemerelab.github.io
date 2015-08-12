@@ -14,6 +14,11 @@ __Attention!!__
 :  Information for potential [postdocs](/news/postdocs.html), [graduate students](/news/gradstudents.html), and [undergraduate research assistants](/news/undergrads.html).
 {: .callout-danger}
 
+June 2015
+:  Welcome lab summer students Kinsey Dittmar, Zohra Baig, Caleb Lu, ZJ Zheng, Billy Anderson,
+Kallen Song.
+{: .callout-info}
+
 March 2015
 :  [Engadget coverage](http://www.engadget.com/2015/03/27/carbon-nanotubes-parkinsons-therapy/)
 of Flavia Vitale's CNT fiber electrode paper in _ACS Nano_.
