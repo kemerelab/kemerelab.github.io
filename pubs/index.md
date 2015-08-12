@@ -11,11 +11,16 @@ nav: pubs
 ##Publications and Conference Presentations
 
 <div class="bs-callout bs-callout-info">
-####Journal Papers and Books
+####Journal Papers
+
+<p> S. R. Summerson, B. Aazhang and C. Kemere. Investigating irregularly patterned deep brain
+stimulation signal design using biophysical models. <i>Frontuers in Computational
+Neuroscience</i> vol. 9, no. 78, June 26, 2015.</p>
 
 <p>S. Summerson, B. Aazhang, C. Kemere (2014). Characterizing Motor
 and Cognitive Effects Associated with Deep Brain Stimulation in the GPi of Hemi-Parkinsonian
-Rats. <i>Accepted, TNSRE.</i></p>
+Rats. <i>IEEE Transactions on Neural Systems and Rehabilitation Egnineering,</i> vol. 22, no.
+6, pp. 1218-1227, November 2014.</p>
 
 <p>C. Kemere, M. F. Carr, M. P. Karlsson, L. M. Frank (2013). Rapid and Continuous
 Modulation of Hippocampal Network State during Exploration of New Places. <i>PloS</i><i>
@@ -25,25 +30,25 @@ Modulation of Hippocampal Network State during Exploration of New Places. <i>Plo
   Visualized Experiments, invited/in preparation</i>.</p>
 
 <p>S.  P. Jadhav, C. Kemere, P. W. German, and L. M. Frank, Awake hippocampal
-sharp-wave ripples support spatial memory., <i>Science</i>, vol.  336, no. 6087, pp.
+sharp-wave ripples support spatial memory.x, <i>Science</i>, vol.  336, no. 6087, pp.
 1454&#8211;8, June 2012.</p>
 
 <p>C. Kemere, G. Santhanam, B. M. Yu, A. Afshar, S. I. Ryu, T. H. Meng, and K. V.
 Shenoy, Detecting neural-state transitions using hidden Markov models for motor cortical
-prostheses, <i>Journal of Neurophysiology</i>, vol. 100, no. 4, pp. 2441&#8211;52, October
+prosthesesr., <i>Journal of Neurophysiology</i>, vol. 100, no. 4, pp. 2441&#8211;52, October
 2008.</p>
 
 <p>B.  M. Yu, C. Kemere, G. Santhanam, A. Afshar, S. I. Ryu, T. H. Meng, M. Sahani, and
-K. V. Shenoy, Mixture of trajectory models for neural decoding of goal-directed movements.,
+K. V. Shenoy, Mixture of trajectory models for neural decoding of goal-directed movements.
 <i>Journal of Neurophysiology</i>, vol. 97, no. 5, pp.  3763&#8211;80, May 2007.</p>
 
 <p>C. Kemere, K. V. Shenoy, and T. H. Meng, &nbsp;Model-based neural decoding of
-reaching movements: a maximum likelihood approach, <i>IEEE Transactions on Biomedical
+reaching movements: a maximum likelihood approach. <i>IEEE Transactions on Biomedical
   Engineering</i>, vol. 51, no. 6, pp. 925&#8211;32, June 2004.</p>
 
 <p>Z.  S. Zumsteg, C. Kemere, S. O&rsquo;Driscoll, G. Santhanam, R. E. Ahmed, K. V. Shenoy,
 and T. H. Meng, Power feasibility of implantable digital spike sorting circuits for neural
-prosthetic systems., <i>IEEE Transactions on Neural Systems and Reabilitation Engineering</i>,
+prosthetic systems. <i>IEEE Transactions on Neural Systems and Reabilitation Engineering</i>,
 vol. 13, no. 3, pp. 272&#8211;9, September 2005.</p>
 
 </div>
@@ -85,7 +90,15 @@ of plan and peri-movement neural signals in prosthetic systems. <i>Proc. IEEE Wo
 </div>
 
 <div class="bs-callout bs-callout-info">
-####Reviews
+####Reviews and Book Chapters
+
+<p>D. M. Friend, C. Kemere and A. V. Kravitz. Quantifying Recording Quality in
+In Vivo Striatal Recordings. <i>Current Protocols in Neuroscience</i>, vol. 70, pp. 6–28,
+January 2015.</p>
+
+<p> S. Summerson and C. Kemere. Multi-electrode Recording of Neural Activity in Awake
+Behaving Animals. In E. Covey & M. Carter (Eds.), <i>Basic Electrophysiological Methods</i>,pp.
+76–107, Oxford Univ Press.</p>
 
 <p>Krishna Shenoy et al., Increasing the performance of cortically-controlled prostheses.
 <i>Proc. of the 28<sup>th</sup> Annual Conference of the IEEE EMBS (EMBS&rsquo;08)</i>, pp.
