@@ -19,15 +19,25 @@ people:
     interests: Signal processing, realtime systems
     website: /people/etienneackermann
 
+  - name: Eric Lewis
+    group: Graduate Students
+    title: PhD Student Electrical and Computer Engineering
+    interests: Deep Brain Stimulation
+    
   - name: Ziying Chen
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
     interests: Realtime systems, virtual reality
     
-  - name: Eric Lewis
+  - name: Shayok Dutta
     group: Graduate Students
-    title: PhD Student Electrical and Computer Engineering
-    interests: Deep Brain Stimulation
+    title: Rotating PhD Student Electrical and Computer Engineering
+    interests: Realtime systems, neural signal processing
+    
+  - name: Joshua Chu
+    group: Graduate Students
+    title: Rotating PhD Student Electrical and Computer Engineering
+    interests: Realtime systems, neural signal processing
     
   - name: Kinsey Dittmar
     group: Undergraduate Students
