@@ -13,16 +13,6 @@ people:
     email: caleb.kemere@rice.edu
     website: /people/calebkemere
 
-  - name: Flavia Vitale
-    group: Postdocs
-    title: Chemical Engineering
-    interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
-
-  - name: Sarah Eagleman
-    group: Postdocs
-    title: Neuroscience
-    interests: Memory, Learning/Reward, Sleep
-
   - name: Etienne Ackermann
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
@@ -55,11 +45,6 @@ people:
     interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
 
   - name: Anika Zaman
-    group: Undergraduate Students
-    title: BS Electrical and Computer Engineering
-    interests: Learning and memory, Deep Brain Stimulation
-
-  - name: Zongjun Zheng
     group: Undergraduate Students
     title: BS Electrical and Computer Engineering
     interests: Learning and memory, Deep Brain Stimulation
@@ -115,10 +100,26 @@ people:
     group: Alumni
     title: BS Cognitive Science
     interests: Lucid dreaming, neuroscience
-    currentRole: Research assistant
+    currentRole: Research assistant, UW
 
   - name: Ankit Sethi
     group: Alumni
+
+  - name: Flavia Vitale
+    group: Alumni
+    title: Postdoctoral Fellow in Chemical Engineering
+    interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
+
+  - name: Sarah Eagleman
+    group: Postdocs
+    title: Postdoctoral Fellow in Neuroscience
+    interests: Memory, Learning/Reward, Sleep
+
+  - name: Zongjun Zheng
+    group: Undergraduate Students
+    title: BS Electrical and Computer Engineering
+    interests: Learning and memory, Deep Brain Stimulation
+
 
 ---
 
