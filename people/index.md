@@ -43,6 +43,11 @@ people:
     group: Undergraduate Students
     title: BS Cognitive Science
     interests: Deep Brain Stimulation, Spatial navigation
+
+  - name: Caleb Lu
+    group: Undergraduate Students
+    title: unknown
+    interests: unknown
     
   - name: Zohra Baig
     group: Undergraduate Students
@@ -50,22 +55,17 @@ people:
     interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
 
   - name: Jon Towne
-    group: Undergraduate Students
+    group: Alumni
     title: BS Bioengineering
     interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
 
   - name: Anika Zaman
-    group: Undergraduate Students
+    group: Alumni
     title: BS Electrical and Computer Engineering
     interests: Learning and memory, Deep Brain Stimulation
 
   - name: James Coffelt
-    group: Undergraduate Students
-    title: unknown
-    interests: unknown
-
-  - name: Caleb Lu
-    group: Undergraduate Students
+    group: Alumni
     title: unknown
     interests: unknown
 
