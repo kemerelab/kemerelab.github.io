@@ -126,9 +126,11 @@ people:
     interests: Memory, Learning/Reward, Sleep
 
   - name: Zongjun Zheng
-    group: Undergraduate Students
+    group: Alumbi
     title: BS Electrical and Computer Engineering
     interests: Learning and memory, Deep Brain Stimulation
+    currentRole: PhD Student, Electrical Engineering, Caltech
+
 
 
 ---
