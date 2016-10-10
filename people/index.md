@@ -54,17 +54,14 @@ people:
     title: High school volunteer
     interests: unknown
 
+{% Alumni -------------------%}
+
   - name: Flavia Vitale
     group: Alumni
     title: Postdoctoral Fellow in Chemical Engineering
     interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
     currentRole: Postdoctoral Researcher at the Center for Neuroengineering & Therapeutics, University of Pennsylvania
 
-  - name: Sarah Eagleman
-    group: Alumni
-    title: Postdoctoral Fellow in Neuroscience
-    interests: Memory, Learning/Reward, Sleep
-    
   - name: Samantha Summerson
     group: Alumni
     title: PhD, Electrical and Computer Engineering
@@ -106,6 +103,11 @@ people:
     title: Electrical and Computer Engineering
     currentRole: Oracle, MS Student, Electrical Engineering, Stanford
 
+  - name: Sarah Eagleman
+    group: Alumni
+    title: Postdoctoral Fellow in Neuroscience
+    interests: Memory, Learning/Reward, Sleep
+    
   - name: Paul Rockaway
     group: Alumni
     title: Electrical and Computer Engineering
