@@ -53,12 +53,72 @@ people:
     group: Volunteers
     title: High school volunteer
     interests: unknown
+
+  - name: Flavia Vitale
+    group: Alumni
+    title: Postdoctoral Fellow in Chemical Engineering
+    interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
+    currentRole: Postdoctoral Researcher at the Center for Neuroengineering & Therapeutics, University of Pennsylvania
+
+  - name: Sarah Eagleman
+    group: Alumni
+    title: Postdoctoral Fellow in Neuroscience
+    interests: Memory, Learning/Reward, Sleep
     
+  - name: Samantha Summerson
+    group: Alumni
+    title: PhD, Electrical and Computer Engineering
+    website: http://www.ece.rice.edu/~srs1/
+    interests: Movement disorders, optimizing deep brain stimulation, information theory
+    currentRole: Postdoc, Carmena Lab, UC Berkeley
+
+  - name: Josh Chartier
+    group: Alumni
+    title: BS Electrical and Computer Engineering
+    interests: Neuroscience, neuro-engineering
+    currentRole: PhD Student, Bioengineering, UC Berkeley
+
+  - name: Christopher Liu
+    group: Alumni
+    title: BS Cognitive Science
+    interests: Lucid dreaming, neuroscience
+    currentRole: MS Student, Electrical Engineering, Stanford
+
+  - name: Boying Meng
+    group: Alumni
+    title: Electrical and Computer Engineering
+    currentRole: PhD Student, Electrical Engineering, MIT
+
+  - name: Zongjun Zheng
+    group: Alumbi
+    title: BS Electrical and Computer Engineering
+    interests: Learning and memory, Deep Brain Stimulation
+    currentRole: PhD Student, Electrical Engineering, Caltech
+
   - name: Kinsey Dittmar
     group: Alumni
     title: BS Cognitive Science
     interests: Deep Brain Stimulation, Spatial navigation
     currentRole: Wagoner Fellow in Yetebon, Ethiopia, UTSA Medical Student
+
+  - name: Paul Rockaway
+    group: Alumni
+    title: Electrical and Computer Engineering
+
+  - name: Tam Vu
+    group: Alumni
+    title: Electrical and Computer Engineering
+
+  - name: Ankit Sethi
+    group: Alumni
+
+  - name: Michael Tsehaie
+    group: Alumni
+    title: Electrical and Computer Engineering
+
+  - name: Holly Liang
+    group: Alumni
+    title: Electrical and Computer Engineering
 
   - name: Caleb Lu
     group: Alumni
@@ -88,65 +148,6 @@ people:
   - name: Nicola Park
     group: Alumni
     title: Cognitive Science
-
-  - name: Boying Meng
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Paul Rockaway
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Tam Vu
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Michael Tsehaie
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Holly Liang
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Samantha Summerson
-    group: Alumni
-    title: PhD, Electrical and Computer Engineering
-    website: http://www.ece.rice.edu/~srs1/
-    interests: Movement disorders, optimizing deep brain stimulation, information theory
-    currentRole: Postdoc, Carmena Lab, UC Berkeley
-
-  - name: Josh Chartier
-    group: Alumni
-    title: BS Electrical and Computer Engineering
-    interests: Neuroscience, neuro-engineering
-    currentRole: PhD Student, Bioengineering, UC Berkeley
-
-  - name: Christopher Liu
-    group: Alumni
-    title: BS Cognitive Science
-    interests: Lucid dreaming, neuroscience
-    currentRole: Research assistant, UW
-
-  - name: Ankit Sethi
-    group: Alumni
-
-  - name: Flavia Vitale
-    group: Alumni
-    title: Postdoctoral Fellow in Chemical Engineering
-    interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
-
-  - name: Sarah Eagleman
-    group: Alumni
-    title: Postdoctoral Fellow in Neuroscience
-    interests: Memory, Learning/Reward, Sleep
-
-  - name: Zongjun Zheng
-    group: Alumbi
-    title: BS Electrical and Computer Engineering
-    interests: Learning and memory, Deep Brain Stimulation
-    currentRole: PhD Student, Electrical Engineering, Caltech
-
 
 
 ---
