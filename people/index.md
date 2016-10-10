@@ -44,8 +44,14 @@ people:
     title: Rotating PhD Student Electrical and Computer Engineering
     interests: Realtime systems, neural signal processing
 
+  - name: Lauren Yeom 
+    group: Undergraduate Assistants
+    title: Undergraduate research assistant
+    interests: unknown
+    
+
   - name: Siddhartha Shektar
-    group: Graduate Students
+    group: Undergraduate Assistants
     title: High school volunteer
     interests: unknown
     
@@ -132,7 +138,7 @@ people:
     interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
 
   - name: Sarah Eagleman
-    group: Postdocs
+    group: Alumni
     title: Postdoctoral Fellow in Neuroscience
     interests: Memory, Learning/Reward, Sleep
 
