@@ -54,8 +54,6 @@ people:
     title: High school volunteer
     interests: unknown
 
-{% Alumni -------------------%}
-
   - name: Flavia Vitale
     group: Alumni
     title: Postdoctoral Fellow in Chemical Engineering
