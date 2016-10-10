@@ -101,6 +101,11 @@ people:
     interests: Deep Brain Stimulation, Spatial navigation
     currentRole: Wagoner Fellow in Yetebon, Ethiopia, UTSA Medical Student
 
+  - name: Holly Liang
+    group: Alumni
+    title: Electrical and Computer Engineering
+    currentRole: Oracle, MS Student, Electrical Engineering, Stanford
+
   - name: Paul Rockaway
     group: Alumni
     title: Electrical and Computer Engineering
@@ -113,10 +118,6 @@ people:
     group: Alumni
 
   - name: Michael Tsehaie
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Holly Liang
     group: Alumni
     title: Electrical and Computer Engineering
 
