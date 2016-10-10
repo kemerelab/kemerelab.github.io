@@ -50,11 +50,18 @@ nav: people
   </div>
 
   <div class="bs-callout bs-callout-info">
-    <h3 class="panel-title">Undergraduate Assistants</h3>
+    <h3 class="panel-title">Research Assistants</h3>
   </div>
   <div class="row">
     {% for indiv in page.people %}
     {% if indiv.group =="Undergraduate Students" %}
+    <div class="col-md-6 directory">
+      {% include directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+    {% for indiv in page.people %}
+    {% if indiv.group =="Volunteers" %}
     <div class="col-md-6 directory">
       {% include directory_entry.html %}
     </div>

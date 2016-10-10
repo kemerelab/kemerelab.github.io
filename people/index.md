@@ -45,13 +45,12 @@ people:
     interests: Realtime systems, neural signal processing
 
   - name: Lauren Yeom 
-    group: Undergraduate Assistants
+    group: Undergraduate Students
     title: Undergraduate research assistant
     interests: unknown
     
-
   - name: Siddhartha Shektar
-    group: Undergraduate Assistants
+    group: Volunteers
     title: High school volunteer
     interests: unknown
     
