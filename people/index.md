@@ -31,26 +31,37 @@ people:
     
   - name: Shayok Dutta
     group: Graduate Students
-    title: Rotating PhD Student Electrical and Computer Engineering
+    title: PhD Student Electrical and Computer Engineering
     interests: Realtime systems, neural signal processing
     
   - name: Joshua Chu
     group: Graduate Students
+    title: PhD Student Electrical and Computer Engineering
+    interests: Realtime systems, neural signal processing
+
+  - name: Jill Juneau
+    group: Graduate Students
     title: Rotating PhD Student Electrical and Computer Engineering
     interests: Realtime systems, neural signal processing
+
+  - name: Siddhartha Shektar
+    group: Graduate Students
+    title: High school volunteer
+    interests: unknown
     
   - name: Kinsey Dittmar
-    group: Undergraduate Students
+    group: Alumni
     title: BS Cognitive Science
     interests: Deep Brain Stimulation, Spatial navigation
+    currentRole: Wagoner Fellow in Yetebon, Ethiopia, UTSA Medical Student
 
   - name: Caleb Lu
-    group: Undergraduate Students
+    group: Alumni
     title: unknown
     interests: unknown
     
   - name: Zohra Baig
-    group: Undergraduate Students
+    group: Alumni
     title: BS Bioengineering
     interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
 

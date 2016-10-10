@@ -68,6 +68,12 @@
         <li><a href="/links">Links</a></li>
         {% endif %}
 
+        {% if page.nav == "blog" %}
+        <li class="active"><a href="#">Kemere Lab Blog</a></li>
+        {% else %}
+        <li><a href="blog.kemerelab.com">KLab Blog</a></li>
+        {% endif %}
+
         {% if page.nav == "wiki" %}
         <li class="active"><a href="#">Internal</a></li>
         {% else %}
