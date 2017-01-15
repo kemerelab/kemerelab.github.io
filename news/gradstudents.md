@@ -10,6 +10,14 @@ nav: gradstudent_announcement
 ##Graduate research in the RNEL
 
 The Kemere lab typically welcomes one to two new graduate students each year.
+We primarily welcome students in the Rice Electrical and Computer
+Engineering program, but also the Baylor College of Medicine Neuroscience program (Prof. Kemere
+is Adjunct Faculty at BCM), the SCBMB program, and other MD/PhD students from both BCM and
+UTHS, as well as students in the Applied Physics, SSPB, or BIOE programs at Rice.
+All of these programs have their own admissions processes. If you have applied
+and have been accepted to one of these programs, Prof. Kemere is happy to respond to questions
+to help you in your decision process.
+
 If you are interested in working in the lab, please **take a close look at our
 research** (read the research sections on the website and related papers).
 Projects in the lab are focused on real-time neural signal processing
@@ -19,13 +27,10 @@ disease). Most of our projects involve teams of students working together,
 well-thought-out animal experiments, and signal processing / embedded systems
 development. 
 
-If you are interested in working in this sort of collaborative
-way, please **send an email with your CV and a research statement explaining
-your interest in the lab** (we can’t reply to all generic emails received). We
-welcome students in (or applying to) the Rice Electrical and Computer
-Engineering and Bioengineering programs, the Baylor College of Medicine
-Neuroscience program (Prof. Kemere is Adjunct Faculty at BCM), the SCBMB
-program, and other MD/PhD students from both BCM and UTHS. _Thanks for your
-interest!_
+If you are thinking about applying feel free to send questions that aren't answered above.
+
+(Last Updated - January 2017).
+
+_Thanks for your interest!_
 
 </div>
