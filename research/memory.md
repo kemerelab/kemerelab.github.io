@@ -7,7 +7,7 @@ nav: research
 {::options parse_block_html="true" /}
 
 <div class="well">
-###Optimized detection and decoding of memory-related patterns of neural activity
+### Optimized detection and decoding of memory-related patterns of neural activity
 
 <div class="lead">
 Particular, temporally-limited patterns of neural firing appear to be one of
