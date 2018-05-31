@@ -4,112 +4,66 @@ title: RNEL Publications
 nav: pubs
 ---
 
-
 {::options parse_block_html="true" /}
 
 <div class="container">
-##Publications and Conference Presentations
+<H2>Publications and Conference Presentations</H2>
 
 <div class="bs-callout bs-callout-info">
-####Journal Papers
+<H4>Preprints</H4>
+<p>Dutta, S., Ackermann, E. & Kemere, C. Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption. <i>bioRxiv</i> (2018). <a href="http://dx.doi.org/10.1101/298661">10.1101/298661</a></p>
 
-<p> S. R. Summerson, B. Aazhang and C. Kemere. Investigating irregularly patterned deep brain
-stimulation signal design using biophysical models. <i>Frontuers in Computational
-Neuroscience</i> vol. 9, no. 78, June 26, 2015.</p>
+<H4>Journal Papers</H4>
+<p>Maboudi, K., Ackermann, E., Pfei, B., Foster, D., Diba, K. & Kemere, C. Uncovering temporal structure in hippocampal output patterns. <i>bioRxiv</i> (2018). <a href="http://dx.doi.org/10.1101/242594">10.1101/242594</a></p>
 
-<p>S. Summerson, B. Aazhang, C. Kemere (2014). Characterizing Motor
-and Cognitive Effects Associated with Deep Brain Stimulation in the GPi of Hemi-Parkinsonian
-Rats. <i>IEEE Transactions on Neural Systems and Rehabilitation Egnineering,</i> vol. 22, no.
-6, pp. 1218-1227, November 2014.</p>
+<p>Wu, C.-T., Haggerty, D., Kemere, C. & Ji, D. Hippocampal awake replay in fear memory retrieval. <i>Nat. Neurosci.</i> <b>20</b>, 571–580 (2017). <a href="http://dx.doi.org/10.1038/nn.4507">10.1038/nn.4507</a></p>
 
-<p>C. Kemere, M. F. Carr, M. P. Karlsson, L. M. Frank (2013). Rapid and Continuous
-Modulation of Hippocampal Network State during Exploration of New Places. <i>PloS</i><i>
-  one</i>, 8(9), e73114. doi:10.1371/journal.pone.0073114</p>
+<p>Vitale, F., Vercosa, D. G., Rodriguez, A. V., Pamulapati, S. S., Seibt, F., Lewis, E., Yan, J. S., Badhiwala, K., Adnan, M., Royer-Carfagni, G., Beierlein, M., Kemere, C., Pasquali, M. & Robinson, J. T. Fluidic Microactuation of Flexible Electrodes for Neural Recording. <i>Nano Lett.</i> acs.nanolett.7b04184 (2017). <a href="http://dx.doi.org/10.1021/acs.nanolett.7b04184">10.1021/acs.nanolett.7b04184</a></p>
 
-<p>S. Summersonn, C. Kemere, Deep brain stimulation in the 6-OHDA rat,<i> Journal of
-  Visualized Experiments, invited/in preparation</i>.</p>
+<p>Pediredla, A. K., Zhang, S., Avants, B., Ye, F., Nagayama, S., Chen, Z., Kemere, C., Robinson, J. & Veeraraghavan, A. Deep Imaging in Scattering Media with Single Photon Selective Plane Illumination Microscopy (SPIM). <b>2</b>, 266–275 (2016). <a href="http://dx.doi.org/10.1117/1.JBO.21.12.126009">10.1117/1.JBO.21.12.126009</a></p>
 
-<p>S.  P. Jadhav, C. Kemere, P. W. German, and L. M. Frank, Awake hippocampal
-sharp-wave ripples support spatial memory.x, <i>Science</i>, vol.  336, no. 6087, pp.
-1454&#8211;8, June 2012.</p>
+<p>Vitale, F., Summerson, S. R., Aazhang, B., Kemere, C. & Pasquali, M. Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber Microelectrodes. <i>ACS Nano</i> <b>9</b>, 4465–4474 (2015). <a href="http://dx.doi.org/10.1021/acsnano.5b01060">10.1021/acsnano.5b01060</a></p>
 
-<p>C. Kemere, G. Santhanam, B. M. Yu, A. Afshar, S. I. Ryu, T. H. Meng, and K. V.
-Shenoy, Detecting neural-state transitions using hidden Markov models for motor cortical
-prosthesesr., <i>Journal of Neurophysiology</i>, vol. 100, no. 4, pp. 2441&#8211;52, October
-2008.</p>
+<p>Summerson, S. R., Aazhang, B. & Kemere, C. Investigating irregularly patterned deep brain stimulation signal design using biophysical models. <i>Front. Comput. Neurosci.</i> <b>9</b>, 78 (2015). <a href="http://dx.doi.org/10.3389/fncom.2015.00078">10.3389/fncom.2015.00078</a></p>
 
-<p>B.  M. Yu, C. Kemere, G. Santhanam, A. Afshar, S. I. Ryu, T. H. Meng, M. Sahani, and
-K. V. Shenoy, Mixture of trajectory models for neural decoding of goal-directed movements.
-<i>Journal of Neurophysiology</i>, vol. 97, no. 5, pp.  3763&#8211;80, May 2007.</p>
+<p>Summerson, S. R., Aazhang, B. & Kemere, C. T. Characterizing motor and cognitive effects associated with deep brain stimulation in the GPI of hemi-parkinsonian rats. <i>IEEE Trans. Neural Syst. Rehabil. Eng.</i> <b>22</b>, 1218–27 (2014). <a href="http://dx.doi.org/10.1109/TNSRE.2014.2330515">10.1109/TNSRE.2014.2330515</a></p>
 
-<p>C. Kemere, K. V. Shenoy, and T. H. Meng, &nbsp;Model-based neural decoding of
-reaching movements: a maximum likelihood approach. <i>IEEE Transactions on Biomedical
-  Engineering</i>, vol. 51, no. 6, pp. 925&#8211;32, June 2004.</p>
+<p>Kemere, C., Carr, M. F., Karlsson, M. P. & Frank, L. M. Rapid and continuous modulation of hippocampal network state during exploration of new places. <i>PLoS One</i> <b>8</b>, e73114 (2013). <a href="http://dx.doi.org/10.1371/journal.pone.0073114">10.1371/journal.pone.0073114</a></p>
 
-<p>Z.  S. Zumsteg, C. Kemere, S. O&rsquo;Driscoll, G. Santhanam, R. E. Ahmed, K. V. Shenoy,
-and T. H. Meng, Power feasibility of implantable digital spike sorting circuits for neural
-prosthetic systems. <i>IEEE Transactions on Neural Systems and Reabilitation Engineering</i>,
-vol. 13, no. 3, pp. 272&#8211;9, September 2005.</p>
+<p>Jadhav, S. P., Kemere, C., German, P. W. & Frank, L. M. Awake hippocampal sharp-wave ripples support spatial memory. <i>Science</i> <b>336</b>, 1454–8 (2012). <a href="http://dx.doi.org/10.1126/science.1217230">10.1126/science.1217230</a></p>
 
 </div>
 
 <div class="bs-callout bs-callout-success">
-####Conference Papers
+<H4>Conference Papers</H4>
+<p>Juneau, J., Duret, G., Robinson, J. T. & Kemere, C. Enhanced Image Sensor Module for Head-Mounted Microscopes. in <i>Proc. 2018 IEEE Eng. Med. Biol. Conf.</i> (2018).</p>
 
-<p>S. Summerson, C. Kemere, B. Aazhang (2013). Current Amplitude-Dependent Modulation of
-Rotational Behavior with GPi Stimulation in the Rodent Model of Parkinson&rsquo;s Disease. In
-<i>Engineering in Medicine and Biology Society (EMBC), 2013 35th Annual International
-  Conference of the IEEE</i> (pp. 783 &#8211; 786). doi:10.1109/EMBC.2013.6609617</p>
+<p>Ackermann, E., Kemere, C., Maboudi, K. & Diba, K. Latent variable models for hippocampal sequence analysis. in <i>2017 51st Asilomar Conf. Signals, Syst. Comput.</i> 724–728 (2017). <a href="http://dx.doi.org/10.1109/ACSSC.2017.8335439">10.1109/ACSSC.2017.8335439</a></p>
 
-<p>Caleb Kemere, Byron Yu, Gopal Santhanam, Stephen Ryu, Afsheen Afshar, Teresa Meng,
-and Krishna Shenoy, Hidden Markov models for spatial and temporal estimation for prosthetic
-control. <i>Society for Neuroscience Abstracts</i>, Program #256.17, October 2006.</p>
+<p>Ackermann, E. & Kemere, C. Scoring sequences of hippocampal activity using hidden Markov models. in <i>Eng. Med. Biol. Soc. (EMBC), 2016 IEEE 38th Annu. Int. Conf. EMBC</i> <b>2016–Octob</b>, 957–960 (2016). <a href="http://dx.doi.org/10.1109/EMBC.2016.7590860">10.1109/EMBC.2016.7590860</a></p>
 
-<p>Stephen O&rsquo;Driscoll, Teresa Meng, Krishna Shenoy, and Caleb Kemere, Neurons to
-Silicon: Implantable Prosthesis Processor. <i>Proc. of the International Solid State Circuits
-  Conference (ISSCC&rsquo;06)</i>, session 30 (program number 30.1): 552-553 &amp; 672, February
-2006.</p>
+<p>Sethi, A. & Kemere, C. T. Mulitchannel real time spike sorting for decoding ripple sequences. in <i>2015 7th Int. IEEE/EMBS Conf. Neural Eng.</i> 956–959 (IEEE, 2015). <a href="http://dx.doi.org/10.1109/NER.2015.7146784">10.1109/NER.2015.7146784</a></p>
 
-<p>Caleb Kemere and Teresa Meng, Optimal estimation of feedforward-controlled linear
-systems. <i>Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing (ICASSP&rsquo;05)</i>,
-vol. 5, pp. 353&#8211;356, March 2005.</p>
+<p>Summerson, S. R., Grealish, C., Aazhang, B. & Kemere, C. T. Randomized stimulation signal design to create partial informational lesions in parkinsonian neuronal networks. in <i>Acoust. Speech Signal Process. (ICASSP), 2014 IEEE Int. Conf.</i> 3626–3630 (2014). <a href="http://dx.doi.org/10.1109/ICASSP.2014.6854277">10.1109/ICASSP.2014.6854277</a></p>
 
-<p>Caleb Kemere, Gopal Santhanam, Byron Yu, Stephen Ryu, Teresa Meng, and Krishna
-Shenoy, Model-based decoding of reaching movements for prosthetic systems. <i>Proc.  of the
-  26<sup>th</sup> Annual Conference of the IEEE EMBS (EMBS&rsquo;04)</i>, pp.  4524&#8211;4528,
-September 2004.</p>
+<p>Sethi, A. & Kemere, C. Real Time Algorithms for Sharp Wave Ripple Detection. <i>Conf. Proc.  Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. IEEE Eng. Med. Biol. Soc.</i> <b>2014</b>, (2014). <a href="http://dx.doi.org/10.1109/EMBC.2014.6944164">10.1109/EMBC.2014.6944164</a></p>
 
-<p>Caleb Kemere, Maneesh Sahani, and Teresa Meng, Robust neural decoding of reaching
-movements for prosthetic systems. <i>Proc. IEEE Engineering in Medicine and Biology Society
-  25th Annual Conference (EMBS&rsquo;03)</i>, pp. 2079&#8211;2082, September 2003.</p>
+<p>Summerson, S. R., Kemere, C. T. & Aazhang, B. Current amplitude-dependent modulation of rotational behavior with GPi stimulation in the rodent model of Parkinson’s Disease. <i>Conf. Proc. IEEE Eng. Med. Biol. Soc.</i> <b>2013</b>, 783–6 (2013). <a href="http://dx.doi.org/10.1109/EMBC.2013.6609617">10.1109/EMBC.2013.6609617</a></p>
 
-<p>Caleb Kemere, Gopal Santhanam, Byron Yu, Krishna Shenoy, and Teresa Meng, Decoding
-of plan and peri-movement neural signals in prosthetic systems. <i>Proc. IEEE Workshop on
-  Signal Processing Systems (SIPS&rsquo;02)</i>, pp. 276&#8211;283, October 2002.</p>
+<p>Summerson, S., Aazhang, B. & Kemere, C. Behavioral effects of disrupted direct pathway signal flow caused by dopamine depletion. <i>BMC Neurosci.</i> <b>14</b>, P205 (2013). <a href="http://dx.doi.org/10.1186/1471-2202-14-S1-P205">10.1186/1471-2202-14-S1-P205</a></p>
 
 </div>
 
 <div class="bs-callout bs-callout-info">
-####Reviews and Book Chapters
+<H4>Reviews and Book Chapters</H4>
+<p>Pezzulo, G., Kemere, C. & van der Meer, M. A. A. Internally generated hippocampal sequences as a vantage point to probe future-oriented forms of cognition. <i>Ann. N. Y. Acad. Sci.</i> <b>1396</b>, 144–165 (2017). <a href="http://dx.doi.org/10.1111/nyas.13329">10.1111/nyas.13329</a></p>
 
-<p>D. M. Friend, C. Kemere and A. V. Kravitz. Quantifying Recording Quality in
-In Vivo Striatal Recordings. <i>Current Protocols in Neuroscience</i>, vol. 70, pp. 6–28,
-January 2015.</p>
+<p>Friend, D. M., Kemere, C. & Kravitz, A. V. Quantifying Recording Quality in In Vivo Striatal Recordings. <i>Curr. Protoc. Neurosci.</i> <b>70</b>, 6–28 (2015). <a href="http://dx.doi.org/10.1002/0471142301.ns0628s70">10.1002/0471142301.ns0628s70</a></p>
 
-<p> S. Summerson and C. Kemere. Multi-electrode Recording of Neural Activity in Awake
-Behaving Animals. In E. Covey & M. Carter (Eds.), <i>Basic Electrophysiological Methods</i>,pp.
-76–107, Oxford Univ Press.</p>
-
-<p>Krishna Shenoy et al., Increasing the performance of cortically-controlled prostheses.
-<i>Proc. of the 28<sup>th</sup> Annual Conference of the IEEE EMBS (EMBS&rsquo;08)</i>, pp.
-6652&#8211;6655, August 2008.</p>
-
-<p>Michael Linderman et al., Signal processing challenges for neural prostheses. <i>IEEE
-  Signal Processing Magazine</i>, vol.  25, no. 1, pp. 18&#8211;28, January 2008.</p>
-</div>
+<p>Summerson, S. & Kemere, C. in <i>Basic Electrophysiol. Methods</i> (Covey, E. & Carter, M.) 76–107 (Oxford Univ Press, 2015).</p>
 
 <div class="bs-callout bs-callout-danger">
-####Conference Abstracts and Posters
+<H4>Conference Abstracts and Posters</H4>
 
 <p>Samantha Summerson, Behnaam Aazhang, Caleb Kemere, Motor behavior tuning as a
 function of stimulation frequency in the 6-ohda rat model of gpi-deep brain stimulation.
@@ -170,7 +124,3 @@ of neural signals for movement control.&nbsp; <i>U. S. Patent No.7,058,445.</i> 
 </div>
 
 </div>
-
-
-
-
