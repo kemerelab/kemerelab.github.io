@@ -6,64 +6,90 @@ nav: pubs
 
 {::options parse_block_html="true" /}
 
-<div class="container">
-<H2>Publications and Conference Presentations</H2>
-
+## Publications and Conference Presentations
 <div class="bs-callout bs-callout-info">
-<H4>Preprints</H4>
-<p>Dutta, S., Ackermann, E. & Kemere, C. Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption. <i>bioRxiv</i> (2018). <a href="http://dx.doi.org/10.1101/298661">10.1101/298661</a></p>
+#### Preprints
+S. Dutta, E. Ackermann & C. Kemere. Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption. _bioRxiv_ (2018). [[DOI]](10.1101/298661) [[PDF]](assets/Dutta2018.pdf)
 
-<H4>Journal Papers</H4>
-<p>Maboudi, K., Ackermann, E., Pfei, B., Foster, D., Diba, K. & Kemere, C. Uncovering temporal structure in hippocampal output patterns. <i>bioRxiv</i> (2018). <a href="http://dx.doi.org/10.1101/242594">10.1101/242594</a></p>
+#### Journal Papers
+K. Maboudi, E. Ackermann, B. Pfei, D. Foster, K. Diba & C. Kemere. Uncovering temporal structure in hippocampal output patterns. _eLife_ (2018). [[DOI]](10.1101/242594) [[PDF]](assets/Maboudi2018.pdf)
 
-<p>Wu, C.-T., Haggerty, D., Kemere, C. & Ji, D. Hippocampal awake replay in fear memory retrieval. <i>Nat. Neurosci.</i> <b>20</b>, 571–580 (2017). <a href="http://dx.doi.org/10.1038/nn.4507">10.1038/nn.4507</a></p>
+C.-T. Wu, D. Haggerty, C. Kemere & D. Ji. Hippocampal awake replay in fear memory retrieval. _Nat. Neurosci._ **20**, 571–580 (2017). [[DOI]](10.1038/nn.4507)[[PDF]](assets/Wu2017.pdf)
 
-<p>Vitale, F., Vercosa, D. G., Rodriguez, A. V., Pamulapati, S. S., Seibt, F., Lewis, E., Yan, J. S., Badhiwala, K., Adnan, M., Royer-Carfagni, G., Beierlein, M., Kemere, C., Pasquali, M. & Robinson, J. T. Fluidic Microactuation of Flexible Electrodes for Neural Recording. <i>Nano Lett.</i> acs.nanolett.7b04184 (2017). <a href="http://dx.doi.org/10.1021/acs.nanolett.7b04184">10.1021/acs.nanolett.7b04184</a></p>
+F. Vitale, D. G. Vercosa, A. V. Rodriguez, S. S. Pamulapati, F. Seibt, E. Lewis, J. S. Yan, K. Badhiwala, M. Adnan, G. Royer-Carfagni, M. Beierlein, C. Kemere, M. Pasquali & J. T. Robinson. Fluidic Microactuation of Flexible Electrodes for Neural Recording. _Nano Lett._ acs.nanolett.7b04184 (2017). [[DOI]](10.1021/acs.nanolett.7b04184) [[PDF]](assets/Vitale2017.pdf)
 
-<p>Pediredla, A. K., Zhang, S., Avants, B., Ye, F., Nagayama, S., Chen, Z., Kemere, C., Robinson, J. & Veeraraghavan, A. Deep Imaging in Scattering Media with Single Photon Selective Plane Illumination Microscopy (SPIM). <b>2</b>, 266–275 (2016). <a href="http://dx.doi.org/10.1117/1.JBO.21.12.126009">10.1117/1.JBO.21.12.126009</a></p>
+A. K. Pediredla, S. Zhang, B. Avants, F. Ye, S. Nagayama, Z. Chen, C. Kemere, J. T. Robinson & A. Veeraraghavan. Deep imaging in scattering media with selective plane illumination microscopy. _J. Biomed. Opt._ **21**, 126009 (2016). [[DOI]](10.1117/1.JBO.21.12.126009) [[PDF]](assets/Pediredla2016.pdf)
 
-<p>Vitale, F., Summerson, S. R., Aazhang, B., Kemere, C. & Pasquali, M. Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber Microelectrodes. <i>ACS Nano</i> <b>9</b>, 4465–4474 (2015). <a href="http://dx.doi.org/10.1021/acsnano.5b01060">10.1021/acsnano.5b01060</a></p>
+S. R. Summerson, B. Aazhang & C. Kemere. Investigating irregularly patterned deep brain stimulation signal design using biophysical models. _Front. Comput. Neurosci._ **9**, 78 (2015). [[DOI]](10.3389/fncom.2015.00078) [[PDF]](assets/Summerson2015.pdf)
 
-<p>Summerson, S. R., Aazhang, B. & Kemere, C. Investigating irregularly patterned deep brain stimulation signal design using biophysical models. <i>Front. Comput. Neurosci.</i> <b>9</b>, 78 (2015). <a href="http://dx.doi.org/10.3389/fncom.2015.00078">10.3389/fncom.2015.00078</a></p>
+F. Vitale, S. R. Summerson, B. Aazhang, C. Kemere & M. Pasquali. Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber Microelectrodes. _ACS Nano_ **9**, 4465–4474 (2015). [[DOI]](10.1021/acsnano.5b01060) [[PDF]](assets/Vitale2015.pdf)
 
-<p>Summerson, S. R., Aazhang, B. & Kemere, C. T. Characterizing motor and cognitive effects associated with deep brain stimulation in the GPI of hemi-parkinsonian rats. <i>IEEE Trans. Neural Syst. Rehabil. Eng.</i> <b>22</b>, 1218–27 (2014). <a href="http://dx.doi.org/10.1109/TNSRE.2014.2330515">10.1109/TNSRE.2014.2330515</a></p>
+S. R. Summerson, B. Aazhang & C. T. Kemere. Characterizing motor and cognitive effects associated with deep brain stimulation in the GPI of hemi-parkinsonian rats. _IEEE Trans. Neural Syst. Rehabil. Eng._ **22**, 1218–27 (2014). [[DOI]](10.1109/TNSRE.2014.2330515) [[PDF]](assets/Summerson2014B.pdf)
 
-<p>Kemere, C., Carr, M. F., Karlsson, M. P. & Frank, L. M. Rapid and continuous modulation of hippocampal network state during exploration of new places. <i>PLoS One</i> <b>8</b>, e73114 (2013). <a href="http://dx.doi.org/10.1371/journal.pone.0073114">10.1371/journal.pone.0073114</a></p>
+C. Kemere, M. F. Carr, M. P. Karlsson & L. M. Frank. Rapid and continuous modulation of hippocampal network state during exploration of new places. _PLoS One_ **8**, e73114 (2013). [[DOI]](10.1371/journal.pone.0073114) [[PDF]](assets/Kemere2013.pdf)
 
-<p>Jadhav, S. P., Kemere, C., German, P. W. & Frank, L. M. Awake hippocampal sharp-wave ripples support spatial memory. <i>Science</i> <b>336</b>, 1454–8 (2012). <a href="http://dx.doi.org/10.1126/science.1217230">10.1126/science.1217230</a></p>
+S. P. Jadhav, C. Kemere, P. W. German & L. M. Frank. Awake hippocampal sharp-wave ripples support spatial memory. _Science_ **336**, 1454–8 (2012). [[DOI]](10.1126/science.1217230) [[PDF]](assets/Jadhav2012.pdf)
+
+C. Kemere, G. Santhanam, B. M. Yu, A. Afshar, S. I. Ryu, T. H. Meng & K. V Shenoy. Detecting neural-state transitions using hidden Markov models for motor cortical prostheses. _J. Neurophysiol._ **100**, 2441–52 (2008). [[DOI]](10.1152/jn.00924.2007)
+
+B. M. Yu, C. Kemere, G. Santhanam, A. Afshar, S. I. Ryu, T. H. Meng, M. Sahani & K. V Shenoy. Mixture of trajectory models for neural decoding of goal-directed movements. _J. Neurophysiol._ **97**, 3763–80 (2007). [[DOI]](10.1152/jn.00482.2006)
+
+Z. S. Zumsteg, C. Kemere, S. O’Driscoll, G. Santhanam, R. E. Ahmed, K. V Shenoy & T. H. Meng. Power feasibility of implantable digital spike sorting circuits for neural prosthetic systems. _IEEE Trans. Neural Syst. Rehabil. Eng._ **13**, 272–9 (2005). [[DOI]](10.1109/TNSRE.2005.854307)
+
+C. Kemere, K. V Shenoy & T. H. Meng. Model-based neural decoding of reaching movements: a maximum likelihood approach. _IEEE Trans. Biomed. Eng._ **51**, 925–32 (2004). [[DOI]](10.1109/TBME.2004.826675)
+
 
 </div>
 
 <div class="bs-callout bs-callout-success">
-<H4>Conference Papers</H4>
-<p>Juneau, J., Duret, G., Robinson, J. T. & Kemere, C. Enhanced Image Sensor Module for Head-Mounted Microscopes. in <i>Proc. 2018 IEEE Eng. Med. Biol. Conf.</i> (2018).</p>
+#### Conference Papers
+J. Juneau, G. Duret, J. T. Robinson & C. Kemere. Enhanced Image Sensor Module for Head-Mounted Microscopes. in _Proc. 2018 IEEE Eng. Med. Biol. Conf._ (2018). [[PDF]](assets/Juneau2018.pdf)
 
-<p>Ackermann, E., Kemere, C., Maboudi, K. & Diba, K. Latent variable models for hippocampal sequence analysis. in <i>2017 51st Asilomar Conf. Signals, Syst. Comput.</i> 724–728 (2017). <a href="http://dx.doi.org/10.1109/ACSSC.2017.8335439">10.1109/ACSSC.2017.8335439</a></p>
+E. Ackermann, C. Kemere, K. Maboudi & K. Diba. Latent variable models for hippocampal sequence analysis. in _2017 51st Asilomar Conf. Signals, Syst. Comput._ 724–728 (2017). [[DOI]](10.1109/ACSSC.2017.8335439) [[PDF]](assets/Ackermann2017.pdf)
 
-<p>Ackermann, E. & Kemere, C. Scoring sequences of hippocampal activity using hidden Markov models. in <i>Eng. Med. Biol. Soc. (EMBC), 2016 IEEE 38th Annu. Int. Conf. EMBC</i> <b>2016–Octob</b>, 957–960 (2016). <a href="http://dx.doi.org/10.1109/EMBC.2016.7590860">10.1109/EMBC.2016.7590860</a></p>
+E. Ackermann & C. Kemere. Scoring sequences of hippocampal activity using hidden Markov models. in _Eng. Med. Biol. Soc. (EMBC), 2016 IEEE 38th Annu. Int. Conf. EMBC_ **2016–Octob**, 957–960 (2016). [[DOI]](10.1109/EMBC.2016.7590860) [[PDF]](assets/Ackermann2016.pdf)
 
-<p>Sethi, A. & Kemere, C. T. Mulitchannel real time spike sorting for decoding ripple sequences. in <i>2015 7th Int. IEEE/EMBS Conf. Neural Eng.</i> 956–959 (IEEE, 2015). <a href="http://dx.doi.org/10.1109/NER.2015.7146784">10.1109/NER.2015.7146784</a></p>
+A. Sethi & C. T. Kemere. Mulitchannel real time spike sorting for decoding ripple sequences. in _2015 7th Int. IEEE/EMBS Conf. Neural Eng._ 956–959 (IEEE, 2015). [[DOI]](10.1109/NER.2015.7146784) [[PDF]](assets/Sethi2015.pdf)
 
-<p>Summerson, S. R., Grealish, C., Aazhang, B. & Kemere, C. T. Randomized stimulation signal design to create partial informational lesions in parkinsonian neuronal networks. in <i>Acoust. Speech Signal Process. (ICASSP), 2014 IEEE Int. Conf.</i> 3626–3630 (2014). <a href="http://dx.doi.org/10.1109/ICASSP.2014.6854277">10.1109/ICASSP.2014.6854277</a></p>
+A. Sethi & C. Kemere. Real Time Algorithms for Sharp Wave Ripple Detection. _Conf. Proc.  Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. IEEE Eng. Med. Biol. Soc._ **2014**, (2014). [[DOI]](10.1109/EMBC.2014.6944164) [[PDF]](assets/Sethi2014.pdf)
 
-<p>Sethi, A. & Kemere, C. Real Time Algorithms for Sharp Wave Ripple Detection. <i>Conf. Proc.  Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. IEEE Eng. Med. Biol. Soc.</i> <b>2014</b>, (2014). <a href="http://dx.doi.org/10.1109/EMBC.2014.6944164">10.1109/EMBC.2014.6944164</a></p>
+S. R. Summerson, C. Grealish, B. Aazhang & C. T. Kemere. Randomized stimulation signal design to create partial informational lesions in parkinsonian neuronal networks. in _Acoust. Speech Signal Process. (ICASSP), 2014 IEEE Int. Conf._ 3626–3630 (2014). [[DOI]](10.1109/ICASSP.2014.6854277) [[PDF]](assets/Summerson2014.pdf)
 
-<p>Summerson, S. R., Kemere, C. T. & Aazhang, B. Current amplitude-dependent modulation of rotational behavior with GPi stimulation in the rodent model of Parkinson’s Disease. <i>Conf. Proc. IEEE Eng. Med. Biol. Soc.</i> <b>2013</b>, 783–6 (2013). <a href="http://dx.doi.org/10.1109/EMBC.2013.6609617">10.1109/EMBC.2013.6609617</a></p>
+S. Summerson, B. Aazhang & C. Kemere. Behavioral effects of disrupted direct pathway signal flow caused by dopamine depletion. _BMC Neurosci._ **14**, P205 (2013). [[DOI]](10.1186/1471-2202-14-S1-P205)
 
-<p>Summerson, S., Aazhang, B. & Kemere, C. Behavioral effects of disrupted direct pathway signal flow caused by dopamine depletion. <i>BMC Neurosci.</i> <b>14</b>, P205 (2013). <a href="http://dx.doi.org/10.1186/1471-2202-14-S1-P205">10.1186/1471-2202-14-S1-P205</a></p>
+S. R. Summerson, C. T. Kemere & B. Aazhang. Current amplitude-dependent modulation of rotational behavior with GPi stimulation in the rodent model of Parkinson’s Disease. _Conf. Proc. IEEE Eng. Med. Biol. Soc._ **2013**, 783–6 (2013). [[DOI]](10.1109/EMBC.2013.6609617) [[PDF]](assets/)
 
+K. V Shenoy, G. Santhanam, S. I. Ryu, A. Afshar, B. M. Yu, V. Gilja, M. D. Linderman, R. S. Kalmar, J. P. Cunningham, C. T. Kemere, A. P. Batista, M. M. Churchland & T. H. Meng. Increasing the performance of cortically-controlled prostheses. in _Eng. Med. Biol. Soc. 2006. EMBS ’06. 28th Annu. Int. Conf. IEEE_ **Suppl**, 6652–6 (2006). [[DOI]](10.1109/IEMBS.2006.260912)
+
+S. O’Driscoll, T. Meng, K. Shenoy & C. Kemere. Neurons to Silicon: Implantable Prosthesis Processor. in _2006 IEEE Int. Solid State Circuits Conf. - Dig. Tech. Pap._ 2248–2257 (IEEE, 2006). [[DOI]](10.1109/ISSCC.2006.1696287)
+
+C. Kemere & T. Meng. Optimal estimation of feed-foward-controlled linear systems. in _Proceedings. (ICASSP ’05). IEEE Int. Conf. Acoust. Speech, Signal Process. 2005._ **5**, 353–356 (IEEE, 2005). [[DOI]](10.1109/ICASSP.2005.1416313)
+
+C. Kemere, G. Santhanam, B. M. Yu, S. Ryu, T. Meng & K. V Shenoy. Model-based decoding of reaching movements for prosthetic systems. _Eng. Med. Biol. Soc. 2004. IEMBS ’04. 26th Annu. Int. Conf. IEEE_ **6**, 4524–8 (2004). [[DOI]](10.1109/IEMBS.2004.1404256)
+
+Z. S. Zumsteg, R. E. Ahmed, G. Santhanam, K. V Shenoy & T. H. Meng. Power feasibility of implantable digital spike-sorting circuits for neural prosthetic systems. _Eng. Med. Biol. Soc. 2004. IEMBS ’04. 26th Annu. Int. Conf. IEEE_ **6**, 4237–40 (2004). [[DOI]](10.1109/IEMBS.2004.1404181)
+
+C. Kemere, M. Sahani & T. Meng. Robust neural decoding of reaching movements for prosthetic systems. in _Proc. 25th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. (IEEE Cat. No.03CH37439)_ 2079–2082 (IEEE, 2003). [[DOI]](10.1109/IEMBS.2003.1280146)
+
+C. T. Kemere, G. Santhanam, B. M. Yu, K. V. Shenoy & T. H. Meng. Decoding of plan and peri-movement neural signals in prosthetic systems. in _IEEE Work. Signal Process. Syst._ 276–283 (IEEE, 2002). [[DOI]](10.1109/SIPS.2002.1049722)
 </div>
 
 <div class="bs-callout bs-callout-info">
-<H4>Reviews and Book Chapters</H4>
-<p>Pezzulo, G., Kemere, C. & van der Meer, M. A. A. Internally generated hippocampal sequences as a vantage point to probe future-oriented forms of cognition. <i>Ann. N. Y. Acad. Sci.</i> <b>1396</b>, 144–165 (2017). <a href="http://dx.doi.org/10.1111/nyas.13329">10.1111/nyas.13329</a></p>
 
-<p>Friend, D. M., Kemere, C. & Kravitz, A. V. Quantifying Recording Quality in In Vivo Striatal Recordings. <i>Curr. Protoc. Neurosci.</i> <b>70</b>, 6–28 (2015). <a href="http://dx.doi.org/10.1002/0471142301.ns0628s70">10.1002/0471142301.ns0628s70</a></p>
+#### Reviews and Book Chapters
+G. Pezzulo, C. Kemere & M. A. A. van der Meer. Internally generated hippocampal sequences as a vantage point to probe future-oriented forms of cognition. _Ann. N. Y. Acad. Sci._ **1396**, 144–165 (2017). [[DOI]](10.1111/nyas.13329) [[PDF]](assets/Pezzulo2017.pdf)
 
-<p>Summerson, S. & Kemere, C. in <i>Basic Electrophysiol. Methods</i> (Covey, E. & Carter, M.) 76–107 (Oxford Univ Press, 2015).</p>
+D. M. Friend, C. Kemere & A. V Kravitz. Quantifying Recording Quality in In Vivo Striatal Recordings. _Curr. Protoc. Neurosci._ **70**, 6–28 (2015). [[DOI]](10.1002/0471142301.ns0628s70) [[PDF]](assets/Friend2015.pdf)
+
+S. Summerson & C. Kemere. in _Basic Electrophysiol. Methods_ (Covey, E. & Carter, M.) 76–107 (Oxford Univ Press, 2015). [[PDF]](assets/Summerson2015B.pdf)
+
+M. Linderman, G. Santhanam, C. Kemere, V. Gilja, S. O’Driscoll, B. Yu, A. Afshar, S. Ryu, K. Shenoy & T. Meng. Signal Processing Challenges for Neural Prostheses. _IEEE Signal Process. Mag._ **25**, 18–28 (2008). [[DOI]](10.1109/MSP.2008.4408439)
+
+</div>
+
 
 <div class="bs-callout bs-callout-danger">
-<H4>Conference Abstracts and Posters</H4>
+#### Conference Abstracts and Posters
 
 <p>Samantha Summerson, Behnaam Aazhang, Caleb Kemere, Motor behavior tuning as a
 function of stimulation frequency in the 6-ohda rat model of gpi-deep brain stimulation.
@@ -117,10 +143,8 @@ activity.  <i>Society for Neuroscience Abstracts</i>, Program #884.12, October 2
 
 
 <div class="bs-callout bs-callout-success">
-####Patents
+#### Patents
 
 <p>Caleb Kemere, Gopal Santhanam, Byron Yu, Teresa Meng, and Krishna Shenoy.  Decoding
 of neural signals for movement control.&nbsp; <i>U. S. Patent No.7,058,445.</i> June 2006.</p>
-</div>
-
 </div>

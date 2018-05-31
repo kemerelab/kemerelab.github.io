@@ -1,14 +1,14 @@
 <div class="media">
   {% if indiv.website %}
-  <a class="pull-left" href="#"><img class="media-object" 
+  <a class="pull-left" href="#"><img class="media-object"
     src="/images/headshots/fullsize/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
     width=125 /></a>
   {% else %}
-  <div class="pull-left"><img class="media-object" 
+  <div class="pull-left"><img class="media-object"
     src="/images/headshots/fullsize/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
     width=125 /></div>
   {% endif %}
-  <div class="media-object">
+  <div class="media-object" style="padding-left:15px">
     <h4 class="media-heading">{{indiv.name}}</h4>
     <address>
       {% if indiv.title %}

@@ -26,10 +26,6 @@
 
     <link href="/css/callouts.css" rel="stylesheet">
 
-    {% if page.nav == "people" %}
-    <link href="/css/directory.css" rel="stylesheet">
-    {% endif %}
-
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
 
@@ -50,12 +46,12 @@
   ga('send', 'pageview');
 
 </script>
-    
+
   </head>
   <body>
 
     {% include navbar.html %}
-    
+
     {{ content }}
 
     {% include footer.html %}
@@ -68,5 +64,3 @@
     <script src="/css/docs.min.js"></script>
   </body>
 </html>
-
-

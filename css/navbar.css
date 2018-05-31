@@ -12,8 +12,9 @@ body {
   background-color: #f5f5f5;
 }
 
-#main-navbar-collapse {
-  margin-top:10px;
+.nav-item {
+    padding-left: 20px;
+    font-size: 20px;
 }
 
 #footer {
@@ -34,7 +35,3 @@ body {
   margin-top: 5px;
   margin-bottom: 5px;
 }
-
-
-
-

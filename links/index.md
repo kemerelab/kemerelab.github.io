@@ -6,46 +6,58 @@ nav: links
 
 {::options parse_block_html="true" /}
 
-<div class="bs-callout bs-callout-info">
-#### Local neuroengineering 
+<div class="bs-callout bs-callout-warning">
+### Open Source Lab Tools
+
+#### [github.com/kemerelab](https://github.com/kemerelab)
+
+#### [github.com/nelpy](https://github.com/nelpy)
+
 </div>
 
-####[Neuroengineering Research Center @ Rice University](http://neuroengineering.rice.edu)
+<div class="bs-callout bs-callout-info">
+### Local neuroengineering
+</div>
 
-####[NSF IGERT Neuroengineering Graduate Training Program @ Rice University](http://igert2.blogs.rice.edu/)
+#### [Neuroengineering Research Center @ Rice University](http://neuroengineering.rice.edu)
 
-####[Center for Neuroengineering](http://www.gulfcoastconsortia.org/CNE.aspx)
+#### [NSF IGERT Neuroengineering Graduate Training Program @ Rice University](http://igert2.blogs.rice.edu/)
 
-####[Theoretical and Computational Neuroscience](http://gulfcoastconsortia.org/Research/Gulf_Coast_Consortium_for_Theoretical_and_Computational_Neuroscience.aspx)
+#### [Center for Neuroengineering](http://www.gulfcoastconsortia.org/CNE.aspx)
 
-####[Baylor College of Medicine Neuroscience Program]()
+#### [Theoretical and Computational Neuroscience](http://gulfcoastconsortia.org/Research/Gulf_Coast_Consortium_for_Theoretical_and_Computational_Neuroscience.aspx)
 
-####[University of Texas, Houston Neuroscience Program]()
+#### [Baylor College of Medicine Neuroscience Program]()
+
+#### [University of Texas, Houston Neuroscience Program]()
 
 <div class="bs-callout bs-callout-danger">
-#### Collaborators and other neuroengineering labs
+### Collaborators and other neuroengineering labs
 </div>
 
-####[Robinson Lab, Rice University](http://robinsonlab.com)
+#### [Robinson Lab, Rice University](http://robinsonlab.com)
 
-####[Van Der Meer Lab, University of Waterloo](http://vandermeerlab.org/)
+#### [Van Der Meer Lab, University of Waterloo](http://vandermeerlab.org/)
 
-####[Shenoy Lab, Stanford University](http://www.stanford.edu/~shenoy/Group.htm)
+#### [Diba Lab, University of Michigan](https://sites.lsa.umich.edu/diba-lab/)
 
-####[Carmena Lab, University of California, Berkeley](http://www.eecs.berkeley.edu/~carmena/)
+#### [Shenoy Lab, Stanford University](http://www.stanford.edu/~shenoy/Group.htm)
+
+#### [Carmena Lab, University of California, Berkeley](http://www.eecs.berkeley.edu/~carmena/)
+
 
 
 <div class="bs-callout bs-callout-warning">
-#### Useful Links 
+### Funding
 </div>
 
-<div class="bs-callout bs-callout-funding">
-#### Funding 
-</div>
+#### [National Science Foundation IOS](http://www.nsf.gov/div/index.jsp?div=ios)
 
 #### [National Science Foundation CBET](http://www.nsf.gov/div/index.jsp?div=cbet)
 
 #### [Human Frontiers Science Program](http://www.hfsp.org/)
 
-#### [Burroughs Wellcome Fund](http://www.bwfund.org/)
+#### [DARPA BTO](https://www.darpa.mil/about-us/offices/bto)
 
+
+#### [Burroughs Wellcome Fund](http://www.bwfund.org/)

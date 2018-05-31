@@ -1,86 +1,80 @@
 
-<!-- Static navbar -->
-<div class="navbar navbar-default navbar-static-top" role="navigation">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/"><img src="/images/Banner3.png" height="50px" alt="Rice RNEL"></a>
-      <!-- <a class="navbar-brand" href="/">{{ site.name }}</a> -->
+<header>
+    <div class="navbar navbar-expand-md navbar-static-top navbar-light" role="navigation">
+        <a class="navbar-brand" href="/"><img src="/images/Banner3.png" height="50px" alt="Rice RNEL"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="main-navbar-collapse">
+            <ul class="navbar-nav mr-auto">
+                {% if page.nav == "home" %}
+                <li class="nav-item active"><a class="nav-link" href="#">Home</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                {% endif %}
+
+                {% if page.nav == "research" %}
+                <li class="nav-item dropdown active">
+                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">Research <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a class="nav-link" href="/#research">Overview</a></li>
+                        <li class="divider"></li>
+                        <li><a class="nav-link" href="/research/memory.html">Memory</a></li>
+                        <li><a class="nav-link" href="/research/dbs.html">DBS</a></li>
+                        <li><a class="nav-link" href="/research/tools.html">Tools</a></li>
+                    </ul>
+                </li>
+                {% else %}
+                <li class="nav-item dropdown">
+                    <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">Research <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a class="nav-link" href="/#research">Overview</a></li>
+                        <li class="divider"></li>
+                        <li><a class="nav-link" href="/research/memory.html">Memory</a></li>
+                        <li><a class="nav-link" href="/research/dbs.html">DBS</a></li>
+                        <li><a class="nav-link" href="/research/tools.html">Tools</a></li>
+                    </ul>
+                </li>
+                {% endif %}
+
+                {% if page.nav == "people" %}
+                <li class="nav-item active"><a class="nav-link" href="#">People</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link" href="/people">People</a></li>
+                {% endif %}
+
+                {% if page.nav == "pubs" %}
+                <li class="nav-item active"><a class="nav-link" href="#">Publications</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link" href="/pubs">Publications</a></li>
+                {% endif %}
+
+                {% if page.nav == "news" %}
+                <li class="nav-item active"><a class="nav-link" href="#">News</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link" href="/news">News</a></li>
+                {% endif %}
+
+                {% if page.nav == "links" %}
+                <li class="nav-item active"><a class="nav-link" href="#">Links</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link" href="/links">Links</a></li>
+                {% endif %}
+
+<!--
+                {% if page.nav == "blog" %}
+                <li class="nav-item active"><a  class="nav-link" href="#">Kemere Lab Blog</a></li>
+                {% else %}
+                <li class="nav-item"><a  class="nav-link" href="blog.kemerelab.com">KLab Blog</a></li>
+                {% endif %}
+-->
+
+                {% if page.nav == "wiki" %}
+                <li class="nav-item active"><a class="nav-link" href="#">Internal</a></li>
+                {% else %}
+                <li class="nav-item"><a class="nav-link" href="https://github.com/kemerelab/Private/wiki">Internal</a></li>
+                {% endif %}
+            </ul>
+        </div><!--/.nav-collapse -->
     </div>
-    <div class="navbar-collapse collapse" id="main-navbar-collapse">
-      <ul class="nav navbar-nav">
-        {% if page.nav == "home" %}
-        <li class="active"><a href="#">Home</a></li>
-        {% else %}
-        <li><a href="/">Home</a></li>
-        {% endif %}
-
-        {% if page.nav == "research" %}
-        <li class="dropdown active">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research <b class="caret"></b></a>
-        <ul class="dropdown-menu">
-          <li><a href="/#research">Overview</a></li>
-          <li class="divider"></li>
-          <li><a href="/research/memory.html">Memory</a></li>
-          <li><a href="/research/dbs.html">DBS</a></li>
-          <li><a href="/research/tools.html">Tools</a></li>
-        </ul>
-        </li>
-        {% else %}
-        <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research <b class="caret"></b></a>
-        <ul class="dropdown-menu">
-          <li><a href="/#research">Overview</a></li>
-          <li class="divider"></li>
-          <li><a href="/research/memory.html">Memory</a></li>
-          <li><a href="/research/dbs.html">DBS</a></li>
-          <li><a href="/research/tools.html">Tools</a></li>
-        </ul>
-        </li>
-        {% endif %}
-
-        {% if page.nav == "people" %}
-        <li class="active"><a href="#">People</a></li>
-        {% else %}
-        <li><a href="/people">People</a></li>
-        {% endif %}
-
-        {% if page.nav == "pubs" %}
-        <li class="active"><a href="#">Publications</a></li>
-        {% else %}
-        <li><a href="/pubs">Publications</a></li>
-        {% endif %}
-
-        {% if page.nav == "news" %}
-        <li class="active"><a href="#">News</a></li>
-        {% else %}
-        <li><a href="/news">News</a></li>
-        {% endif %}
-
-        {% if page.nav == "links" %}
-        <li class="active"><a href="#">Links</a></li>
-        {% else %}
-        <li><a href="/links">Links</a></li>
-        {% endif %}
-
-        {% if page.nav == "blog" %}
-        <li class="active"><a href="#">Kemere Lab Blog</a></li>
-        {% else %}
-        <li><a href="blog.kemerelab.com">KLab Blog</a></li>
-        {% endif %}
-
-        {% if page.nav == "wiki" %}
-        <li class="active"><a href="#">Internal</a></li>
-        {% else %}
-        <li><a href="https://github.com/kemerelab/Private/wiki">Internal</a></li>
-        {% endif %}
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div><!--/.container-fluid -->
-</div>
-
+</header>
