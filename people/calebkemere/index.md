@@ -16,7 +16,7 @@ nav: calebkemere
 
 <div class="col-md-9 lead">
 
-##Caleb Kemere, PhD
+## Caleb Kemere, PhD
 
 <strong>Assstant Professor, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
 [Rice University](http://www.rice.edu)  
