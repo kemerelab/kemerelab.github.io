@@ -1,0 +1,31 @@
+<div class="media">
+  {% if indiv.website %}
+  <a class="pull-left" href="#"><img class="media-object"
+    src="/images/headshots/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
+    width=50 /></a>
+  {% else %}
+  <div class="pull-left"><img class="media-object"
+    src="/images/headshots/{{ indiv.name | remove: ' ' }}.jpg" alt="image"
+    width=50 /></div>
+  {% endif %}
+  <div class="media-object" style="padding-left:15px">
+    <h5 class="media-heading">{{indiv.name}}</h5>
+    <address>
+      {% if indiv.title %}
+      <i class>{{ indiv.title }}</i>. 
+      {% endif %}
+
+      {% if indiv.email %}
+      <abbr title="Email">E:</abbr> <a href="mailto:#">{{ indiv.email }}</a> 
+      {% endif %}
+
+      {% if indiv.website %}
+      <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a>
+      {% endif %}
+
+      {% if indiv.currentRole %}
+      Current Role: {{ indiv.currentRole }}.
+      {% endif %}
+    </address>
+  </div>
+</div>

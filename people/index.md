@@ -3,6 +3,10 @@ layout: directory
 title: Directory
 imageroot: images/headshots
 
+# Directory entry formatting notes
+# the script will look for a headshot image formatted as NameWithoutSpaces.jpg
+# groups can be PI, Graduate Students, Postdocs, Undergraduate Students, Volunteers, Alumni
+
 people:
   - name: Caleb Kemere
     group: PI
@@ -19,11 +23,6 @@ people:
     interests: Signal processing, realtime systems
     website: /people/etienneackermann
 
-  - name: Eric Lewis
-    group: Graduate Students
-    title: PhD Student Electrical and Computer Engineering
-    interests: Deep Brain Stimulation
-    
   - name: Ziying Chen
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
@@ -41,31 +40,53 @@ people:
 
   - name: Jill Juneau
     group: Graduate Students
-    title: Rotating PhD Student Electrical and Computer Engineering
-    interests: Realtime systems, neural signal processing
+    title: PhD Student Electrical and Computer Engineering
+    interests: Realtime systems, fluorescence imaging, embedded systems
+
+  - name: Sibo Gao
+    group: Graduate Students
+    title: PhD Student Electrical and Computer Engineering
+    interests: Head-fixed behaviors, translational neural engineering
+
+  - name: James Webb
+    group: Graduate Students
+    title: MD/PhD Student BCM Neuroscience program 
+    interests: Deep learning, hippocampus and decision making
+
+  - name: Eric Lewis
+    group: Graduate Students
+    title: PhD Student Electrical and Computer Engineering
+    interests: Deep Brain Stimulation
+    
+
+  - name: Alex Rodriguez
+    group: Postdocs
+    title: Dunn Foundation Postdoctoral Fellow in Neural Engineering
+    interests: Nanofabrication, flexible electrodes, sleep
+
+  - name: Ariel Feldman 
+    group: Undergraduate Students
+    title: Undergraduate research assistant
+    interests: Deep learning, rodent behavior, neuroengineering
 
   - name: Lauren Yeom 
     group: Undergraduate Students
     title: Undergraduate research assistant
     interests: unknown
     
-  - name: Siddhartha Shektar
-    group: Volunteers
-    title: High school volunteer
-    interests: unknown
-
   - name: Flavia Vitale
     group: Alumni
     title: Postdoctoral Fellow in Chemical Engineering
     interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
     currentRole: Postdoctoral Researcher at the Center for Neuroengineering & Therapeutics, University of Pennsylvania
 
-  - name: Samantha Summerson
+  - name: Samantha Santa Cruz
     group: Alumni
     title: PhD, Electrical and Computer Engineering
     website: http://www.ece.rice.edu/~srs1/
     interests: Movement disorders, optimizing deep brain stimulation, information theory
-    currentRole: Postdoc, Carmena Lab, UC Berkeley
+    #currentRole: Postdoc, Carmena Lab, UC Berkeley
+    currentRole: Assistant Professor UT Austin
 
   - name: Josh Chartier
     group: Alumni
@@ -79,76 +100,82 @@ people:
     interests: Lucid dreaming, neuroscience
     currentRole: MS Student, Electrical Engineering, Stanford
 
-  - name: Boying Meng
+  - name: Nicola Park
     group: Alumni
-    title: Electrical and Computer Engineering
-    currentRole: PhD Student, Electrical Engineering, MIT
-
-  - name: Zongjun Zheng
-    group: Alumbi
-    title: BS Electrical and Computer Engineering
-    interests: Learning and memory, Deep Brain Stimulation
-    currentRole: PhD Student, Electrical Engineering, Caltech
-
-  - name: Kinsey Dittmar
-    group: Alumni
-    title: BS Cognitive Science
-    interests: Deep Brain Stimulation, Spatial navigation
-    currentRole: Wagoner Fellow in Yetebon, Ethiopia, UTSA Medical Student
-
-  - name: Holly Liang
-    group: Alumni
-    title: Electrical and Computer Engineering
-    currentRole: Oracle, MS Student, Electrical Engineering, Stanford
+    title: Cognitive Science
+    currentRole: Medical School
 
   - name: Sarah Eagleman
     group: Alumni
     title: Postdoctoral Fellow in Neuroscience
     interests: Memory, Learning/Reward, Sleep
-    
-  - name: Paul Rockaway
-    group: Alumni
-    title: Electrical and Computer Engineering
-
-  - name: Tam Vu
-    group: Alumni
-    title: Electrical and Computer Engineering
+    currentRole: Postdoctoral Fellow, Stanford University Dept. of Anesthesiology
 
   - name: Ankit Sethi
     group: Alumni
+    title: MS ECE
+
+  - name: Boying Meng
+    group: Alumni2
+    title: BS ECE
+    currentRole: PhD Student, Electrical Engineering, MIT
+
+  - name: Kinsey Dittmar
+    group: Alumni2
+    title: BS Cognitive Science
+    #interests: Deep Brain Stimulation, Spatial navigation
+    currentRole: Wagoner Fellow in Yetebon, Ethiopia, UTSA Medical Student
+
+  - name: Holly Liang
+    group: Alumni2
+    title: BS ECE
+    currentRole: Oracle, MSEE Student Stanford
+
+  - name: Siddhartha Shektar
+    group: Alumni2
+    # title: High school volunteer
+    currentRole: College student
+
+  - name: Zongjun Zheng
+    group: Alumni2
+    title: BS ECE
+    # interests: Learning and memory, Deep Brain Stimulation
+    currentRole: PhD Student, Electrical Engineering, Caltech
+    
+  - name: Paul Rockaway
+    group: Alumni2
+    title: BS ECE
+
+  - name: Tam Vu
+    group: Alumni2
+    title: BS ECE
 
   - name: Michael Tsehaie
-    group: Alumni
-    title: Electrical and Computer Engineering
+    group: Alumni2
+    title: BS ECE
 
   - name: Caleb Lu
-    group: Alumni
-    title: unknown
-    interests: unknown
+    group: Alumni2
+    title: BS ECE
     
   - name: Zohra Baig
-    group: Alumni
-    title: BS Bioengineering
-    interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
+    group: Alumni2
+    title: BS BIOE
+    # interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
 
   - name: Jon Towne
-    group: Alumni
-    title: BS Bioengineering
-    interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
+    group: Alumni2
+    title: BS BIOE
+    # interests: Learning and memory, Deep Brain Stimulation, Spatial navigation
 
   - name: Anika Zaman
-    group: Alumni
-    title: BS Electrical and Computer Engineering
+    group: Alumni2
+    title: BS ECE
     interests: Learning and memory, Deep Brain Stimulation
 
   - name: James Coffelt
-    group: Alumni
-    title: unknown
-    interests: unknown
-
-  - name: Nicola Park
-    group: Alumni
-    title: Cognitive Science
+    group: Alumni2
+    title: BS ECE
 
 
 ---

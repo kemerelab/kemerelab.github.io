@@ -76,7 +76,20 @@ nav: people
     {% for indiv in page.people %}
     {% if indiv.group =="Alumni" %}
     <div class="col-md-6 directory">
-      {% include directory_entry.html %}
+      {% include alumni_directory_entry.html %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="bs-callout bs-callout-info">
+    <h3 class="panel-title">Alumni</h3>
+  </div>
+  <div class="row">
+    {% for indiv in page.people %}
+    {% if indiv.group =="Alumni2" %}
+    <div class="col-md-12 directory">
+      {% include small_alumni_directory_entry.html %}
     </div>
     {% endif %}
     {% endfor %}
