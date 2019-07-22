@@ -44,9 +44,10 @@ Houston, TX 77030
 <div class="bs-callout bs-callout-info">
 <h3>Probabilistic modeling of neural reactivation</h3>
 
-<p>This is a project description</p>
+<p class="lead">This is a project description</p>
 
-<p>Blah blah blah</p>
+Blah blah blah
+
 </div>
 
 <div class="row bs-callout bs-callout-warning">
@@ -69,25 +70,27 @@ Houston, TX 77030
 <div class="bs-callout bs-callout-funding">
 <h3>Uninterupted chronic wireless neural recording</h3>
 
-<p>This is a project description</p>
+<p class="lead">This is a project description</p>
 
-<p>Blah blah blah</p>
+Blah blah blah
 </div>
 
 <div class="bs-callout bs-callout-danger">
 <h3>High density microdrive tetrode array</h3>
 
-<p>This is a project description</p>
+<p class="lead">This is a project description</p>
 
-<p>Blah blah blah</p>
+Blah blah blah
+
 </div>
 
 <div class="bs-callout bs-callout-success">
 <h3>Real-time video tracking and offline video analysis and annotation</h3>
 
-<p>This is a project description</p>
+<p class="lead">This is a project description</p>
 
-<p>Blah blah blah</p>
+Blah blah blah
+
 </div>
 <!--
 <h3><span class="label label-info"> Education</span></h3>
