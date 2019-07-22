@@ -18,10 +18,11 @@ people:
     website: /people/calebkemere
 
   - name: Etienne Ackermann
-    group: Graduate Students
-    title: PhD Student Electrical and Computer Engineering
+    group: Alumni
+    title: PhD, Electrical and Computer Engineering
     interests: Signal processing, realtime systems
     website: /people/etienneackermann
+    currentRole: Uber Machine Learning
 
   - name: Ziying Chen
     group: Graduate Students
@@ -83,7 +84,7 @@ people:
   - name: Samantha Santa Cruz
     group: Alumni
     title: PhD, Electrical and Computer Engineering
-    website: http://www.ece.rice.edu/~srs1/
+    website: http://santacruzlab.org/
     interests: Movement disorders, optimizing deep brain stimulation, information theory
     #currentRole: Postdoc, Carmena Lab, UC Berkeley
     currentRole: Assistant Professor UT Austin

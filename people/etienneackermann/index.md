@@ -10,14 +10,14 @@ nav: etienneackermann
 <div class="row">
 <div class="col-md-3 hidden-xs">
 <a class="thumbnail" href="#">
-<img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]">
+<img src="EtienneAckermann-lego.jpg" alt="[Etienne Ackermann]" class="img-fluid">
 </a>
 </div>
 
 
 <div class="col-md-9 lead">
 
-##Etienne Ackermann
+<H2>Etienne Ackermann</H2>
 
 <strong>Graduate Student, [Electrical and Computer Engineering](http://www.ece.rice.edu/), 
 [Rice University](http://www.rice.edu)
@@ -42,7 +42,7 @@ Houston, TX 77030
 <h2><span class="label label-info"> Projects</span></h2>
 
 <div class="bs-callout bs-callout-info">
-###Probabilistic modeling of neural reactivation
+<h3>Probabilistic modeling of neural reactivation</h3>
 
 <p>This is a project description</p>
 
@@ -50,11 +50,11 @@ Houston, TX 77030
 </div>
 
 <div class="row bs-callout bs-callout-warning">
-###Three dimensional spatial representation in the hippocampus
+<h3>Three dimensional spatial representation in the hippocampus</h3>
 
 <div class="col-md-2">
 <a class="thumbnail" href="#">
-  <img src="logoelevator.png" alt="[logoelevatorpng]">
+  <img src="logoelevator.png" alt="[logoelevatorpng]" class="img-fluid">
 </a>
 </div>
 <div class="col-md-10 lead">
@@ -67,7 +67,7 @@ Houston, TX 77030
 </div>
 
 <div class="bs-callout bs-callout-funding">
-### Uninterupted chronic wireless neural recording
+<h3>Uninterupted chronic wireless neural recording</h3>
 
 <p>This is a project description</p>
 
@@ -75,7 +75,7 @@ Houston, TX 77030
 </div>
 
 <div class="bs-callout bs-callout-danger">
-### High density microdrive tetrode array
+<h3>High density microdrive tetrode array</h3>
 
 <p>This is a project description</p>
 
@@ -83,7 +83,7 @@ Houston, TX 77030
 </div>
 
 <div class="bs-callout bs-callout-success">
-### Real-time video tracking and offline video analysis and annotation
+<h3>Real-time video tracking and offline video analysis and annotation</h3>
 
 <p>This is a project description</p>
 
