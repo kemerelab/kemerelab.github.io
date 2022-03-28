@@ -17,16 +17,9 @@ people:
     email: caleb.kemere@rice.edu
     website: /people/calebkemere
 
-  - name: Etienne Ackermann
-    group: Alumni
-    title: PhD, Electrical and Computer Engineering
-    interests: Signal processing, realtime systems
-    website: /people/etienneackermann
-    currentRole: Uber Machine Learning
-
   - name: Ziying Chen
-    group: Graduate Students
-    title: PhD Student Electrical and Computer Engineering
+    group: Postdocs
+    title: Research Scientist
     interests: Realtime systems, virtual reality
     
   - name: Shayok Dutta
@@ -39,11 +32,6 @@ people:
     title: PhD Student Electrical and Computer Engineering
     interests: Realtime systems, neural signal processing
 
-  - name: Jill Juneau
-    group: Graduate Students
-    title: PhD Student Electrical and Computer Engineering
-    interests: Realtime systems, fluorescence imaging, embedded systems
-
   - name: Sibo Gao
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
@@ -54,11 +42,39 @@ people:
     title: MD/PhD Student BCM Neuroscience program 
     interests: Deep learning, hippocampus and decision making
 
-  - name: Eric Lewis
+  - name: Dani del Rio
+    group: Graduate Students
+    title: PhD Student Applied Physics
+    interests: 
+
+  - name: Della Luo
     group: Graduate Students
     title: PhD Student Electrical and Computer Engineering
-    interests: Deep Brain Stimulation
-    
+    interests: 
+
+  - name: Kayla Vokt
+    group: Graduate Students
+    title: PhD Student Electrical and Computer Engineering
+    interests: 
+
+  - name: James Webb
+    group: Graduate Students
+    title: MD/PhD Student BCM Neuroscience program 
+    interests: Deep learning, hippocampus and decision making
+
+  - name: Etienne Ackermann
+    group: Alumni
+    title: PhD, Electrical and Computer Engineering
+    interests: Signal processing, realtime systems
+    website: /people/etienneackermann
+    currentRole: Uber Machine Learning
+
+  - name: Jill Juneau
+    group: Alumi
+    title: MS ECE
+    interests: Realtime systems, fluorescence imaging, embedded systems
+    currentRole: Electronics Development Group Manager, LSU Physics
+
 
   - name: Alex Rodriguez
     group: Postdocs
@@ -110,11 +126,17 @@ people:
     group: Alumni
     title: Postdoctoral Fellow in Neuroscience
     interests: Memory, Learning/Reward, Sleep
-    currentRole: Postdoctoral Fellow, Stanford University Dept. of Anesthesiology
+    currentRole: Research Scientist, Neuralink
 
   - name: Ankit Sethi
     group: Alumni
     title: MS ECE
+
+  - name: Eric Lewis
+    group: Alumni
+    title: MS ECE
+    interests: Deep Brain Stimulation
+
 
   - name: Boying Meng
     group: Alumni2
