@@ -75,16 +75,18 @@ people:
     interests: Realtime systems, fluorescence imaging, embedded systems
     currentRole: Electronics Development Group Manager, LSU Physics
 
-
   - name: Alex Rodriguez
     group: Postdocs
+    group: Alumni
     title: Dunn Foundation Postdoctoral Fellow in Neural Engineering
     interests: Nanofabrication, flexible electrodes, sleep
 
   - name: Ariel Feldman 
-    group: Undergraduate Students
+    group: Alumni
+    # group: Undergraduate Students
     title: Undergraduate research assistant
     interests: Deep learning, rodent behavior, neuroengineering
+    currentRole: PhD Student, CMU
 
   - name: Lauren Yeom 
     group: Undergraduate Students
@@ -95,7 +97,8 @@ people:
     group: Alumni
     title: Postdoctoral Fellow in Chemical Engineering
     interests: Materials for bio/neuro interfaces, Carbon Nanotube Fibers
-    currentRole: Postdoctoral Researcher at the Center for Neuroengineering & Therapeutics, University of Pennsylvania
+    # currentRole: Postdoctoral Researcher at the Center for Neuroengineering & Therapeutics, University of Pennsylvania
+    currentRole: Assistant Professor U Penn
 
   - name: Samantha Santa Cruz
     group: Alumni
@@ -109,13 +112,13 @@ people:
     group: Alumni
     title: BS Electrical and Computer Engineering
     interests: Neuroscience, neuro-engineering
-    currentRole: PhD Student, Bioengineering, UC Berkeley
+    # currentRole: PhD Student, Bioengineering, UC Berkeley
 
   - name: Christopher Liu
     group: Alumni
     title: BS Cognitive Science
     interests: Lucid dreaming, neuroscience
-    currentRole: MS Student, Electrical Engineering, Stanford
+    # currentRole: MS Student, Electrical Engineering, Stanford
 
   - name: Nicola Park
     group: Alumni
@@ -157,7 +160,7 @@ people:
   - name: Siddhartha Shektar
     group: Alumni2
     # title: High school volunteer
-    currentRole: College student
+    currentRole: Microsoft
 
   - name: Zongjun Zheng
     group: Alumni2
