@@ -42,7 +42,7 @@ people:
     title: MD/PhD Student BCM Neuroscience program 
     interests: Deep learning, hippocampus and decision making
 
-  - name: Dani del Rio
+  - name: Daniela del Rio
     group: Graduate Students
     title: PhD Student Applied Physics
     interests: 
@@ -57,10 +57,13 @@ people:
     title: PhD Student Electrical and Computer Engineering
     interests: 
 
-  - name: James Webb
-    group: Graduate Students
-    title: MD/PhD Student BCM Neuroscience program 
-    interests: Deep learning, hippocampus and decision making
+  - name: Jim Zhang
+    group: Undergraduate Students
+    interests: 
+
+  - name: Amy Ho
+    group: Undergraduate Students
+    interests: 
 
   - name: Etienne Ackermann
     group: Alumni
@@ -89,9 +92,10 @@ people:
     currentRole: PhD Student, CMU
 
   - name: Lauren Yeom 
-    group: Undergraduate Students
-    title: Undergraduate research assistant
-    interests: unknown
+    group: Alumni
+    # group: Undergraduate Students
+    # title: Undergraduate research assistant
+    # interests: unknown
     
   - name: Flavia Vitale
     group: Alumni
