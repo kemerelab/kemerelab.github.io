@@ -16,6 +16,7 @@ people:
     phone: 713.348.6089
     email: caleb.kemere@rice.edu
     website: /people/calebkemere
+    social: <a rel="me" href="https://neuromatch.social/@ckemere">Mastodon</a>
 
   - name: Ziying Chen
     group: Postdocs

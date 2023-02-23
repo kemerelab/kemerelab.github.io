@@ -35,6 +35,10 @@
       <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a> <br />
       {% endif %}
 
+      {% if indiv.social %}
+      <abbr title="Social Media">S:</abbr> {{ indiv.social }} <br />
+      {% endif %}
+
       {% if indiv.group != "Alumni" %}
       {% if indiv.interests %}
       Research Interests: {{ indiv.interests }}
