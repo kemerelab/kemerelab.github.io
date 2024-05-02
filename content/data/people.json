@@ -1,0 +1,224 @@
+{
+   "people": [
+     {
+       "name": "Caleb Kemere",
+       "group": "Graduate Students",
+       "title": "Assoc. Professor, Electrical and Computer Engineering, Rice University",
+       "title2": "Adjunct Assoc. Professor, Neuroscience, Baylor College of Medicine",
+       "address": "BRC 727",
+       "phone": "713.348.6089",
+       "email": "caleb.kemere@rice.edu",
+       "website": "/people/calebkemere",
+       "social": "<a rel=\"me\" href=\"https://neuromatch.social/@ckemere\">Mastodon</a>"
+     },
+    {
+      "name": "Sibo Gao",
+      "group": "Graduate Students",
+      "title": "PhD Student Electrical and Computer Engineering",
+      "interests": "Head-fixed behaviors, translational neural engineering"
+    }, {
+      "name": "Della Luo",
+      "group": "Graduate Students",
+      "title": "PhD Student Electrical and Computer Engineering",
+      "interests": null
+    },
+    {
+      "name": "Daniela del Rio",
+      "group": "Graduate Students",
+      "title": "PhD Student Applied Physics",
+      "interests": null
+    },
+    {
+      "name": "Kayla Vokt",
+      "group": "Graduate Students",
+      "title": "PhD Student Electrical and Computer Engineering",
+      "interests": null
+    },
+    {
+      "name": "James Webb",
+      "group": "Alumni",
+      "title": "MD/PhD Student BCM Neuroscience program",
+      "interests": "Deep learning, hippocampus and decision making"
+    },
+    {
+       "name": "Shayok Dutta",
+       "group": "Alumni",
+       "title": "PhD Student Electrical and Computer Engineering",
+       "interests": "Realtime systems, neural signal processing",
+       "currentRole": "Postdoc UC Denver"
+     },
+     {
+       "name": "Joshua Chu",
+       "group": "Alumni",
+       "title": "PhD Student Electrical and Computer Engineering",
+       "interests": "Realtime systems, neural signal processing"
+     },
+     {
+      "name": "Ziying Chen",
+      "group": "Alumni",
+      "title": "Research Scientist",
+      "interests": "Realtime systems, virtual reality",
+      "currentRole": "Research Scientist, MIT"
+    },
+     {
+       "name": "Jim Zhang",
+       "group": "Alumni",
+       "currentRole": "PhD Student, Duke",
+       "interests": null
+     },
+     {
+       "name": "Amy Ho",
+       "group": "Alumi",
+       "currentRole": "Medical School",
+       "interests": null
+     },
+     {
+       "name": "Etienne Ackermann",
+       "group": "Alumni",
+       "title": "PhD, Electrical and Computer Engineering",
+       "interests": "Signal processing, realtime systems",
+       "website": "/people/etienneackermann"
+     },
+     {
+       "name": "Jill Juneau",
+       "group": "Alumi",
+       "title": "MS ECE",
+       "interests": "Realtime systems, fluorescence imaging, embedded systems",
+       "currentRole": "Research Scientist, MIT"
+     },
+     {
+       "name": "Alex Rodriguez",
+       "group": "Alumni",
+       "title": "Dunn Foundation Postdoctoral Fellow in Neural Engineering",
+       "interests": "Nanofabrication, flexible electrodes, sleep"
+     },
+     {
+       "name": "Ariel Feldman",
+       "group": "Alumni",
+       "title": "Undergraduate research assistant",
+       "interests": "Deep learning, rodent behavior, neuroengineering",
+       "currentRole": "PhD Student, CMU"
+     },
+     {
+       "name": "Lauren Yeom",
+       "group": "Alumni"
+     },
+     {
+       "name": "Flavia Vitale",
+       "group": "Alumni3",
+       "title": "Postdoctoral Fellow in Chemical Engineering",
+       "interests": "Materials for bio/neuro interfaces, Carbon Nanotube Fibers",
+       "currentRole": "Assistant Professor U Penn"
+     },
+     {
+       "name": "Samantha Santa Cruz",
+       "group": "Alumni3",
+       "title": "PhD, Electrical and Computer Engineering",
+       "website": "http://santacruzlab.org/",
+       "interests": "Movement disorders, optimizing deep brain stimulation, information theory",
+       "currentRole": "Assistant Professor UT Austin"
+     },
+     {
+       "name": "Josh Chartier",
+       "group": "Alumni",
+       "title": "BS Electrical and Computer Engineering",
+       "interests": "Neuroscience, neuro-engineering"
+     },
+     {
+       "name": "Christopher Liu",
+       "group": "Alumni",
+       "title": "BS Cognitive Science",
+       "interests": "Lucid dreaming, neuroscience"
+     },
+     {
+       "name": "Nicola Park",
+       "group": "Alumni",
+       "title": "Cognitive Science"
+     },
+     {
+       "name": "Sarah Eagleman",
+       "group": "Alumni",
+       "title": "Postdoctoral Fellow in Neuroscience",
+       "interests": "Memory, Learning/Reward, Sleep"
+     },
+     {
+       "name": "Ankit Sethi",
+       "group": "Alumni",
+       "title": "MS ECE"
+     },
+     {
+       "name": "Eric Lewis",
+       "group": "Alumni",
+       "title": "MS ECE",
+       "interests": "Deep Brain Stimulation"
+     },
+     {
+       "name": "Boying Meng",
+       "group": "Alumni2",
+       "title": "BS ECE",
+       "currentRole": "PhD Student, Electrical Engineering, MIT"
+     },
+     {
+       "name": "Kinsey Dittmar",
+       "group": "Alumni2",
+       "title": "BS Cognitive Science",
+       "currentRole": "Wagoner Fellow in Yetebon, Ethiopia, UTSA Medical Student"
+     },
+     {
+       "name": "Holly Liang",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     },
+     {
+       "name": "Siddhartha Shektar",
+       "group": "Alumni2",
+       "currentRole": "Microsoft"
+     },
+     {
+       "name": "Zongjun Zheng",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     },
+     {
+       "name": "Paul Rockaway",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     },
+     {
+       "name": "Tam Vu",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     },
+     {
+       "name": "Michael Tsehaie",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     },
+     {
+       "name": "Caleb Lu",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     },
+     {
+       "name": "Zohra Baig",
+       "group": "Alumni2",
+       "title": "BS BIOE"
+     },
+     {
+       "name": "Jon Towne",
+       "group": "Alumni2",
+       "title": "BS BIOE"
+     },
+     {
+       "name": "Anika Zaman",
+       "group": "Alumni2",
+       "title": "BS ECE",
+       "interests": "Learning and memory, Deep Brain Stimulation"
+     },
+     {
+       "name": "James Coffelt",
+       "group": "Alumni2",
+       "title": "BS ECE"
+     }
+   ]
+ }

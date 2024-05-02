@@ -1,0 +1,80 @@
+.navigation {
+   padding-bottom: 0px;
+   padding-top: 0px;
+}
+
+.icon {
+   width: 1.25em;
+   height: 1.25em;
+   /* vertical-align: -0.25em; */
+}
+
+.small-icon {
+   width: 0.75em;
+   height: 0.75em;
+   vertical-align: 0em;
+}
+
+.brand {
+   height: 50px;
+}
+
+
+.bluegrid {
+   background-image:url(/images/bluegrid-light.png);
+   background-repeat:repeat;
+   /* background-attachment:fixed;*/
+}
+
+
+.directory {
+   display: flex;
+}
+
+.publications {
+   font-size:small;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+
+
+ /* RESPONSIVE CSS
+ -------------------------------------------------- */
+ @media only screen and (prefers-color-scheme: dark) {
+   .bluegrid {
+      background-image:url(/images/bluegrid-light-darkmode.png);
+   }   
+}
+
+@media screen and (max-width: 64em) {
+   .hide-sm {
+       display: none !important;
+   }
+}
+
+/* CSS for directory */
+.large-column {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+   grid-gap: 20px;
+}
+
+.medium-column {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+   grid-gap: 20px;
+   padding: 20px;
+}
+
+.small-column {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+   grid-gap: 20px;
+}
+
+@media screen and (max-width: 64em) {
+   .hide-sm {
+       display: none !important;
+   }
+}
+

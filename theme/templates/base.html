@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+<head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME|striptags }}{% endblock title %}</title>
+        <meta charset="utf-8" />
+        <meta name="generator" content="Pelican" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {% if SITESUBTITLE %}
+        <meta name="description" content="{{ SITESUBTITLE }}" />
+        {% endif %}
+        {% if STYLESHEET_URL %}
+        <link rel="stylesheet" type="text/css" href="{{ STYLESHEET_URL }}" />
+        {% endif %}
+        <link rel="stylesheet" type="text/css" href="/theme/css/flexboxgrid.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/css/design.css" />
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Full Atom Feed" />
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME|striptags }} Full RSS Feed" />
+        {% endif %}
+        {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{%if FEED_ATOM_URL %}{{ FEED_ATOM_URL }}{% else %}{{ FEED_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Atom Feed" />
+        {% endif %}
+        {% if FEED_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{% if FEED_RSS_URL %}{{ FEED_RSS_URL }}{% else %}{{ FEED_RSS }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME|striptags }} RSS Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_ATOM and category %}
+        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_ATOM_URL %}{{ CATEGORY_FEED_ATOM_URL.format(slug=category.slug) }}{% else %}{{ CATEGORY_FEED_ATOM.format(slug=category.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Categories Atom Feed" />
+        {% endif %}
+        {% if CATEGORY_FEED_RSS and category %}
+        <link href="{{ FEED_DOMAIN }}/{% if CATEGORY_FEED_RSS_URL %}{{ CATEGORY_FEED_RSS_URL.format(slug=category.slug) }}{% else %}{{ CATEGORY_FEED_RSS.format(slug=category.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME|striptags }} Categories RSS Feed" />
+        {% endif %}
+        {% if TAG_FEED_ATOM and tag %}
+        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_ATOM_URL %}{{ TAG_FEED_ATOM_URL.format(slug=tag.slug) }}{% else %}{{ TAG_FEED_ATOM.format(slug=tag.slug) }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Tags Atom Feed" />
+        {% endif %}
+        {% if TAG_FEED_RSS and tag %}
+        <link href="{{ FEED_DOMAIN }}/{% if TAG_FEED_RSS_URL %}{{ TAG_FEED_RSS_URL.format(slug=tag.slug) }}{% else %}{{ TAG_FEED_RSS.format(slug=tag.slug) }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME|striptags }} Tags RSS Feed" />
+        {% endif %}
+        {% endblock head %}
+</head>
+
+<body>
+        <header class="navigation">
+           {% include 'navbar.html' %}
+        </header>
+        <main>
+        <div class="container-fluid">
+        {% block content %}
+        {% endblock %}
+        </div>
+        </main>
+        <footer id="footer" class="navigation">
+                <hr style="margin-bottom: 0px;">
+                <div class="container navigation" style="text-align: center;">
+                        <h6 style="margin-bottom: 0px;"><a href="http://rnel.rice.edu">Kemere Lab</a> • Rice University • 6500 Main St • BRC 880 •
+                        Houston • TX • 77005</h6>
+                        <h6 style="font-size:75%">
+                        <a href="https://neuroengineering.rice.edu/">Rice Neuroengineering Initiative</a> •
+                        <a href="http://events.rice.edu/">University Calendar</a> •
+                        <a href="http://www.rice.edu/maps/maps.html">Maps</a> •
+                        Powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>,
+                        Tested on <a href="http://kemerelab.github.io">Github</a> •
+                        &copy; 2024 C. Kemere
+                        </h6>
+                </div>
+        </footer>
+</body>
+</html>

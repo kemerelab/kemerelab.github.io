@@ -1,0 +1,2503 @@
+{
+ "metadata": {
+  "collection": "MyPapers",
+  "source": "MyPapers.bib",
+  "created": "2024-05-01T16:29:30.167734",
+  "records": 67
+ },
+ "records": [
+  {
+   "type": "article",
+   "id": "maboudiUncoveringTemporalStructure2018",
+   "citekey": "maboudiUncoveringTemporalStructure2018",
+   "collection": "MyPapers",
+   "file": "Maboudi et al. - 2018 - Uncovering temporal structure in hippocampal outpu.pdf",
+   "url": "https://elifesciences.org/articles/34467",
+   "doi": "10.7554/eLife.34467",
+   "title": "Uncovering temporal structure in hippocampal output patterns",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "de Jong, Laurel Watkins"
+    },
+    {
+     "name": "Pfeiffer, Brad E"
+    },
+    {
+     "name": "Foster, David"
+    },
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "eLife",
+    "volume": "7",
+    "pages": "e34467",
+    "month": "June"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "ackermannLatentVariableModels2017",
+   "citekey": "ackermannLatentVariableModels2017",
+   "collection": "MyPapers",
+   "file": "Ackermann et al_2017_Latent variable models for hippocampal sequence analysis.pdf",
+   "url": "http://ieeexplore.ieee.org/document/8335439/",
+   "doi": "10.1109/ACSSC.2017.8335439",
+   "title": "Latent variable models for hippocampal sequence analysis",
+   "year": "2017",
+   "booktitle": "2017 51st Asilomar Conference on Signals, Systems, and Computers",
+   "pages": "724--728",
+   "address": "Pacific Grove, CA, USA",
+   "month": "October",
+   "author": [
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Diba, Kamran"
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Pacific Grove, CA, USA"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "sethiMulitchannelRealTime2015",
+   "citekey": "sethiMulitchannelRealTime2015",
+   "collection": "MyPapers",
+   "file": "Sethi_Kemere_2015_Mulitchannel real time spike sorting for decoding ripple sequences.pdf",
+   "url": "http://ieeexplore.ieee.org/document/7146784/",
+   "doi": "10.1109/NER.2015.7146784",
+   "title": "Mulitchannel real time spike sorting for decoding ripple sequences",
+   "year": "2015",
+   "booktitle": "2015 7th International IEEE/EMBS Conference on Neural Engineering (NER)",
+   "pages": "956--959",
+   "address": "Montpellier, France",
+   "month": "April",
+   "author": [
+    {
+     "name": "Sethi, Ankit"
+    },
+    {
+     "name": "Kemere, Caleb T."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Montpellier, France"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "summersonRandomizedStimulationSignal2014",
+   "citekey": "summersonRandomizedStimulationSignal2014",
+   "collection": "MyPapers",
+   "file": "Summerson et al_2014_Randomized stimulation signal design to create partial informational lesions in.pdf",
+   "url": "http://ieeexplore.ieee.org/document/6854277/",
+   "doi": "10.1109/ICASSP.2014.6854277",
+   "title": "Randomized stimulation signal design to create partial informational lesions in parkinsonian neuronal networks",
+   "year": "2014",
+   "booktitle": "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+   "pages": "3626--3630",
+   "address": "Florence, Italy",
+   "month": "May",
+   "author": [
+    {
+     "name": "Summerson, Samantha R."
+    },
+    {
+     "name": "Grealish, Charlie"
+    },
+    {
+     "name": "Aazhang, Behnaam"
+    },
+    {
+     "name": "Kemere, Caleb T."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Florence, Italy"
+   }
+  },
+  {
+   "type": "article",
+   "id": "vitaleNeuralStimulationRecording2015",
+   "citekey": "vitaleNeuralStimulationRecording2015",
+   "collection": "MyPapers",
+   "file": "Vitale et al_2015_Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber.pdf",
+   "url": "http://pubs.acs.org/doi/10.1021/acsnano.5b01060",
+   "doi": "10.1021/acsnano.5b01060",
+   "title": "Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber Microelectrodes",
+   "year": "2015",
+   "author": [
+    {
+     "name": "Vitale, Flavia"
+    },
+    {
+     "name": "Summerson, Samantha R."
+    },
+    {
+     "name": "Aazhang, Behnaam"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Pasquali, Matteo"
+    }
+   ],
+   "journal": {
+    "name": "ACS Nano",
+    "volume": "9",
+    "number": "4",
+    "pages": "4465--4474",
+    "month": "April"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "odriscollNeuronsSiliconImplantable2006",
+   "citekey": "odriscollNeuronsSiliconImplantable2006",
+   "collection": "MyPapers",
+   "file": "O'Driscoll et al_2006_Neurons to Silicon.pdf",
+   "url": "http://ieeexplore.ieee.org/document/1696287/",
+   "doi": "10.1109/ISSCC.2006.1696287",
+   "title": "Neurons to Silicon: Implantable Prosthesis Processor",
+   "year": "2006",
+   "booktitle": "2006 IEEE International Solid State Circuits Conference - Digest of Technical Papers",
+   "pages": "2248--2257",
+   "address": "San Francisco, CA",
+   "author": [
+    {
+     "name": "O'Driscoll, S."
+    },
+    {
+     "name": "Meng, T."
+    },
+    {
+     "name": "Shenoy, K."
+    },
+    {
+     "name": "Kemere, C."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "San Francisco, CA"
+   }
+  },
+  {
+   "type": "article",
+   "id": "summersonBehavioralEffectsDisrupted2013",
+   "citekey": "summersonBehavioralEffectsDisrupted2013",
+   "collection": "MyPapers",
+   "file": "Summerson et al_2013_Behavioral effects of disrupted direct pathway signal flow caused by dopamine.pdf",
+   "url": "https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-14-S1-P205",
+   "doi": "10.1186/1471-2202-14-S1-P205",
+   "title": "Behavioral effects of disrupted direct pathway signal flow caused by dopamine depletion",
+   "year": "2013",
+   "author": [
+    {
+     "name": "Summerson, Samantha R"
+    },
+    {
+     "name": "Aazhang, Behnaam"
+    },
+    {
+     "name": "Kemere, Caleb T"
+    }
+   ],
+   "journal": {
+    "name": "BMC Neuroscience",
+    "volume": "14",
+    "number": "S1",
+    "pages": "P205, 1471--P205",
+    "month": "July"
+   }
+  },
+  {
+   "type": "article",
+   "id": "jadhavAwakeHippocampalSharpWave2012",
+   "citekey": "jadhavAwakeHippocampalSharpWave2012",
+   "collection": "MyPapers",
+   "file": "Jadhav et al_2012_Awake Hippocampal Sharp-Wave Ripples Support Spatial Memory.pdf",
+   "url": "http://www.sciencemag.org/cgi/doi/10.1126/science.1217230",
+   "doi": "10.1126/science.1217230",
+   "title": "Awake Hippocampal Sharp-Wave Ripples Support Spatial Memory",
+   "year": "2012",
+   "author": [
+    {
+     "name": "Jadhav, S. P."
+    },
+    {
+     "name": "Kemere, C."
+    },
+    {
+     "name": "German, P. W."
+    },
+    {
+     "name": "Frank, L. M."
+    }
+   ],
+   "journal": {
+    "name": "Science",
+    "volume": "336",
+    "number": "6087",
+    "pages": "1454--1458",
+    "month": "June"
+   }
+  },
+  {
+   "type": "incollection",
+   "id": "summersonMultielectrodeRecordingNeural2015",
+   "citekey": "summersonMultielectrodeRecordingNeural2015",
+   "collection": "MyPapers",
+   "title": "Multi-electrode Recording of Neural Activity in Awake Behaving Animals",
+   "year": "2015",
+   "booktitle": "Basic Electrophysiological Methods",
+   "pages": "76--107",
+   "author": [
+    {
+     "name": "Summerson, Samantha"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "publisher": {
+    "name": "Oxford Univ Press"
+   },
+   "editor": [
+    {
+     "name": {
+      "name": "Covey, Ellen",
+      "ID": "CoveyEllen"
+     }
+    },
+    {
+     "name": {
+      "name": "Carter, Matt",
+      "ID": "CarterMatt"
+     }
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "kemereOptogeneticControlHippocampal2008",
+   "citekey": "kemereOptogeneticControlHippocampal2008",
+   "collection": "MyPapers",
+   "title": "Optogenetic control of hippocampal neurons in behaving rats using ChR2",
+   "year": "2008",
+   "booktitle": "Society for Neuroscience Abstracts",
+   "pages": "Program #690.6",
+   "author": [
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Zhang, Feng"
+    },
+    {
+     "name": "Deisseroth, Karl"
+    },
+    {
+     "name": "Frank, Loren M"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "duttaAnalysisOpenSource2019",
+   "citekey": "duttaAnalysisOpenSource2019",
+   "collection": "MyPapers",
+   "file": "Dutta et al_2018_Analysis of an open source, closed-loop, realtime system for hippocampal.pdf",
+   "doi": "10.1088/1741-2552/aae90e",
+   "title": "Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Dutta, Shayok"
+    },
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "Journal of Neural Engineering",
+    "volume": "16",
+    "number": "1",
+    "pages": "016009"
+   }
+  },
+  {
+   "type": "article",
+   "id": "kemereModelBasedNeuralDecoding2004",
+   "citekey": "kemereModelBasedNeuralDecoding2004",
+   "collection": "MyPapers",
+   "file": "Kemere et al_2004_Model-based neural decoding of reaching movements.pdf",
+   "url": "http://ieeexplore.ieee.org/document/1300784/",
+   "doi": "10.1109/TBME.2004.826675",
+   "title": "Model-Based Neural Decoding of Reaching Movements: A Maximum Likelihood Approach",
+   "year": "2004",
+   "author": [
+    {
+     "name": "Kemere, C."
+    },
+    {
+     "name": "Shenoy, K.V."
+    },
+    {
+     "name": "Meng, T.H."
+    }
+   ],
+   "journal": {
+    "name": "IEEE Transactions on Biomedical Engineering",
+    "volume": "51",
+    "number": "6",
+    "pages": "925--932",
+    "month": "June"
+   }
+  },
+  {
+   "type": "article",
+   "id": "yuMixtureTrajectoryModels2007",
+   "citekey": "yuMixtureTrajectoryModels2007",
+   "collection": "MyPapers",
+   "file": "Yu et al_2007_Mixture of Trajectory Models for Neural Decoding of Goal-Directed Movements.pdf",
+   "url": "http://www.physiology.org/doi/10.1152/jn.00482.2006",
+   "doi": "10.1152/jn.00482.2006",
+   "title": "Mixture of Trajectory Models for Neural Decoding of Goal-Directed Movements",
+   "year": "2007",
+   "author": [
+    {
+     "name": "Yu, Byron M."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Santhanam, Gopal"
+    },
+    {
+     "name": "Afshar, Afsheen"
+    },
+    {
+     "name": "Ryu, Stephen I."
+    },
+    {
+     "name": "Meng, Teresa H."
+    },
+    {
+     "name": "Sahani, Maneesh"
+    },
+    {
+     "name": "Shenoy, Krishna V."
+    }
+   ],
+   "journal": {
+    "name": "Journal of Neurophysiology",
+    "volume": "97",
+    "number": "5",
+    "pages": "3763--3780",
+    "month": "May"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "Juneau2018",
+   "citekey": "Juneau2018",
+   "collection": "MyPapers",
+   "title": "Enhanced Image Sensor Module for Head-Mounted Microscopes",
+   "year": "2018",
+   "booktitle": "Proceedings of the 2018 IEEE Engineering in Medicine and Biology Conference",
+   "author": [
+    {
+     "name": "Juneau, J."
+    },
+    {
+     "name": "Duret, G."
+    },
+    {
+     "name": "Robinson, J. T."
+    },
+    {
+     "name": "Kemere, C."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "summersonCharacterizingMotorCognitive2014",
+   "citekey": "summersonCharacterizingMotorCognitive2014",
+   "collection": "MyPapers",
+   "file": "Summerson et al_2014_Characterizing Motor and Cognitive Effects Associated With Deep Brain.pdf",
+   "url": "http://ieeexplore.ieee.org/document/6832606/",
+   "doi": "10.1109/TNSRE.2014.2330515",
+   "title": "Characterizing Motor and Cognitive Effects Associated With Deep Brain Stimulation in the GPi of Hemi-Parkinsonian Rats",
+   "year": "2014",
+   "author": [
+    {
+     "name": "Summerson, Samantha R."
+    },
+    {
+     "name": "Aazhang, Behnaam"
+    },
+    {
+     "name": "Kemere, Caleb T."
+    }
+   ],
+   "journal": {
+    "name": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "volume": "22",
+    "number": "6",
+    "pages": "1218--1227",
+    "month": "November"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "kemereDecodingPlanPerimovement2002",
+   "citekey": "kemereDecodingPlanPerimovement2002",
+   "collection": "MyPapers",
+   "file": "Kemere et al_2002_Decoding of plan and peri-movement neural signals in prosthetic systems.pdf",
+   "url": "http://ieeexplore.ieee.org/document/1049722/",
+   "doi": "10.1109/SIPS.2002.1049722",
+   "title": "Decoding of plan and peri-movement neural signals in prosthetic systems",
+   "year": "2002",
+   "booktitle": "IEEE Workshop on Signal Processing Systems",
+   "pages": "276--283",
+   "address": "San Diego, CA, USA",
+   "author": [
+    {
+     "name": "Kemere, C.T."
+    },
+    {
+     "name": "Santhanam, G."
+    },
+    {
+     "name": "Yu, B.M."
+    },
+    {
+     "name": "Shenoy, K.V."
+    },
+    {
+     "name": "Meng, T.H."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "San Diego, CA, USA"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "summersonCurrentAmplitudedependentModulation2013",
+   "citekey": "summersonCurrentAmplitudedependentModulation2013",
+   "collection": "MyPapers",
+   "file": "Summerson et al_2013_Current amplitude-dependent modulation of rotational behavior with GPi.pdf",
+   "url": "http://ieeexplore.ieee.org/document/6609617/",
+   "doi": "10.1109/EMBC.2013.6609617",
+   "title": "Current amplitude-dependent modulation of rotational behavior with GPi stimulation in the rodent model of Parkinson's Disease",
+   "year": "2013",
+   "booktitle": "2013 35th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+   "pages": "783--786",
+   "address": "Osaka",
+   "month": "July",
+   "author": [
+    {
+     "name": "Summerson, Samantha R."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    },
+    {
+     "name": "Aazhang, Behnaam"
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Osaka"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "kemereOptimalEstimationFeedfowardcontrolled2005",
+   "citekey": "kemereOptimalEstimationFeedfowardcontrolled2005",
+   "collection": "MyPapers",
+   "file": "Kemere_Meng_2005_Optimal estimation of feed-forward-controlled linear systems.pdf",
+   "url": "http://ieeexplore.ieee.org/document/1416313/",
+   "doi": "10.1109/ICASSP.2005.1416313",
+   "title": "Optimal estimation of feed-foward-controlled linear systems",
+   "year": "2005",
+   "booktitle": "Proceedings. (ICASSP '05). IEEE International Conference on Acoustics, Speech, and Signal Processing, 2005.",
+   "volume": "5",
+   "pages": "353--356",
+   "address": "Philadelphia, Pennsylvania, USA",
+   "author": [
+    {
+     "name": "Kemere, C."
+    },
+    {
+     "name": "Meng, T."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Philadelphia, Pennsylvania, USA"
+   }
+  },
+  {
+   "type": "article",
+   "id": "wuHippocampalAwakeReplay2017",
+   "citekey": "wuHippocampalAwakeReplay2017",
+   "collection": "MyPapers",
+   "file": "Wu et al_2017_Hippocampal awake replay in fear memory retrieval.pdf",
+   "url": "http://www.nature.com/articles/nn.4507",
+   "doi": "10.1038/nn.4507",
+   "title": "Hippocampal awake replay in fear memory retrieval",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Wu, Chun-Ting"
+    },
+    {
+     "name": "Haggerty, Daniel"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Ji, Daoyun"
+    }
+   ],
+   "journal": {
+    "name": "Nature Neuroscience",
+    "volume": "20",
+    "number": "4",
+    "pages": "571--580",
+    "month": "April"
+   }
+  },
+  {
+   "type": "techreport",
+   "id": "maboudiUncoveringTemporalStructure2018a",
+   "citekey": "maboudiUncoveringTemporalStructure2018a",
+   "collection": "MyPapers",
+   "file": "Maboudi et al_2018_Uncovering temporal structure in hippocampal output patterns.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/242594",
+   "doi": "10.1101/242594",
+   "title": "Uncovering temporal structure in hippocampal output patterns",
+   "institution": "Neuroscience",
+   "year": "2018",
+   "month": "January",
+   "author": [
+    {
+     "name": "Maboudi, Koroush"
+    },
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "Pfeiffer, Brad E"
+    },
+    {
+     "name": "Foster, David J"
+    },
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "pezzuloInternallyGeneratedHippocampal2017",
+   "citekey": "pezzuloInternallyGeneratedHippocampal2017",
+   "collection": "MyPapers",
+   "file": "Pezzulo et al_2017_Internally generated hippocampal sequences as a vantage point to probe.pdf",
+   "url": "http://doi.wiley.com/10.1111/nyas.13329",
+   "doi": "10.1111/nyas.13329",
+   "title": "Internally generated hippocampal sequences as a vantage point to probe future-oriented cognition: Hippocampal sequences and future-oriented cognition",
+   "year": "2017",
+   "author": [
+    {
+     "name": "Pezzulo, Giovanni"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "van der Meer, Matthijs A.A."
+    }
+   ],
+   "journal": {
+    "name": "Annals of the New York Academy of Sciences",
+    "volume": "1396",
+    "number": "1",
+    "pages": "144--165",
+    "month": "May"
+   }
+  },
+  {
+   "type": "article",
+   "id": "vitaleFluidicMicroactuationFlexible2018",
+   "citekey": "vitaleFluidicMicroactuationFlexible2018",
+   "collection": "MyPapers",
+   "file": "Vitale et al_2017_Fluidic Microactuation of Flexible Electrodes for Neural Recording.pdf",
+   "url": "http://pubs.acs.org/doi/10.1021/acs.nanolett.7b04184",
+   "doi": "10.1021/acs.nanolett.7b04184",
+   "title": "Fluidic Microactuation of Flexible Electrodes for Neural Recording",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Vitale, Flavia"
+    },
+    {
+     "name": "Vercosa, Daniel G."
+    },
+    {
+     "name": "Rodriguez, Alexander V."
+    },
+    {
+     "name": "Pamulapati, Sushma Sri"
+    },
+    {
+     "name": "Seibt, Frederik"
+    },
+    {
+     "name": "Lewis, Eric"
+    },
+    {
+     "name": "Yan, J. Stephen"
+    },
+    {
+     "name": "Badhiwala, Krishna"
+    },
+    {
+     "name": "Adnan, Mohammed"
+    },
+    {
+     "name": "Royer-Carfagni, Gianni"
+    },
+    {
+     "name": "Beierlein, Michael"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Pasquali, Matteo"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ],
+   "journal": {
+    "name": "Nano Letters",
+    "volume": "18",
+    "number": "1",
+    "pages": "326--335",
+    "month": "January"
+   }
+  },
+  {
+   "type": "article",
+   "id": "kemereDetectingNeuralStateTransitions2008",
+   "citekey": "kemereDetectingNeuralStateTransitions2008",
+   "collection": "MyPapers",
+   "file": "Kemere et al_2008_Detecting neural-state transitions using hidden Markov models for motor.pdf",
+   "url": "http://www.physiology.org/doi/10.1152/jn.00924.2007",
+   "doi": "10.1152/jn.00924.2007",
+   "title": "Detecting Neural-State Transitions Using Hidden Markov Models for Motor Cortical Prostheses",
+   "year": "2008",
+   "author": [
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Santhanam, Gopal"
+    },
+    {
+     "name": "Yu, Byron M."
+    },
+    {
+     "name": "Afshar, Afsheen"
+    },
+    {
+     "name": "Ryu, Stephen I."
+    },
+    {
+     "name": "Meng, Teresa H."
+    },
+    {
+     "name": "Shenoy, Krishna V."
+    }
+   ],
+   "journal": {
+    "name": "Journal of Neurophysiology",
+    "volume": "100",
+    "number": "4",
+    "pages": "2441--2452",
+    "month": "October"
+   }
+  },
+  {
+   "type": "article",
+   "id": "lindermanSignalProcessingChallenges2008",
+   "citekey": "lindermanSignalProcessingChallenges2008",
+   "collection": "MyPapers",
+   "file": "Linderman et al_2008_Signal Processing Challenges for Neural Prostheses.pdf",
+   "url": "http://ieeexplore.ieee.org/document/4408439/",
+   "doi": "10.1109/MSP.2008.4408439",
+   "title": "Signal Processing Challenges for Neural Prostheses",
+   "year": "2008",
+   "author": [
+    {
+     "name": "Linderman, Michael"
+    },
+    {
+     "name": "Santhanam, Gopal"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Gilja, Vikash"
+    },
+    {
+     "name": "O'Driscoll, Stephen"
+    },
+    {
+     "name": "Yu, Byron"
+    },
+    {
+     "name": "Afshar, Afsheen"
+    },
+    {
+     "name": "Ryu, Stephen"
+    },
+    {
+     "name": "Shenoy, Krishna"
+    },
+    {
+     "name": "Meng, Teresa"
+    }
+   ],
+   "journal": {
+    "name": "IEEE Signal Processing Magazine",
+    "volume": "25",
+    "number": "1",
+    "pages": "18--28"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "shenoyIncreasingPerformanceCorticallyControlled2006",
+   "citekey": "shenoyIncreasingPerformanceCorticallyControlled2006",
+   "collection": "MyPapers",
+   "file": "Shenoy et al_2006_Increasing the Performance of Cortically-Controlled Prostheses.pdf",
+   "url": "http://ieeexplore.ieee.org/document/4030623/",
+   "doi": "10.1109/IEMBS.2006.260912",
+   "title": "Increasing the Performance of Cortically-Controlled Prostheses",
+   "year": "2006",
+   "booktitle": "2006 International Conference of the IEEE Engineering in Medicine and Biology Society",
+   "pages": "6652--6656",
+   "address": "New York, NY",
+   "author": [
+    {
+     "name": "Shenoy, Krishna V."
+    },
+    {
+     "name": "Santhanam, Teresa H."
+    },
+    {
+     "name": "Ryu, Stephen I."
+    },
+    {
+     "name": "Afshar, Afsheen"
+    },
+    {
+     "name": "Yu, Byron M."
+    },
+    {
+     "name": "Gilja, Vikash"
+    },
+    {
+     "name": "Linderman, Michael D."
+    },
+    {
+     "name": "Kalmar, Rachel S."
+    },
+    {
+     "name": "Cunningham, John P."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    },
+    {
+     "name": "Batista, Aaron P."
+    },
+    {
+     "name": "Churchland, Mark M."
+    },
+    {
+     "name": "Meng, Teresa H."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "New York, NY"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "sethiRealTimeAlgorithms2014",
+   "citekey": "sethiRealTimeAlgorithms2014",
+   "collection": "MyPapers",
+   "file": "Sethi_Kemere_2014_Real time algorithms for sharp wave ripple detection.pdf",
+   "url": "http://ieeexplore.ieee.org/document/6944164/",
+   "doi": "10.1109/EMBC.2014.6944164",
+   "title": "Real time algorithms for sharp wave ripple detection",
+   "year": "2014",
+   "booktitle": "2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+   "pages": "2637--2640",
+   "address": "Chicago, IL",
+   "month": "August",
+   "author": [
+    {
+     "name": "Sethi, Ankit"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Chicago, IL"
+   }
+  },
+  {
+   "type": "article",
+   "id": "summersonInvestigatingIrregularlyPatterned2015",
+   "citekey": "summersonInvestigatingIrregularlyPatterned2015",
+   "collection": "MyPapers",
+   "file": "Summerson et al_2015_Investigating irregularly patterned deep brain stimulation signal design using.pdf",
+   "url": "http://journal.frontiersin.org/Article/10.3389/fncom.2015.00078/abstract",
+   "doi": "10.3389/fncom.2015.00078",
+   "title": "Investigating irregularly patterned deep brain stimulation signal design using biophysical models",
+   "year": "2015",
+   "author": [
+    {
+     "name": "Summerson, Samantha R."
+    },
+    {
+     "name": "Aazhang, Behnaam"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "Frontiers in Computational Neuroscience",
+    "volume": "9",
+    "month": "June"
+   }
+  },
+  {
+   "type": "article",
+   "id": "adamsVivoFluorescenceImaging2020",
+   "citekey": "adamsVivoFluorescenceImaging2020",
+   "collection": "MyPapers",
+   "file": "Full Text PDF",
+   "url": "https://www.biorxiv.org/content/10.1101/2020.06.04.135236v2",
+   "doi": "10.1101/2020.06.04.135236",
+   "title": "In vivo fluorescence imaging with a flat, lensless microscope",
+   "year": "2020",
+   "note": "Publisher: Cold Spring Harbor Laboratory\nSection: New Results",
+   "author": [
+    {
+     "name": "Adams, Jesse K."
+    },
+    {
+     "name": "Boominathan, Vivek"
+    },
+    {
+     "name": "Gao, Sibo"
+    },
+    {
+     "name": "Rodriguez, Alex V."
+    },
+    {
+     "name": "Yan, Dong"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Veeraraghavan, Ashok"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "robinsonDevelopingNextGenerationBrain2019",
+   "citekey": "robinsonDevelopingNextGenerationBrain2019",
+   "collection": "MyPapers",
+   "file": "IEEE Xplore Abstract Record",
+   "doi": "10.1109/JSEN.2019.2931159",
+   "title": "Developing Next-Generation Brain Sensing Technologies\u2014A Review",
+   "year": "2019",
+   "note": "Conference Name: IEEE Sensors Journal",
+   "author": [
+    {
+     "name": "Robinson, Jacob T."
+    },
+    {
+     "name": "Pohlmeyer, Eric"
+    },
+    {
+     "name": "Gather, Malte C."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Kitching, John E."
+    },
+    {
+     "name": "Malliaras, George G."
+    },
+    {
+     "name": "Marblestone, Adam"
+    },
+    {
+     "name": "Shepard, Kenneth L."
+    },
+    {
+     "name": "Stieglitz, Thomas"
+    },
+    {
+     "name": "Xie, Chong"
+    }
+   ],
+   "journal": {
+    "name": "IEEE Sensors Journal",
+    "volume": "19",
+    "number": "22",
+    "pages": "10163--10175",
+    "month": "November"
+   }
+  },
+  {
+   "type": "article",
+   "id": "fanSputteredPorousPt2020",
+   "citekey": "fanSputteredPorousPt2020",
+   "collection": "MyPapers",
+   "file": "IOP Full Text PDF",
+   "url": "https://doi.org/10.1088%2F1741-2552%2Fab965c",
+   "doi": "10.1088/1741-2552/ab965c",
+   "title": "Sputtered porous Pt for wafer-scale manufacture of low-impedance flexible microelectrodes",
+   "year": "2020",
+   "note": "Publisher: IOP Publishing",
+   "author": [
+    {
+     "name": "Fan, Bo"
+    },
+    {
+     "name": "Rodriguez, Alexander V."
+    },
+    {
+     "name": "Vercosa, Daniel G."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ],
+   "journal": {
+    "name": "Journal of Neural Engineering",
+    "volume": "17",
+    "number": "3",
+    "pages": "036029",
+    "month": "June"
+   }
+  },
+  {
+   "type": "article",
+   "id": "duttaTracingPathMemory2020",
+   "citekey": "duttaTracingPathMemory2020",
+   "collection": "MyPapers",
+   "file": "ScienceDirect Full Text PDF",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0896627320304888",
+   "doi": "10.1016/j.neuron.2020.06.034",
+   "title": "Tracing a Path for Memory in the Hippocampus",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Dutta, Shayok"
+    },
+    {
+     "name": "Gao, Sibo"
+    },
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "Neuron",
+    "volume": "107",
+    "number": "2",
+    "pages": "199--201",
+    "month": "July"
+   }
+  },
+  {
+   "type": "article",
+   "id": "singerMagnetoelectricMaterialsMiniature2020",
+   "citekey": "singerMagnetoelectricMaterialsMiniature2020",
+   "collection": "MyPapers",
+   "file": "ScienceDirect Full Text PDF",
+   "url": "http://www.sciencedirect.com/science/article/pii/S0896627320303652",
+   "doi": "10.1016/j.neuron.2020.05.019",
+   "title": "Magnetoelectric Materials for Miniature, Wireless Neural Stimulation at Therapeutic Frequencies",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Singer, Amanda"
+    },
+    {
+     "name": "Dutta, Shayok"
+    },
+    {
+     "name": "Lewis, Eric"
+    },
+    {
+     "name": "Chen, Ziying"
+    },
+    {
+     "name": "Chen, Joshua C."
+    },
+    {
+     "name": "Verma, Nishant"
+    },
+    {
+     "name": "Avants, Benjamin"
+    },
+    {
+     "name": "Feldman, Ariel K."
+    },
+    {
+     "name": "O\u2019Malley, John"
+    },
+    {
+     "name": "Beierlein, Michael"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "vandermeerProgressIssuesSecondorder2020",
+   "citekey": "vandermeerProgressIssuesSecondorder2020",
+   "collection": "MyPapers",
+   "file": "Snapshot",
+   "url": "https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0238",
+   "doi": "10.1098/rstb.2019.0238",
+   "title": "Progress and issues in second-order analysis of hippocampal replay",
+   "year": "2020",
+   "note": "Publisher: Royal Society",
+   "author": [
+    {
+     "name": "van der Meer, Matthijs A. A."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Diba, Kamran"
+    }
+   ],
+   "journal": {
+    "name": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "volume": "375",
+    "number": "1799",
+    "pages": "20190238",
+    "month": "May"
+   }
+  },
+  {
+   "type": "article",
+   "id": "pediredlaDeepImagingScattering2016",
+   "citekey": "pediredlaDeepImagingScattering2016",
+   "collection": "MyPapers",
+   "file": "Pediredla et al_2016_Deep imaging in scattering media with selective plane illumination microscopy.pdf",
+   "url": "http://biomedicaloptics.spiedigitallibrary.org/article.aspx?doi=10.1117/1.JBO.21.12.126009",
+   "doi": "10.1117/1.JBO.21.12.126009",
+   "title": "Deep imaging in scattering media with selective plane illumination microscopy",
+   "year": "2016",
+   "author": [
+    {
+     "name": "Pediredla, Adithya Kumar"
+    },
+    {
+     "name": "Zhang, Shizheng"
+    },
+    {
+     "name": "Avants, Ben"
+    },
+    {
+     "name": "Ye, Fan"
+    },
+    {
+     "name": "Nagayama, Shin"
+    },
+    {
+     "name": "Chen, Ziying"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    },
+    {
+     "name": "Veeraraghavan, Ashok"
+    }
+   ],
+   "journal": {
+    "name": "Journal of Biomedical Optics",
+    "volume": "21",
+    "number": "12",
+    "pages": "126009",
+    "month": "December"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "ackermannScoringSequencesHippocampal2016",
+   "citekey": "ackermannScoringSequencesHippocampal2016",
+   "collection": "MyPapers",
+   "file": "Ackermann_Kemere_2016_Scoring sequences of hippocampal activity using hidden Markov models.pdf",
+   "url": "http://ieeexplore.ieee.org/document/7590860/",
+   "doi": "10.1109/EMBC.2016.7590860",
+   "title": "Scoring sequences of hippocampal activity using hidden Markov models",
+   "year": "2016",
+   "booktitle": "2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+   "pages": "957--960",
+   "address": "Orlando, FL, USA",
+   "month": "August",
+   "author": [
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Orlando, FL, USA"
+   }
+  },
+  {
+   "type": "article",
+   "id": "kemereRapidContinuousModulation2013",
+   "citekey": "kemereRapidContinuousModulation2013",
+   "collection": "MyPapers",
+   "file": "Kemere et al_2013_Rapid and continuous modulation of hippocampal network state during exploration.pdf",
+   "url": "https://dx.plos.org/10.1371/journal.pone.0073114",
+   "doi": "10.1371/journal.pone.0073114",
+   "title": "Rapid and Continuous Modulation of Hippocampal Network State during Exploration of New Places",
+   "year": "2013",
+   "author": [
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Carr, Margaret F."
+    },
+    {
+     "name": "Karlsson, Mattias P."
+    },
+    {
+     "name": "Frank, Loren M."
+    }
+   ],
+   "journal": {
+    "name": "PLoS ONE",
+    "volume": "8",
+    "number": "9",
+    "pages": "e73114",
+    "month": "September"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "kemereModelbasedDecodingReaching2004",
+   "citekey": "kemereModelbasedDecodingReaching2004",
+   "collection": "MyPapers",
+   "file": "Kemere et al_2004_Model-based decoding of reaching movements for prosthetic systems.pdf",
+   "url": "http://ieeexplore.ieee.org/document/1404256/",
+   "doi": "10.1109/IEMBS.2004.1404256",
+   "title": "Model-based decoding of reaching movements for prosthetic systems",
+   "year": "2004",
+   "booktitle": "The 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society",
+   "volume": "4",
+   "pages": "4524--4528",
+   "address": "San Francisco, CA, USA",
+   "author": [
+    {
+     "name": "Kemere, C."
+    },
+    {
+     "name": "Santhanam, G."
+    },
+    {
+     "name": "Yu, B.M."
+    },
+    {
+     "name": "Ryu, S."
+    },
+    {
+     "name": "Meng, T."
+    },
+    {
+     "name": "Shenoy, K.V."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "San Francisco, CA, USA"
+   }
+  },
+  {
+   "type": "inproceedings",
+   "id": "kemereRobustNeuralDecoding2003",
+   "citekey": "kemereRobustNeuralDecoding2003",
+   "collection": "MyPapers",
+   "file": "Kemere et al_2003_Robust neural decoding of reaching movements for prosthetic systems.pdf",
+   "url": "http://ieeexplore.ieee.org/document/1280146/",
+   "doi": "10.1109/IEMBS.2003.1280146",
+   "title": "Robust neural decoding of reaching movements for prosthetic systems",
+   "year": "2003",
+   "booktitle": "Proceedings of the 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE Cat. No.03CH37439)",
+   "pages": "2079--2082",
+   "address": "Cancun, Mexico",
+   "author": [
+    {
+     "name": "Kemere, C."
+    },
+    {
+     "name": "Sahani, M."
+    },
+    {
+     "name": "Meng, T."
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Cancun, Mexico"
+   }
+  },
+  {
+   "type": "article",
+   "id": "adamsVivoLenslessMicroscopy2022",
+   "citekey": "adamsVivoLenslessMicroscopy2022",
+   "collection": "MyPapers",
+   "file": "Full Text",
+   "url": "https://www.nature.com/articles/s41551-022-00851-z",
+   "doi": "10.1038/s41551-022-00851-z",
+   "title": "In vivo lensless microscopy via a phase mask generating diffraction patterns with high-contrast contours",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Adams, Jesse K."
+    },
+    {
+     "name": "Yan, Dong"
+    },
+    {
+     "name": "Wu, Jimin"
+    },
+    {
+     "name": "Boominathan, Vivek"
+    },
+    {
+     "name": "Gao, Sibo"
+    },
+    {
+     "name": "Rodriguez, Alex V."
+    },
+    {
+     "name": "Kim, Soonyoung"
+    },
+    {
+     "name": "Carns, Jennifer"
+    },
+    {
+     "name": "Richards-Kortum, Rebecca"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Veeraraghavan, Ashok"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "gaudryProjectionsPotentialSocietal2021",
+   "citekey": "gaudryProjectionsPotentialSocietal2021",
+   "collection": "MyPapers",
+   "file": "Full Text",
+   "url": "https://www.frontiersin.org/articles/10.3389/fnins.2021.658930/full",
+   "doi": "10.3389/fnins.2021.658930",
+   "title": "Projections and the Potential Societal Impact of the Future of Neurotechnologies",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Gaudry, Kate S."
+    },
+    {
+     "name": "Ayaz, Hasan"
+    },
+    {
+     "name": "Bedows, Avery"
+    },
+    {
+     "name": "Celnik, Pablo"
+    },
+    {
+     "name": "Eagleman, David"
+    },
+    {
+     "name": "Grover, Pulkit"
+    },
+    {
+     "name": "Illes, Judy"
+    },
+    {
+     "name": "Rao, Rajesh P. N."
+    },
+    {
+     "name": "Robinson, Jacob T."
+    },
+    {
+     "name": "Thyagarajan, Krishnan"
+    },
+    {
+     "name": "2040, The Working Group on Brain-Interfacing Devices in"
+    }
+   ],
+   "journal": {
+    "name": "Frontiers in Neuroscience",
+    "volume": "15",
+    "pages": "658930",
+    "month": "November"
+   }
+  },
+  {
+   "type": "techreport",
+   "id": "ingabireElastomericHarnessesDecrease2021",
+   "citekey": "ingabireElastomericHarnessesDecrease2021",
+   "collection": "MyPapers",
+   "file": "Submitted Version",
+   "url": "http://medrxiv.org/lookup/doi/10.1101/2021.08.31.21262838",
+   "doi": "10.1101/2021.08.31.21262838",
+   "title": "Elastomeric Harnesses Decrease Aerosol Particles Leak and Improve the Fit of Surgical Masks",
+   "institution": "Infectious Diseases (except HIV/AIDS)",
+   "year": "2021",
+   "month": "September",
+   "author": [
+    {
+     "name": "Ingabire, Jeannette"
+    },
+    {
+     "name": "McKenney, Hannah"
+    },
+    {
+     "name": "Sebesta, Charles"
+    },
+    {
+     "name": "Badhiwala, Krishna"
+    },
+    {
+     "name": "Avants, Ben"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Kapur, Sahil"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ]
+  },
+  {
+   "type": "techreport",
+   "id": "adamsVivoFluorescenceImaging2020a",
+   "citekey": "adamsVivoFluorescenceImaging2020a",
+   "collection": "MyPapers",
+   "file": "Submitted Version",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2020.06.04.135236",
+   "doi": "10.1101/2020.06.04.135236",
+   "title": "\\textitIn vivo fluorescence imaging with a flat, lensless microscope",
+   "institution": "Neuroscience",
+   "year": "2020",
+   "month": "June",
+   "author": [
+    {
+     "name": "Adams, Jesse K."
+    },
+    {
+     "name": "Boominathan, Vivek"
+    },
+    {
+     "name": "Gao, Sibo"
+    },
+    {
+     "name": "Rodriguez, Alex V."
+    },
+    {
+     "name": "Yan, Dong"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Veeraraghavan, Ashok"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "donnarummaFrameworkIdentifyStructured2021",
+   "citekey": "donnarummaFrameworkIdentifyStructured2021",
+   "collection": "MyPapers",
+   "file": "Full Text",
+   "url": "http://www.nature.com/articles/s41598-020-79744-7",
+   "doi": "10.1038/s41598-020-79744-7",
+   "title": "A framework to identify structured behavioral patterns within rodent spatial trajectories",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Donnarumma, Francesco"
+    },
+    {
+     "name": "Prevete, Roberto"
+    },
+    {
+     "name": "Maisto, Domenico"
+    },
+    {
+     "name": "Fuscone, Simone"
+    },
+    {
+     "name": "Irvine, Emily M."
+    },
+    {
+     "name": "van der Meer, Matthijs A. A."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Pezzulo, Giovanni"
+    }
+   ],
+   "journal": {
+    "name": "Scientific Reports",
+    "volume": "11",
+    "number": "1",
+    "pages": "468",
+    "month": "December"
+   }
+  },
+  {
+   "type": "article",
+   "id": "chuGhostiPyEfficientSignal2021",
+   "citekey": "chuGhostiPyEfficientSignal2021",
+   "collection": "MyPapers",
+   "file": "Full Text",
+   "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
+   "doi": "10.1523/ENEURO.0202-21.2021",
+   "title": "GhostiPy: An Efficient Signal Processing and Spectral Analysis Toolbox for Large Data",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    }
+   ],
+   "journal": {
+    "name": "eneuro",
+    "volume": "8",
+    "number": "6",
+    "pages": "ENEURO.0202--21.2021",
+    "month": "November"
+   }
+  },
+  {
+   "type": "article",
+   "id": "santanielloEditorialNextGeneration2021",
+   "citekey": "santanielloEditorialNextGeneration2021",
+   "collection": "MyPapers",
+   "file": "Full Text",
+   "url": "https://www.frontiersin.org/articles/10.3389/fnins.2021.737737/full",
+   "doi": "10.3389/fnins.2021.737737",
+   "title": "Editorial: Towards the Next Generation of Deep Brain Stimulation Therapies: Technological Advancements, Computational Methods, and New Targets",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Santaniello, Sabato"
+    },
+    {
+     "name": "McConnell, George C."
+    },
+    {
+     "name": "Gale, John T."
+    },
+    {
+     "name": "Faghih, Rose T."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Hilliard, Justin D."
+    },
+    {
+     "name": "Han, Martin"
+    }
+   ],
+   "journal": {
+    "name": "Frontiers in Neuroscience",
+    "volume": "15",
+    "pages": "737737",
+    "month": "August"
+   }
+  },
+  {
+   "type": "techreport",
+   "id": "juneauMiniFASTSensitiveFast2020a",
+   "citekey": "juneauMiniFASTSensitiveFast2020a",
+   "collection": "MyPapers",
+   "file": "Juneau et al. - 2020 - MiniFAST A sensitive and fast miniaturized micros.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
+   "doi": "10.1101/2020.11.03.367466",
+   "title": "MiniFAST: A sensitive and fast miniaturized microscope for \\textitin vivo neural recording",
+   "institution": "Neuroscience",
+   "year": "2020",
+   "month": "November",
+   "author": [
+    {
+     "name": "Juneau, Jill"
+    },
+    {
+     "name": "Duret, Guillaume"
+    },
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Rodriguez, Alexander V."
+    },
+    {
+     "name": "Morozov, Savva"
+    },
+    {
+     "name": "Aharoni, Daniel"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    },
+    {
+     "name": "St-Pierre, Fran\u00e7ois"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "chuGhostiPyEfficientSignal2021b",
+   "citekey": "chuGhostiPyEfficientSignal2021b",
+   "collection": "MyPapers",
+   "file": "Chu and Kemere - 2021 - GhostiPy An Efficient Signal Processing and Spect.pdf",
+   "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
+   "doi": "10.1523/ENEURO.0202-21.2021",
+   "title": "GhostiPy: An Efficient Signal Processing and Spectral Analysis Toolbox for Large Data",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    }
+   ],
+   "journal": {
+    "name": "eneuro",
+    "volume": "8",
+    "number": "6",
+    "pages": "ENEURO.0202--21.2021",
+    "month": "November"
+   }
+  },
+  {
+   "type": "techreport",
+   "id": "dibaRetuningHippocampalRepresentations2022",
+   "citekey": "dibaRetuningHippocampalRepresentations2022",
+   "collection": "MyPapers",
+   "file": "Diba et al. - 2022 - Retuning of hippocampal representations during sle.pdf",
+   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
+   "doi": "10.21203/rs.3.rs-2191626/v1",
+   "title": "Retuning of hippocampal representations during sleep",
+   "institution": "In Review",
+   "year": "2022",
+   "month": "November",
+   "author": [
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Giri, Bapun"
+    },
+    {
+     "name": "Miyawaki, Hiroyuki"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "ingabireEvaluationAerosolParticle2022",
+   "citekey": "ingabireEvaluationAerosolParticle2022",
+   "collection": "MyPapers",
+   "file": "Ingabire et al. - 2022 - Evaluation of Aerosol Particle Leak and Standard S.pdf",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788500",
+   "doi": "10.1001/jamanetworkopen.2021.45811",
+   "title": "Evaluation of Aerosol Particle Leak and Standard Surgical Mask Fit With 3 Elastomeric Harness Designs",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Ingabire, Jeannette"
+    },
+    {
+     "name": "McKenney, Hannah"
+    },
+    {
+     "name": "Sebesta, Charles"
+    },
+    {
+     "name": "Badhiwala, Krishna"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Kapur, Sahil"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ],
+   "journal": {
+    "name": "JAMA Network Open",
+    "volume": "5",
+    "number": "1",
+    "pages": "e2145811",
+    "month": "January"
+   }
+  },
+  {
+   "type": "techreport",
+   "id": "juneauMiniFASTSensitiveFast2020b",
+   "citekey": "juneauMiniFASTSensitiveFast2020b",
+   "collection": "MyPapers",
+   "file": "Juneau et al. - 2020 - MiniFAST A sensitive and fast miniaturized micros.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
+   "doi": "10.1101/2020.11.03.367466",
+   "title": "MiniFAST: A sensitive and fast miniaturized microscope for \\textitin vivo neural recording",
+   "institution": "Neuroscience",
+   "year": "2020",
+   "month": "November",
+   "author": [
+    {
+     "name": "Juneau, Jill"
+    },
+    {
+     "name": "Duret, Guillaume"
+    },
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Rodriguez, Alexander V."
+    },
+    {
+     "name": "Morozov, Savva"
+    },
+    {
+     "name": "Aharoni, Daniel"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    },
+    {
+     "name": "St-Pierre, Fran\u00e7ois"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "gaoNovelVirtualReality2020a",
+   "citekey": "gaoNovelVirtualReality2020a",
+   "collection": "MyPapers",
+   "file": "Gao et al. - 2020 - Novel Virtual Reality System for Auditory Tasks in.pdf",
+   "url": "https://ieeexplore.ieee.org/document/9176536/",
+   "doi": "10.1109/EMBC44109.2020.9176536",
+   "title": "Novel Virtual Reality System for Auditory Tasks in Head-fixed Mice",
+   "year": "2020",
+   "booktitle": "2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+   "pages": "2925--2928",
+   "address": "Montreal, QC, Canada",
+   "month": "July",
+   "author": [
+    {
+     "name": "Gao, Sibo"
+    },
+    {
+     "name": "Webb, James"
+    },
+    {
+     "name": "Mridha, Zakir"
+    },
+    {
+     "name": "Banta, Anton"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "McGinley, Matthew"
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Montreal, QC, Canada"
+   }
+  },
+  {
+   "type": "misc",
+   "id": "dibaRetuningHippocampalRepresentations2022a",
+   "citekey": "dibaRetuningHippocampalRepresentations2022a",
+   "collection": "MyPapers",
+   "file": "Submitted Version",
+   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
+   "doi": "10.21203/rs.3.rs-2191626/v1",
+   "title": "Retuning of hippocampal representations during sleep",
+   "month": "November",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Giri, Bapun"
+    },
+    {
+     "name": "Miyawaki, Hiroyuki"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "duttaAnalysisOpenSource2019a",
+   "citekey": "duttaAnalysisOpenSource2019a",
+   "collection": "MyPapers",
+   "file": "Dutta et al. - 2019 - Analysis of an open source, closed-loop, realtime .pdf",
+   "url": "https://iopscience.iop.org/article/10.1088/1741-2552/aae90e",
+   "doi": "10.1088/1741-2552/aae90e",
+   "title": "Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption",
+   "year": "2019",
+   "author": [
+    {
+     "name": "Dutta, Shayok"
+    },
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "Journal of Neural Engineering",
+    "volume": "16",
+    "number": "1",
+    "pages": "016009",
+    "month": "February"
+   }
+  },
+  {
+   "type": "article",
+   "id": "fanSputteredPorousPt2020a",
+   "citekey": "fanSputteredPorousPt2020a",
+   "collection": "MyPapers",
+   "file": "Fan et al. - 2020 - Sputtered porous Pt for wafer-scale manufacture of.pdf",
+   "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ab965c",
+   "doi": "10.1088/1741-2552/ab965c",
+   "title": "Sputtered porous Pt for wafer-scale manufacture of low-impedance flexible microelectrodes",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Fan, Bo"
+    },
+    {
+     "name": "Rodriguez, Alexander V"
+    },
+    {
+     "name": "Vercosa, Daniel G"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Robinson, Jacob T"
+    }
+   ],
+   "journal": {
+    "name": "Journal of Neural Engineering",
+    "volume": "17",
+    "number": "3",
+    "pages": "036029",
+    "month": "June"
+   }
+  },
+  {
+   "type": "article",
+   "id": "singerMagnetoelectricMaterialsMiniature2020a",
+   "citekey": "singerMagnetoelectricMaterialsMiniature2020a",
+   "collection": "MyPapers",
+   "file": "Singer et al. - 2020 - Magnetoelectric Materials for Miniature, Wireless .pdf",
+   "url": "https://linkinghub.elsevier.com/retrieve/pii/S0896627320303652",
+   "doi": "10.1016/j.neuron.2020.05.019",
+   "title": "Magnetoelectric Materials for Miniature, Wireless Neural Stimulation at Therapeutic Frequencies",
+   "year": "2020",
+   "author": [
+    {
+     "name": "Singer, Amanda"
+    },
+    {
+     "name": "Dutta, Shayok"
+    },
+    {
+     "name": "Lewis, Eric"
+    },
+    {
+     "name": "Chen, Ziying"
+    },
+    {
+     "name": "Chen, Joshua C."
+    },
+    {
+     "name": "Verma, Nishant"
+    },
+    {
+     "name": "Avants, Benjamin"
+    },
+    {
+     "name": "Feldman, Ariel K."
+    },
+    {
+     "name": "O\u2019Malley, John"
+    },
+    {
+     "name": "Beierlein, Michael"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ],
+   "journal": {
+    "name": "Neuron",
+    "volume": "107",
+    "number": "4",
+    "pages": "631--643.e5",
+    "month": "August"
+   }
+  },
+  {
+   "type": "article",
+   "id": "donnarummaFrameworkIdentifyStructured2021a",
+   "citekey": "donnarummaFrameworkIdentifyStructured2021a",
+   "collection": "MyPapers",
+   "file": "Donnarumma et al. - 2021 - A framework to identify structured behavioral patt.pdf",
+   "url": "https://www.nature.com/articles/s41598-020-79744-7",
+   "doi": "10.1038/s41598-020-79744-7",
+   "title": "A framework to identify structured behavioral patterns within rodent spatial trajectories",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Donnarumma, Francesco"
+    },
+    {
+     "name": "Prevete, Roberto"
+    },
+    {
+     "name": "Maisto, Domenico"
+    },
+    {
+     "name": "Fuscone, Simone"
+    },
+    {
+     "name": "Irvine, Emily M."
+    },
+    {
+     "name": "Van Der Meer, Matthijs A. A."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Pezzulo, Giovanni"
+    }
+   ],
+   "journal": {
+    "name": "Scientific Reports",
+    "volume": "11",
+    "number": "1",
+    "pages": "468",
+    "month": "January"
+   }
+  },
+  {
+   "type": "article",
+   "id": "adamsVivoLenslessMicroscopy2022a",
+   "citekey": "adamsVivoLenslessMicroscopy2022a",
+   "collection": "MyPapers",
+   "file": "Adams et al. - 2022 - In vivo lensless microscopy via a phase mask gener.pdf",
+   "url": "https://www.nature.com/articles/s41551-022-00851-z",
+   "doi": "10.1038/s41551-022-00851-z",
+   "title": "In vivo lensless microscopy via a phase mask generating diffraction patterns with high-contrast contours",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Adams, Jesse K."
+    },
+    {
+     "name": "Yan, Dong"
+    },
+    {
+     "name": "Wu, Jimin"
+    },
+    {
+     "name": "Boominathan, Vivek"
+    },
+    {
+     "name": "Gao, Sibo"
+    },
+    {
+     "name": "Rodriguez, Alex V."
+    },
+    {
+     "name": "Kim, Soonyoung"
+    },
+    {
+     "name": "Carns, Jennifer"
+    },
+    {
+     "name": "Richards-Kortum, Rebecca"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Veeraraghavan, Ashok"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ],
+   "journal": {
+    "name": "Nature Biomedical Engineering",
+    "volume": "6",
+    "number": "5",
+    "pages": "617--628",
+    "month": "March"
+   }
+  },
+  {
+   "type": "techreport",
+   "id": "ackermannUnsupervisedClusterlessDecoding2019a",
+   "citekey": "ackermannUnsupervisedClusterlessDecoding2019a",
+   "collection": "MyPapers",
+   "file": "Submitted Version",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/760470",
+   "doi": "10.1101/760470",
+   "title": "Unsupervised Clusterless Decoding using a Switching Poisson Hidden Markov Model",
+   "institution": "Neuroscience",
+   "year": "2019",
+   "month": "September",
+   "author": [
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "Kemere, Caleb T."
+    },
+    {
+     "name": "Cunningham, John P."
+    }
+   ]
+  },
+  {
+   "type": "techreport",
+   "id": "juneauMiniFASTSensitiveFast2020c",
+   "citekey": "juneauMiniFASTSensitiveFast2020c",
+   "collection": "MyPapers",
+   "file": "Submitted Version",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
+   "doi": "10.1101/2020.11.03.367466",
+   "title": "MiniFAST: A sensitive and fast miniaturized microscope for \\textitin vivo neural recording",
+   "institution": "Neuroscience",
+   "year": "2020",
+   "month": "November",
+   "author": [
+    {
+     "name": "Juneau, Jill"
+    },
+    {
+     "name": "Duret, Guillaume"
+    },
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Rodriguez, Alexander V."
+    },
+    {
+     "name": "Morozov, Savva"
+    },
+    {
+     "name": "Aharoni, Daniel"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    },
+    {
+     "name": "St-Pierre, Fran\u00e7ois"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "inproceedings",
+   "id": "wang36nWCMOSTemperature2023",
+   "citekey": "wang36nWCMOSTemperature2023",
+   "collection": "MyPapers",
+   "file": "Wang et al. - 2023 - A 36nW CMOS Temperature Sensor with 0.1K Inaccura.pdf",
+   "url": "https://ieeexplore.ieee.org/document/10185286/",
+   "doi": "10.23919/VLSITechnologyandCir57934.2023.10185286",
+   "title": "A 36nW CMOS Temperature Sensor with \\textless0.1K Inaccuracy and Uniform Resolution",
+   "year": "2023",
+   "booktitle": "2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)",
+   "pages": "1--2",
+   "address": "Kyoto, Japan",
+   "month": "June",
+   "author": [
+    {
+     "name": "Wang, Wei"
+    },
+    {
+     "name": "Jiang, Liwen"
+    },
+    {
+     "name": "Dutta, Shayok"
+    },
+    {
+     "name": "Su, Yumin"
+    },
+    {
+     "name": "Chen, Zhiyu"
+    },
+    {
+     "name": "Yu, Zhanghao"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Yang, Kaiyuan"
+    }
+   ],
+   "publisher": {
+    "name": "IEEE",
+    "address": "Kyoto, Japan"
+   }
+  },
+  {
+   "type": "article",
+   "id": "coulterNeuralBasisMental2023",
+   "citekey": "coulterNeuralBasisMental2023",
+   "collection": "MyPapers",
+   "file": "Coulter and Kemere - 2023 - The neural basis of mental navigation in rats.pdf",
+   "url": "https://www.science.org/doi/10.1126/science.adl0806",
+   "doi": "10.1126/science.adl0806",
+   "title": "The neural basis of mental navigation in rats",
+   "year": "2023",
+   "author": [
+    {
+     "name": "Coulter, Michael E."
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "Science",
+    "volume": "382",
+    "number": "6670",
+    "pages": "517--518",
+    "month": "November"
+   }
+  },
+  {
+   "type": "misc",
+   "id": "webbForagingUncertaintyFollows2024",
+   "citekey": "webbForagingUncertaintyFollows2024",
+   "collection": "MyPapers",
+   "file": "Webb et al. - 2024 - Foraging Under Uncertainty Follows the Marginal Va.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.03.30.587253",
+   "doi": "10.1101/2024.03.30.587253",
+   "title": "Foraging Under Uncertainty Follows the Marginal Value Theorem with Bayesian Updating of Environment Representations",
+   "month": "March",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Webb, James"
+    },
+    {
+     "name": "Steffan, Paul"
+    },
+    {
+     "name": "Hayden, Benjamin Y."
+    },
+    {
+     "name": "Lee, Daeyeol"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "McGinley, Matthew"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "leeSpyglassFrameworkReproducible2024",
+   "citekey": "leeSpyglassFrameworkReproducible2024",
+   "collection": "MyPapers",
+   "file": "Lee et al. - 2024 - Spyglass a framework for reproducible and shareab.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.01.25.577295",
+   "doi": "10.1101/2024.01.25.577295",
+   "title": "Spyglass: a framework for reproducible and shareable neuroscience research",
+   "month": "January",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Lee, Kyu Hyun"
+    },
+    {
+     "name": "Denovellis, Eric L."
+    },
+    {
+     "name": "Ly, Ryan"
+    },
+    {
+     "name": "Magland, Jeremy"
+    },
+    {
+     "name": "Soules, Jeff"
+    },
+    {
+     "name": "Comrie, Alison E."
+    },
+    {
+     "name": "Gramling, Daniel P."
+    },
+    {
+     "name": "Guidera, Jennifer A."
+    },
+    {
+     "name": "Nevers, Rhino"
+    },
+    {
+     "name": "Adenekan, Philip"
+    },
+    {
+     "name": "Brozdowski, Chris"
+    },
+    {
+     "name": "Bray, Samuel R."
+    },
+    {
+     "name": "Monroe, Emily"
+    },
+    {
+     "name": "Bak, Ji Hyun"
+    },
+    {
+     "name": "Coulter, Michael E."
+    },
+    {
+     "name": "Sun, Xulu"
+    },
+    {
+     "name": "Broyles, Emrey"
+    },
+    {
+     "name": "Shin, Donghoon"
+    },
+    {
+     "name": "Chiang, Sharon"
+    },
+    {
+     "name": "Holobetz, Cristofer"
+    },
+    {
+     "name": "Tritt, Andrew"
+    },
+    {
+     "name": "R\u00fcbel, Oliver"
+    },
+    {
+     "name": "Nguyen, Thinh"
+    },
+    {
+     "name": "Yatsenko, Dimitri"
+    },
+    {
+     "name": "Chu, Joshua"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Garcia, Samuel"
+    },
+    {
+     "name": "Buccino, Alessio"
+    },
+    {
+     "name": "Frank, Loren M."
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "casco-rodriguezReDiscriminativeKalman2024",
+   "citekey": "casco-rodriguezReDiscriminativeKalman2024",
+   "collection": "MyPapers",
+   "file": "Casco-Rodriguez et al. - 2024 - [Re] The Discriminative Kalman Filter for Bayesian.pdf",
+   "url": "http://arxiv.org/abs/2401.14429",
+   "title": "[Re] The Discriminative Kalman Filter for Bayesian Filtering with Nonlinear and Non-Gaussian Observation Models",
+   "month": "January",
+   "year": "2024",
+   "note": "arXiv:2401.14429 [cs, eess, stat]",
+   "author": [
+    {
+     "name": "Casco-Rodriguez, Josue"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Baraniuk, Richard G."
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "ingabireEvaluationAerosolParticle2022a",
+   "citekey": "ingabireEvaluationAerosolParticle2022a",
+   "collection": "MyPapers",
+   "file": "Ingabire et al. - 2022 - Evaluation of Aerosol Particle Leak and Standard S.pdf",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788500",
+   "doi": "10.1001/jamanetworkopen.2021.45811",
+   "title": "Evaluation of Aerosol Particle Leak and Standard Surgical Mask Fit With 3 Elastomeric Harness Designs",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Ingabire, Jeannette"
+    },
+    {
+     "name": "McKenney, Hannah"
+    },
+    {
+     "name": "Sebesta, Charles"
+    },
+    {
+     "name": "Badhiwala, Krishna"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Kapur, Sahil"
+    },
+    {
+     "name": "Robinson, Jacob T."
+    }
+   ],
+   "journal": {
+    "name": "JAMA Network Open",
+    "volume": "5",
+    "number": "1",
+    "pages": "e2145811",
+    "month": "January"
+   }
+  },
+  {
+   "type": "article",
+   "id": "zumstegPowerFeasibilityImplantable2005",
+   "citekey": "zumstegPowerFeasibilityImplantable2005",
+   "collection": "MyPapers",
+   "file": "Zumsteg et al. - 2005 - Power feasibility of implantable digital spike sor.pdf",
+   "url": "https://ieeexplore.ieee.org/document/1506814/",
+   "doi": "10.1109/TNSRE.2005.854307",
+   "title": "Power feasibility of implantable digital spike sorting circuits for neural prosthetic systems",
+   "year": "2005",
+   "author": [
+    {
+     "name": "Zumsteg, Z.S."
+    },
+    {
+     "name": "Kemere, C."
+    },
+    {
+     "name": "O'Driscoll, S."
+    },
+    {
+     "name": "Santhanam, G."
+    },
+    {
+     "name": "Ahmed, R.E."
+    },
+    {
+     "name": "Shenoy, K.V."
+    },
+    {
+     "name": "Meng, T.H."
+    }
+   ],
+   "journal": {
+    "name": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+    "volume": "13",
+    "number": "3",
+    "pages": "272--279",
+    "month": "September"
+   }
+  },
+  {
+   "type": "article",
+   "id": "friendQuantifyingRecordingQuality2015a",
+   "citekey": "friendQuantifyingRecordingQuality2015a",
+   "collection": "MyPapers",
+   "file": "Friend et al. - 2015 - Quantifying Recording Quality in In Vivo Striatal .pdf",
+   "url": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/0471142301.ns0628s70",
+   "doi": "10.1002/0471142301.ns0628s70",
+   "title": "Quantifying Recording Quality in In Vivo Striatal Recordings",
+   "year": "2015",
+   "author": [
+    {
+     "name": "Friend, Danielle M."
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Kravitz, Alexxai V."
+    }
+   ],
+   "journal": {
+    "name": "Current Protocols in Neuroscience",
+    "volume": "70",
+    "number": "1",
+    "month": "January"
+   }
+  }
+ ]
+}

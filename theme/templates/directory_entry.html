@@ -1,0 +1,54 @@
+<div style="display:flex;">
+<div style="flex:1 1 200px;">
+{% if indiv.website %}
+<a href="#"><img class="media-object"
+  src="/images/headshots/{{ indiv.name | replace(' ','') }}.jpg" width="200px" alt="image"/></a>
+{% else %}
+<img class="media-object"
+  src="/images/headshots/{{ indiv.name | replace(' ','') }}.jpg" width="200px" alt="image"/>
+{% endif %}
+</div>
+<div style="padding-left:10px; flex:4 1;">
+  <h4>{{indiv.name}}</h4>
+  <address>
+    {% if indiv.group =="Alumni" or indiv.group=="Alumni2" or indiv.group=="Alumni3" %}
+    {% if indiv.currentRole %}
+    {{ indiv.currentRole }}
+    {% endif %}
+
+    {% if indiv.title %}
+    <br /><small><i> {{ indiv.title }}</i></small>
+    {% endif %}
+
+    {% else %}
+
+    {% if indiv.title %}
+    <i>{{ indiv.title }}</i><br />
+    {% endif %}
+
+    {% if indiv.title2 %}
+    <i>{{ indiv.title2 }}</i><br />
+    {% endif %}
+
+    {% if indiv.website %}
+    <abbr title="Website">W:</abbr> <a href="{{ indiv.website }}">{{ indiv.website }}</a> <br />
+    {% endif %}
+
+    {% if indiv.phone %}
+    <abbr title="Phone">P:</abbr> {{ indiv.phone }} <br />
+    {% endif %}
+
+    {% if indiv.email %}
+    <abbr title="Email">E:</abbr> <a href="mailto:#">{{ indiv.email }}</a> <br />
+    {% endif %}
+
+    {% if indiv.social %}
+    <abbr title="Social Media">S:</abbr> {{ indiv.social }} <br />
+    {% endif %}
+
+    {% if indiv.interests %}
+    Research Interests: {{ indiv.interests }}
+    {% endif %}
+    {% endif %}
+  </address>
+</div></div>
