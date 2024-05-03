@@ -3,7 +3,7 @@ SITENAME = 'KemereLab'
 SITEURL = ""
 
 THEME = "theme"
-STYLESHEET_URL = "/theme/css/pico.blue.css"
+# STYLESHEET_URL = "/theme/css/pico.blue.css"
 
 STATIC_PATHS = ['images', 'pubs']
 
@@ -12,7 +12,21 @@ RELATIVE_URLS = True
 
 TIMEZONE = 'America/Chicago'
 
-# PLUGINS = ["data_files"]
+PLUGINS = ["data_files"]
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {
+            'css_class': 'codehilite',
+        },
+        'markdown.extensions.extra': {},
+        'markdown.extensions.admonition': {},
+        'markdown.extensions.meta': {},
+        'smarty' : {
+            'smart_angled_quotes' : 'true'
+        },
+    }
+
+}
 
 DEFAULT_LANG = 'en'
 
@@ -25,14 +39,6 @@ AUTHOR_FEED_RSS = None
 
 TAGS_SAVE_AS = ''
 TAG_SAVE_AS = ''
-
-# Blogroll
-LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
-)
 
 # Social widget
 SOCIAL = (
