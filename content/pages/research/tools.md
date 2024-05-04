@@ -102,7 +102,10 @@ Many items are available at our lab repository
     [shuttledrive](https://github.com/open-ephys/shuttle-drive)
     and [Jadhav Lab](https://gitlab.com/JMOlson/TetDrive-Jadhav-Metal) designs, in combination
     with the [microdrive](https://github.com/buzsakilab/3d_print_designs/tree/master/Microdrives/Metal_recoverable) design 
-    by Mihály Vöröslakos in the Buzsaki Lab. Total weight is ~0.7g.
+    by Mihály Vöröslakos in the Buzsaki Lab. Total weight is ~0.7g. Designs can be found
+    at [github.com/ckemere/UltralightProbeMicrodrive](https://github.com/ckemere/UltralightProbeMicrodrive)
+
+    <img src="/images/research-features/tools/microdrive-assembly.gif" alt="Microdrive" width="640"/>
 
     We have also developed a cap and cover designed to integrate with a [Diagnostic Biochips](https://diagnosticbiochips.com/)
     probe. Developed for 15g singing mice, the complete cap and microdrive assembly are less than 2.5g.
@@ -110,8 +113,21 @@ Many items are available at our lab repository
 ### Virtual Reality
 
 !!!tool "TreadmillIO"
-    The TreadmillIO project combines a USB-based data acquisition system with Python based software. We
+    The [TreadmillIO](https://github.com/kemerelab/treadmillio) 
+    project combines a USB-based data acquisition system with Python based software. We
     have used it for VR experiments in head-fixed mice as well as controlling reward for freely moving animals.
+
+    <img src="/images/research-features/tools/treadmillio-interface-pcb.jpg" alt="Treadmill IO PCB" width="400"/>
+
+
+    For visual stimuli, we use a distributed renderer, which runs on a Raspberry Pi platform 
+    [PyRenderMaze](https://github.com/kemerelab/PyRenderMaze/).
+
+    <img src="/images/research-features/tools/PyRenderMazeExample.gif" alt="PyRenderMaze Example" width="400"/>
+
+    While TreadmillIO provides low latency virtual auditory stimuli, there is also a 
+    [beta version](https://github.com/kemerelab/treadmillio_sound_server) of a distributed
+    auditory stimuli generator also based on a RasperryPi, which we have used in experiments.
 
 ### Deep Brain Stimulation
 
