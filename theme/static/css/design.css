@@ -58,6 +58,12 @@
    font-weight: bold;
 }
 
+.tool-highlight {
+   background: var(--pico-color-green-100);
+}
+
+
+
  /* RESPONSIVE CSS
  -------------------------------------------------- */
  @media only screen and (prefers-color-scheme: dark) {
@@ -66,11 +72,38 @@
    }   
 }
 
+.small-flex-right {
+   flex:1 1 200px; 
+   padding-left: 10px; 
+   justify-content: right; 
+   display: flex;
+}
+
+.small-flex-left {
+   flex:1 1 200px; 
+   padding-right: 10px; 
+   justify-content: right; 
+   display: flex;
+}
+
+
+
+.large-flex {
+   flex:3 1 200px;
+}
+
 @media screen and (max-width: 64em) {
-   .hide-sm {
+   .small-flex-left {
        display: none !important;
    }
 }
+
+@media screen and (max-width: 64em) {
+   .small-flex-right {
+       display: none !important;
+   }
+}
+
 
 /* CSS for directory */
 .large-column {
@@ -92,9 +125,4 @@
    grid-gap: 20px;
 }
 
-@media screen and (max-width: 64em) {
-   .hide-sm {
-       display: none !important;
-   }
-}
 

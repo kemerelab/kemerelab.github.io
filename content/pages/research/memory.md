@@ -4,40 +4,38 @@ save_as: research/memory.html
 status:hidden
 ---
 
+### Memory-related patterns of neural activity
+
+The field of learning and memory has grown tremendously over the last 50 years. 
+While we now recognize the identity of the key regions of the brain which are
+responsible for rapidly storing experience to enable memories to be initially
+laid down and triggering their recall subsequently, how neurons in these regions
+coordinate these processes both online, and critically, _offline_ during sleep
+is not yet understood.
+
+Our research has focused on burst of activity known as sharp wave ripples
+which are found during periods of quiescence during learning and novel experience
+and are highly prevelant during slow wave sleep. We believe that these
+momentary periods hold the key to unlocking our understanding of memory.
+
+### Closed-loop signal processing and neuroscience
+
+While numerous studies have correlated ripples and memory, the key to demonstrating
+the fundamental importance of momentary bursts of activity is to manipulate them
+online. We are developing approaches for interacting with ripples by detecting
+and manipulating them in closed loop. We were among the first to carry out these
+types of causal experiments [1], and we continue to work in this area [2].
+
+We have collected publications that are related to closed-loop
+interaction with the hippocampus / learning-and-memory system in a Zotero library.
+_Please reach out if you have suggestions of work we've missed or would like to join!_
+
+[Zotero SWR Manipulation Group](https://www.zotero.org/groups/5518774/swr_manipulation/library)
 
 
-{::options parse_block_html="true" /}
+[1] Jadhav, S. P., Kemere, C., German, P. W. & Frank, L. M. "Awake hippocampal
+sharp-wave ripples support spatial memory." Science(2012).
 
-<div class="well">
-### Optimized detection and decoding of memory-related patterns of neural activity
+[2] Dutta S., Ackermann, E., Kemere C. "Analysis of an open source, closed-loop, realtime system 
+for hippocampal sharp-wave ripple disruption." J. Neural Engineering (2019).
 
-<div class="lead">
-Particular, temporally-limited patterns of neural firing appear to be one of
-the mechanisms which enable information to be reliably stored and transmitted
-between different brain regions and to/from the periphery. Most engineering
-study of these patterns has focused on neuro-prosthetic interfaces. For
-example, neural decoding to control prosthetic limbs, or spatio-temporally structured
-stimulation to provide artificial sensory representations. What are the patterns of neural
-activity that enable emotion, decision making, and memory? Recent results have suggested that
-neural firing during hippocampal sharp wave ripple oscillations mayspecifically underly
-particular forms of memory storage and recall ([1] and [2] and [3]).  What are the limits of
-detecting, decoding, and controllably manipulating these patterns of activity in real-time?
-
-We are building systems to answer these questions in rodents engaged in complex
-learning and memory behaviors. Our experiments will build a foundation upon
-which the understanding of the causal role of particular patterns of neural
-activity can flourish, potentially leading to therapeutic work in humans
-patients.
-
-[1] Girardeau, G., Benchenane, K., Wiener, S. I., Buzsáki, G. & Zugaro, M. B.
-Selective suppression of hippocampal ripples impairs spatial memory. _Nat
-Neurosci_ 12, 1222–3 (2009).
-
-[2] Ego-Stengel, V. & Wilson, M. a Disruption of ripple-associated hippocampal
-activity during rest impairs spatial learning in the rat. _Hippocampus_ 20, 1–10
-(2010).
-
-[3] Jadhav, S. P., Kemere, C., German, P. W. & Frank, L. M. Awake hippocampal
-sharp-wave ripples support spatial memory. Science (80- ) 336, 1454–8 (2012).
-</div>
-</div>

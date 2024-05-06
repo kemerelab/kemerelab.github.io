@@ -3,7 +3,6 @@ SITENAME = 'KemereLab'
 SITEURL = ""
 
 THEME = "theme"
-# STYLESHEET_URL = "/theme/css/pico.blue.css"
 
 STATIC_PATHS = ['images', 'pubs']
 

@@ -10,6 +10,15 @@ We are developing a wide variety of tools for open source and high throughput ne
 Many items are available at our lab repository
 [http://github.com/kemerelab](http://github.com/kemerelab). Some are highlighted below.
 
+### Bleeding-edge
+!!!tool-highlight "AJP GRIN-Ephys"
+    <img src="/images/research-features/tools/grin-electrode.png" alt="GRIN-Ephys" width="200" style="float: left; margin: 10px;"/>
+
+    One of our ongoing projects is to develop easy ways for integrating electrophysiology with
+    imaging in freely moving animals. We are using Aerosol Jet Printing to pattern electrodes
+    directly onto the GRIN lenses used for miniscope imaging. This has the potential to vastly
+    simplify manufacturing for these systems. __We are excited to collaborate on this project!__
+
 ### Software
 !!! tool "GhostiPy"
     [GhostiPy](https://github.com/kemerelab/ghostipy/) 
@@ -62,17 +71,11 @@ Many items are available at our lab repository
     a simple RaspberryPi based Ethernet-triggered pulse generator, the
      [pi-stimserver](https://github.com/kemerelab/pi-stimserver).
 
-### Public relations
-!!!tool "RatPack"
-    <img src="/images/research-features/tools/ratpack.png" alt="Ratpack" width="200" style="float: left; margin: 5px;"/>
-
-    The [RatPack](https://github.com/kemerelab/ratpack) is an open source collection of drawings of rats and mice. 
-    _We invite contributors!_
-
 ### Miniscope and Imaging-Related
 
+
 !!!tool "MiniFAST"
-    <img src="/images/research-features/tools/MiniFASTmouse.jpg" alt="MiniFAST on Mouse" width="200" style="float: left; margin: 5px;"/>
+    <img src="/images/research-features/tools/MiniFASTmouse.jpg" alt="MiniFAST on Mouse" width="200" style="float: left; margin: 10px;"/>
 
     We developed the [MiniFAST](https://github.com/jjuneau1/MiniFAST) 
     variant of the UCLA miniscope as part of our work towards enabling imaging of fast genetically-encoded 
@@ -144,6 +147,13 @@ Many items are available at our lab repository
       + [MiniStiMo App](https://github.com/ckemere/MiniStiMo-App)
 
     <img src="/images/research-features/tools/BuiltModule.png" alt="MiniStiMo" width="400"/>
+
+### For presentations and papers
+!!!tool "RatPack"
+    <img src="/images/research-features/tools/ratpack.png" alt="Ratpack" width="200" style="float: left; margin: 5px;"/>
+
+    The [RatPack](https://github.com/kemerelab/ratpack) is an open source collection of drawings of rats and mice. 
+    _We invite contributors!_
 
 
 
