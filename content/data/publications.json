@@ -2,14 +2,14 @@
  "metadata": {
   "collection": "MyPapers",
   "source": "MyPapers.bib",
-  "created": "2024-05-01T16:29:30.167734",
-  "records": 67
+  "created": "2024-05-15T19:00:27.697891",
+  "records": 72
  },
  "records": [
   {
    "type": "article",
-   "id": "maboudiUncoveringTemporalStructure2018",
-   "citekey": "maboudiUncoveringTemporalStructure2018",
+   "id": "maboudi_uncovering_2018",
+   "citekey": "maboudi_uncovering_2018",
    "collection": "MyPapers",
    "file": "Maboudi et al. - 2018 - Uncovering temporal structure in hippocampal outpu.pdf",
    "url": "https://elifesciences.org/articles/34467",
@@ -48,8 +48,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "ackermannLatentVariableModels2017",
-   "citekey": "ackermannLatentVariableModels2017",
+   "id": "ackermann_latent_2017",
+   "citekey": "ackermann_latent_2017",
    "collection": "MyPapers",
    "file": "Ackermann et al_2017_Latent variable models for hippocampal sequence analysis.pdf",
    "url": "http://ieeexplore.ieee.org/document/8335439/",
@@ -81,8 +81,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "sethiMulitchannelRealTime2015",
-   "citekey": "sethiMulitchannelRealTime2015",
+   "id": "sethi_mulitchannel_2015",
+   "citekey": "sethi_mulitchannel_2015",
    "collection": "MyPapers",
    "file": "Sethi_Kemere_2015_Mulitchannel real time spike sorting for decoding ripple sequences.pdf",
    "url": "http://ieeexplore.ieee.org/document/7146784/",
@@ -108,8 +108,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "summersonRandomizedStimulationSignal2014",
-   "citekey": "summersonRandomizedStimulationSignal2014",
+   "id": "summerson_randomized_2014",
+   "citekey": "summerson_randomized_2014",
    "collection": "MyPapers",
    "file": "Summerson et al_2014_Randomized stimulation signal design to create partial informational lesions in.pdf",
    "url": "http://ieeexplore.ieee.org/document/6854277/",
@@ -141,8 +141,8 @@
   },
   {
    "type": "article",
-   "id": "vitaleNeuralStimulationRecording2015",
-   "citekey": "vitaleNeuralStimulationRecording2015",
+   "id": "vitale_neural_2015",
+   "citekey": "vitale_neural_2015",
    "collection": "MyPapers",
    "file": "Vitale et al_2015_Neural Stimulation and Recording with Bidirectional, Soft Carbon Nanotube Fiber.pdf",
    "url": "http://pubs.acs.org/doi/10.1021/acsnano.5b01060",
@@ -176,8 +176,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "odriscollNeuronsSiliconImplantable2006",
-   "citekey": "odriscollNeuronsSiliconImplantable2006",
+   "id": "odriscoll_neurons_2006",
+   "citekey": "odriscoll_neurons_2006",
    "collection": "MyPapers",
    "file": "O'Driscoll et al_2006_Neurons to Silicon.pdf",
    "url": "http://ieeexplore.ieee.org/document/1696287/",
@@ -208,8 +208,8 @@
   },
   {
    "type": "article",
-   "id": "summersonBehavioralEffectsDisrupted2013",
-   "citekey": "summersonBehavioralEffectsDisrupted2013",
+   "id": "summerson_behavioral_2013",
+   "citekey": "summerson_behavioral_2013",
    "collection": "MyPapers",
    "file": "Summerson et al_2013_Behavioral effects of disrupted direct pathway signal flow caused by dopamine.pdf",
    "url": "https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-14-S1-P205",
@@ -237,8 +237,8 @@
   },
   {
    "type": "article",
-   "id": "jadhavAwakeHippocampalSharpWave2012",
-   "citekey": "jadhavAwakeHippocampalSharpWave2012",
+   "id": "jadhav_awake_2012",
+   "citekey": "jadhav_awake_2012",
    "collection": "MyPapers",
    "file": "Jadhav et al_2012_Awake Hippocampal Sharp-Wave Ripples Support Spatial Memory.pdf",
    "url": "http://www.sciencemag.org/cgi/doi/10.1126/science.1217230",
@@ -269,8 +269,8 @@
   },
   {
    "type": "incollection",
-   "id": "summersonMultielectrodeRecordingNeural2015",
-   "citekey": "summersonMultielectrodeRecordingNeural2015",
+   "id": "summerson_multi-electrode_2015",
+   "citekey": "summerson_multi-electrode_2015",
    "collection": "MyPapers",
    "title": "Multi-electrode Recording of Neural Activity in Awake Behaving Animals",
    "year": "2015",
@@ -304,8 +304,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "kemereOptogeneticControlHippocampal2008",
-   "citekey": "kemereOptogeneticControlHippocampal2008",
+   "id": "kemere_optogenetic_2008",
+   "citekey": "kemere_optogenetic_2008",
    "collection": "MyPapers",
    "title": "Optogenetic control of hippocampal neurons in behaving rats using ChR2",
    "year": "2008",
@@ -328,8 +328,8 @@
   },
   {
    "type": "article",
-   "id": "duttaAnalysisOpenSource2019",
-   "citekey": "duttaAnalysisOpenSource2019",
+   "id": "dutta_analysis_2019",
+   "citekey": "dutta_analysis_2019",
    "collection": "MyPapers",
    "file": "Dutta et al_2018_Analysis of an open source, closed-loop, realtime system for hippocampal.pdf",
    "doi": "10.1088/1741-2552/aae90e",
@@ -355,8 +355,8 @@
   },
   {
    "type": "article",
-   "id": "kemereModelBasedNeuralDecoding2004",
-   "citekey": "kemereModelBasedNeuralDecoding2004",
+   "id": "kemere_model-based_2004",
+   "citekey": "kemere_model-based_2004",
    "collection": "MyPapers",
    "file": "Kemere et al_2004_Model-based neural decoding of reaching movements.pdf",
    "url": "http://ieeexplore.ieee.org/document/1300784/",
@@ -384,8 +384,8 @@
   },
   {
    "type": "article",
-   "id": "yuMixtureTrajectoryModels2007",
-   "citekey": "yuMixtureTrajectoryModels2007",
+   "id": "yu_mixture_2007",
+   "citekey": "yu_mixture_2007",
    "collection": "MyPapers",
    "file": "Yu et al_2007_Mixture of Trajectory Models for Neural Decoding of Goal-Directed Movements.pdf",
    "url": "http://www.physiology.org/doi/10.1152/jn.00482.2006",
@@ -451,8 +451,8 @@
   },
   {
    "type": "article",
-   "id": "summersonCharacterizingMotorCognitive2014",
-   "citekey": "summersonCharacterizingMotorCognitive2014",
+   "id": "summerson_characterizing_2014",
+   "citekey": "summerson_characterizing_2014",
    "collection": "MyPapers",
    "file": "Summerson et al_2014_Characterizing Motor and Cognitive Effects Associated With Deep Brain.pdf",
    "url": "http://ieeexplore.ieee.org/document/6832606/",
@@ -480,8 +480,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "kemereDecodingPlanPerimovement2002",
-   "citekey": "kemereDecodingPlanPerimovement2002",
+   "id": "kemere_decoding_2002",
+   "citekey": "kemere_decoding_2002",
    "collection": "MyPapers",
    "file": "Kemere et al_2002_Decoding of plan and peri-movement neural signals in prosthetic systems.pdf",
    "url": "http://ieeexplore.ieee.org/document/1049722/",
@@ -515,8 +515,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "summersonCurrentAmplitudedependentModulation2013",
-   "citekey": "summersonCurrentAmplitudedependentModulation2013",
+   "id": "summerson_current_2013",
+   "citekey": "summerson_current_2013",
    "collection": "MyPapers",
    "file": "Summerson et al_2013_Current amplitude-dependent modulation of rotational behavior with GPi.pdf",
    "url": "http://ieeexplore.ieee.org/document/6609617/",
@@ -545,8 +545,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "kemereOptimalEstimationFeedfowardcontrolled2005",
-   "citekey": "kemereOptimalEstimationFeedfowardcontrolled2005",
+   "id": "kemere_optimal_2005",
+   "citekey": "kemere_optimal_2005",
    "collection": "MyPapers",
    "file": "Kemere_Meng_2005_Optimal estimation of feed-forward-controlled linear systems.pdf",
    "url": "http://ieeexplore.ieee.org/document/1416313/",
@@ -572,8 +572,8 @@
   },
   {
    "type": "article",
-   "id": "wuHippocampalAwakeReplay2017",
-   "citekey": "wuHippocampalAwakeReplay2017",
+   "id": "wu_hippocampal_2017",
+   "citekey": "wu_hippocampal_2017",
    "collection": "MyPapers",
    "file": "Wu et al_2017_Hippocampal awake replay in fear memory retrieval.pdf",
    "url": "http://www.nature.com/articles/nn.4507",
@@ -604,8 +604,8 @@
   },
   {
    "type": "techreport",
-   "id": "maboudiUncoveringTemporalStructure2018a",
-   "citekey": "maboudiUncoveringTemporalStructure2018a",
+   "id": "maboudi_uncovering_2018-1",
+   "citekey": "maboudi_uncovering_2018-1",
    "collection": "MyPapers",
    "file": "Maboudi et al_2018_Uncovering temporal structure in hippocampal output patterns.pdf",
    "url": "http://biorxiv.org/lookup/doi/10.1101/242594",
@@ -637,8 +637,8 @@
   },
   {
    "type": "article",
-   "id": "pezzuloInternallyGeneratedHippocampal2017",
-   "citekey": "pezzuloInternallyGeneratedHippocampal2017",
+   "id": "pezzulo_internally_2017",
+   "citekey": "pezzulo_internally_2017",
    "collection": "MyPapers",
    "file": "Pezzulo et al_2017_Internally generated hippocampal sequences as a vantage point to probe.pdf",
    "url": "http://doi.wiley.com/10.1111/nyas.13329",
@@ -666,8 +666,8 @@
   },
   {
    "type": "article",
-   "id": "vitaleFluidicMicroactuationFlexible2018",
-   "citekey": "vitaleFluidicMicroactuationFlexible2018",
+   "id": "vitale_fluidic_2018",
+   "citekey": "vitale_fluidic_2018",
    "collection": "MyPapers",
    "file": "Vitale et al_2017_Fluidic Microactuation of Flexible Electrodes for Neural Recording.pdf",
    "url": "http://pubs.acs.org/doi/10.1021/acs.nanolett.7b04184",
@@ -728,8 +728,8 @@
   },
   {
    "type": "article",
-   "id": "kemereDetectingNeuralStateTransitions2008",
-   "citekey": "kemereDetectingNeuralStateTransitions2008",
+   "id": "kemere_detecting_2008",
+   "citekey": "kemere_detecting_2008",
    "collection": "MyPapers",
    "file": "Kemere et al_2008_Detecting neural-state transitions using hidden Markov models for motor.pdf",
    "url": "http://www.physiology.org/doi/10.1152/jn.00924.2007",
@@ -769,8 +769,8 @@
   },
   {
    "type": "article",
-   "id": "lindermanSignalProcessingChallenges2008",
-   "citekey": "lindermanSignalProcessingChallenges2008",
+   "id": "linderman_signal_2008",
+   "citekey": "linderman_signal_2008",
    "collection": "MyPapers",
    "file": "Linderman et al_2008_Signal Processing Challenges for Neural Prostheses.pdf",
    "url": "http://ieeexplore.ieee.org/document/4408439/",
@@ -818,8 +818,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "shenoyIncreasingPerformanceCorticallyControlled2006",
-   "citekey": "shenoyIncreasingPerformanceCorticallyControlled2006",
+   "id": "shenoy_increasing_2006",
+   "citekey": "shenoy_increasing_2006",
    "collection": "MyPapers",
    "file": "Shenoy et al_2006_Increasing the Performance of Cortically-Controlled Prostheses.pdf",
    "url": "http://ieeexplore.ieee.org/document/4030623/",
@@ -877,8 +877,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "sethiRealTimeAlgorithms2014",
-   "citekey": "sethiRealTimeAlgorithms2014",
+   "id": "sethi_real_2014",
+   "citekey": "sethi_real_2014",
    "collection": "MyPapers",
    "file": "Sethi_Kemere_2014_Real time algorithms for sharp wave ripple detection.pdf",
    "url": "http://ieeexplore.ieee.org/document/6944164/",
@@ -904,8 +904,8 @@
   },
   {
    "type": "article",
-   "id": "summersonInvestigatingIrregularlyPatterned2015",
-   "citekey": "summersonInvestigatingIrregularlyPatterned2015",
+   "id": "summerson_investigating_2015",
+   "citekey": "summerson_investigating_2015",
    "collection": "MyPapers",
    "file": "Summerson et al_2015_Investigating irregularly patterned deep brain stimulation signal design using.pdf",
    "url": "http://journal.frontiersin.org/Article/10.3389/fncom.2015.00078/abstract",
@@ -931,8 +931,8 @@
   },
   {
    "type": "article",
-   "id": "adamsVivoFluorescenceImaging2020",
-   "citekey": "adamsVivoFluorescenceImaging2020",
+   "id": "adams_vivo_2020",
+   "citekey": "adams_vivo_2020",
    "collection": "MyPapers",
    "file": "Full Text PDF",
    "url": "https://www.biorxiv.org/content/10.1101/2020.06.04.135236v2",
@@ -969,8 +969,8 @@
   },
   {
    "type": "article",
-   "id": "robinsonDevelopingNextGenerationBrain2019",
-   "citekey": "robinsonDevelopingNextGenerationBrain2019",
+   "id": "robinson_developing_2019",
+   "citekey": "robinson_developing_2019",
    "collection": "MyPapers",
    "file": "IEEE Xplore Abstract Record",
    "doi": "10.1109/JSEN.2019.2931159",
@@ -1019,8 +1019,8 @@
   },
   {
    "type": "article",
-   "id": "fanSputteredPorousPt2020",
-   "citekey": "fanSputteredPorousPt2020",
+   "id": "fan_sputtered_2020",
+   "citekey": "fan_sputtered_2020",
    "collection": "MyPapers",
    "file": "IOP Full Text PDF",
    "url": "https://doi.org/10.1088%2F1741-2552%2Fab965c",
@@ -1055,8 +1055,8 @@
   },
   {
    "type": "article",
-   "id": "duttaTracingPathMemory2020",
-   "citekey": "duttaTracingPathMemory2020",
+   "id": "dutta_tracing_2020",
+   "citekey": "dutta_tracing_2020",
    "collection": "MyPapers",
    "file": "ScienceDirect Full Text PDF",
    "url": "http://www.sciencedirect.com/science/article/pii/S0896627320304888",
@@ -1087,8 +1087,8 @@
   },
   {
    "type": "article",
-   "id": "singerMagnetoelectricMaterialsMiniature2020",
-   "citekey": "singerMagnetoelectricMaterialsMiniature2020",
+   "id": "singer_magnetoelectric_2020",
+   "citekey": "singer_magnetoelectric_2020",
    "collection": "MyPapers",
    "file": "ScienceDirect Full Text PDF",
    "url": "http://www.sciencedirect.com/science/article/pii/S0896627320303652",
@@ -1136,8 +1136,8 @@
   },
   {
    "type": "article",
-   "id": "vandermeerProgressIssuesSecondorder2020",
-   "citekey": "vandermeerProgressIssuesSecondorder2020",
+   "id": "van_der_meer_progress_2020",
+   "citekey": "van_der_meer_progress_2020",
    "collection": "MyPapers",
    "file": "Snapshot",
    "url": "https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0238",
@@ -1166,8 +1166,8 @@
   },
   {
    "type": "article",
-   "id": "pediredlaDeepImagingScattering2016",
-   "citekey": "pediredlaDeepImagingScattering2016",
+   "id": "pediredla_deep_2016",
+   "citekey": "pediredla_deep_2016",
    "collection": "MyPapers",
    "file": "Pediredla et al_2016_Deep imaging in scattering media with selective plane illumination microscopy.pdf",
    "url": "http://biomedicaloptics.spiedigitallibrary.org/article.aspx?doi=10.1117/1.JBO.21.12.126009",
@@ -1213,8 +1213,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "ackermannScoringSequencesHippocampal2016",
-   "citekey": "ackermannScoringSequencesHippocampal2016",
+   "id": "ackermann_scoring_2016",
+   "citekey": "ackermann_scoring_2016",
    "collection": "MyPapers",
    "file": "Ackermann_Kemere_2016_Scoring sequences of hippocampal activity using hidden Markov models.pdf",
    "url": "http://ieeexplore.ieee.org/document/7590860/",
@@ -1240,8 +1240,8 @@
   },
   {
    "type": "article",
-   "id": "kemereRapidContinuousModulation2013",
-   "citekey": "kemereRapidContinuousModulation2013",
+   "id": "kemere_rapid_2013",
+   "citekey": "kemere_rapid_2013",
    "collection": "MyPapers",
    "file": "Kemere et al_2013_Rapid and continuous modulation of hippocampal network state during exploration.pdf",
    "url": "https://dx.plos.org/10.1371/journal.pone.0073114",
@@ -1272,8 +1272,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "kemereModelbasedDecodingReaching2004",
-   "citekey": "kemereModelbasedDecodingReaching2004",
+   "id": "kemere_model-based_2004-1",
+   "citekey": "kemere_model-based_2004-1",
    "collection": "MyPapers",
    "file": "Kemere et al_2004_Model-based decoding of reaching movements for prosthetic systems.pdf",
    "url": "http://ieeexplore.ieee.org/document/1404256/",
@@ -1311,8 +1311,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "kemereRobustNeuralDecoding2003",
-   "citekey": "kemereRobustNeuralDecoding2003",
+   "id": "kemere_robust_2003",
+   "citekey": "kemere_robust_2003",
    "collection": "MyPapers",
    "file": "Kemere et al_2003_Robust neural decoding of reaching movements for prosthetic systems.pdf",
    "url": "http://ieeexplore.ieee.org/document/1280146/",
@@ -1340,8 +1340,8 @@
   },
   {
    "type": "article",
-   "id": "adamsVivoLenslessMicroscopy2022",
-   "citekey": "adamsVivoLenslessMicroscopy2022",
+   "id": "adams_vivo_2022",
+   "citekey": "adams_vivo_2022",
    "collection": "MyPapers",
    "file": "Full Text",
    "url": "https://www.nature.com/articles/s41551-022-00851-z",
@@ -1389,8 +1389,8 @@
   },
   {
    "type": "article",
-   "id": "gaudryProjectionsPotentialSocietal2021",
-   "citekey": "gaudryProjectionsPotentialSocietal2021",
+   "id": "gaudry_projections_2021",
+   "citekey": "gaudry_projections_2021",
    "collection": "MyPapers",
    "file": "Full Text",
    "url": "https://www.frontiersin.org/articles/10.3389/fnins.2021.658930/full",
@@ -1441,8 +1441,8 @@
   },
   {
    "type": "techreport",
-   "id": "ingabireElastomericHarnessesDecrease2021",
-   "citekey": "ingabireElastomericHarnessesDecrease2021",
+   "id": "ingabire_elastomeric_2021",
+   "citekey": "ingabire_elastomeric_2021",
    "collection": "MyPapers",
    "file": "Submitted Version",
    "url": "http://medrxiv.org/lookup/doi/10.1101/2021.08.31.21262838",
@@ -1480,8 +1480,8 @@
   },
   {
    "type": "techreport",
-   "id": "adamsVivoFluorescenceImaging2020a",
-   "citekey": "adamsVivoFluorescenceImaging2020a",
+   "id": "adams_vivo_2020-1",
+   "citekey": "adams_vivo_2020-1",
    "collection": "MyPapers",
    "file": "Submitted Version",
    "url": "http://biorxiv.org/lookup/doi/10.1101/2020.06.04.135236",
@@ -1519,8 +1519,8 @@
   },
   {
    "type": "article",
-   "id": "donnarummaFrameworkIdentifyStructured2021",
-   "citekey": "donnarummaFrameworkIdentifyStructured2021",
+   "id": "donnarumma_framework_2021",
+   "citekey": "donnarumma_framework_2021",
    "collection": "MyPapers",
    "file": "Full Text",
    "url": "http://www.nature.com/articles/s41598-020-79744-7",
@@ -1563,8 +1563,8 @@
   },
   {
    "type": "article",
-   "id": "chuGhostiPyEfficientSignal2021",
-   "citekey": "chuGhostiPyEfficientSignal2021",
+   "id": "chu_ghostipy_2021",
+   "citekey": "chu_ghostipy_2021",
    "collection": "MyPapers",
    "file": "Full Text",
    "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
@@ -1589,8 +1589,8 @@
   },
   {
    "type": "article",
-   "id": "santanielloEditorialNextGeneration2021",
-   "citekey": "santanielloEditorialNextGeneration2021",
+   "id": "santaniello_editorial_2021",
+   "citekey": "santaniello_editorial_2021",
    "collection": "MyPapers",
    "file": "Full Text",
    "url": "https://www.frontiersin.org/articles/10.3389/fnins.2021.737737/full",
@@ -1629,8 +1629,8 @@
   },
   {
    "type": "techreport",
-   "id": "juneauMiniFASTSensitiveFast2020a",
-   "citekey": "juneauMiniFASTSensitiveFast2020a",
+   "id": "juneau_minifast_2020",
+   "citekey": "juneau_minifast_2020",
    "collection": "MyPapers",
    "file": "Juneau et al. - 2020 - MiniFAST A sensitive and fast miniaturized micros.pdf",
    "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
@@ -1671,8 +1671,8 @@
   },
   {
    "type": "article",
-   "id": "chuGhostiPyEfficientSignal2021b",
-   "citekey": "chuGhostiPyEfficientSignal2021b",
+   "id": "chu_ghostipy_2021-1",
+   "citekey": "chu_ghostipy_2021-1",
    "collection": "MyPapers",
    "file": "Chu and Kemere - 2021 - GhostiPy An Efficient Signal Processing and Spect.pdf",
    "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
@@ -1697,8 +1697,8 @@
   },
   {
    "type": "techreport",
-   "id": "dibaRetuningHippocampalRepresentations2022",
-   "citekey": "dibaRetuningHippocampalRepresentations2022",
+   "id": "diba_retuning_2022",
+   "citekey": "diba_retuning_2022",
    "collection": "MyPapers",
    "file": "Diba et al. - 2022 - Retuning of hippocampal representations during sle.pdf",
    "url": "https://www.researchsquare.com/article/rs-2191626/v1",
@@ -1727,8 +1727,8 @@
   },
   {
    "type": "article",
-   "id": "ingabireEvaluationAerosolParticle2022",
-   "citekey": "ingabireEvaluationAerosolParticle2022",
+   "id": "ingabire_evaluation_2022",
+   "citekey": "ingabire_evaluation_2022",
    "collection": "MyPapers",
    "file": "Ingabire et al. - 2022 - Evaluation of Aerosol Particle Leak and Standard S.pdf",
    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788500",
@@ -1768,8 +1768,8 @@
   },
   {
    "type": "techreport",
-   "id": "juneauMiniFASTSensitiveFast2020b",
-   "citekey": "juneauMiniFASTSensitiveFast2020b",
+   "id": "juneau_minifast_2020-1",
+   "citekey": "juneau_minifast_2020-1",
    "collection": "MyPapers",
    "file": "Juneau et al. - 2020 - MiniFAST A sensitive and fast miniaturized micros.pdf",
    "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
@@ -1810,8 +1810,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "gaoNovelVirtualReality2020a",
-   "citekey": "gaoNovelVirtualReality2020a",
+   "id": "gao_novel_2020",
+   "citekey": "gao_novel_2020",
    "collection": "MyPapers",
    "file": "Gao et al. - 2020 - Novel Virtual Reality System for Auditory Tasks in.pdf",
    "url": "https://ieeexplore.ieee.org/document/9176536/",
@@ -1849,8 +1849,8 @@
   },
   {
    "type": "misc",
-   "id": "dibaRetuningHippocampalRepresentations2022a",
-   "citekey": "dibaRetuningHippocampalRepresentations2022a",
+   "id": "diba_retuning_2022-1",
+   "citekey": "diba_retuning_2022-1",
    "collection": "MyPapers",
    "file": "Submitted Version",
    "url": "https://www.researchsquare.com/article/rs-2191626/v1",
@@ -1878,8 +1878,8 @@
   },
   {
    "type": "article",
-   "id": "duttaAnalysisOpenSource2019a",
-   "citekey": "duttaAnalysisOpenSource2019a",
+   "id": "dutta_analysis_2019-1",
+   "citekey": "dutta_analysis_2019-1",
    "collection": "MyPapers",
    "file": "Dutta et al. - 2019 - Analysis of an open source, closed-loop, realtime .pdf",
    "url": "https://iopscience.iop.org/article/10.1088/1741-2552/aae90e",
@@ -1907,8 +1907,8 @@
   },
   {
    "type": "article",
-   "id": "fanSputteredPorousPt2020a",
-   "citekey": "fanSputteredPorousPt2020a",
+   "id": "fan_sputtered_2020-1",
+   "citekey": "fan_sputtered_2020-1",
    "collection": "MyPapers",
    "file": "Fan et al. - 2020 - Sputtered porous Pt for wafer-scale manufacture of.pdf",
    "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ab965c",
@@ -1942,8 +1942,8 @@
   },
   {
    "type": "article",
-   "id": "singerMagnetoelectricMaterialsMiniature2020a",
-   "citekey": "singerMagnetoelectricMaterialsMiniature2020a",
+   "id": "singer_magnetoelectric_2020-1",
+   "citekey": "singer_magnetoelectric_2020-1",
    "collection": "MyPapers",
    "file": "Singer et al. - 2020 - Magnetoelectric Materials for Miniature, Wireless .pdf",
    "url": "https://linkinghub.elsevier.com/retrieve/pii/S0896627320303652",
@@ -1998,8 +1998,8 @@
   },
   {
    "type": "article",
-   "id": "donnarummaFrameworkIdentifyStructured2021a",
-   "citekey": "donnarummaFrameworkIdentifyStructured2021a",
+   "id": "donnarumma_framework_2021-1",
+   "citekey": "donnarumma_framework_2021-1",
    "collection": "MyPapers",
    "file": "Donnarumma et al. - 2021 - A framework to identify structured behavioral patt.pdf",
    "url": "https://www.nature.com/articles/s41598-020-79744-7",
@@ -2042,8 +2042,8 @@
   },
   {
    "type": "article",
-   "id": "adamsVivoLenslessMicroscopy2022a",
-   "citekey": "adamsVivoLenslessMicroscopy2022a",
+   "id": "adams_vivo_2022-1",
+   "citekey": "adams_vivo_2022-1",
    "collection": "MyPapers",
    "file": "Adams et al. - 2022 - In vivo lensless microscopy via a phase mask gener.pdf",
    "url": "https://www.nature.com/articles/s41551-022-00851-z",
@@ -2098,8 +2098,8 @@
   },
   {
    "type": "techreport",
-   "id": "ackermannUnsupervisedClusterlessDecoding2019a",
-   "citekey": "ackermannUnsupervisedClusterlessDecoding2019a",
+   "id": "ackermann_unsupervised_2019",
+   "citekey": "ackermann_unsupervised_2019",
    "collection": "MyPapers",
    "file": "Submitted Version",
    "url": "http://biorxiv.org/lookup/doi/10.1101/760470",
@@ -2122,8 +2122,8 @@
   },
   {
    "type": "techreport",
-   "id": "juneauMiniFASTSensitiveFast2020c",
-   "citekey": "juneauMiniFASTSensitiveFast2020c",
+   "id": "juneau_minifast_2020-2",
+   "citekey": "juneau_minifast_2020-2",
    "collection": "MyPapers",
    "file": "Submitted Version",
    "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
@@ -2164,8 +2164,8 @@
   },
   {
    "type": "inproceedings",
-   "id": "wang36nWCMOSTemperature2023",
-   "citekey": "wang36nWCMOSTemperature2023",
+   "id": "wang_36nw_2023",
+   "citekey": "wang_36nw_2023",
    "collection": "MyPapers",
    "file": "Wang et al. - 2023 - A 36nW CMOS Temperature Sensor with 0.1K Inaccura.pdf",
    "url": "https://ieeexplore.ieee.org/document/10185286/",
@@ -2209,8 +2209,8 @@
   },
   {
    "type": "article",
-   "id": "coulterNeuralBasisMental2023",
-   "citekey": "coulterNeuralBasisMental2023",
+   "id": "coulter_neural_2023",
+   "citekey": "coulter_neural_2023",
    "collection": "MyPapers",
    "file": "Coulter and Kemere - 2023 - The neural basis of mental navigation in rats.pdf",
    "url": "https://www.science.org/doi/10.1126/science.adl0806",
@@ -2235,8 +2235,8 @@
   },
   {
    "type": "misc",
-   "id": "webbForagingUncertaintyFollows2024",
-   "citekey": "webbForagingUncertaintyFollows2024",
+   "id": "webb_foraging_2024",
+   "citekey": "webb_foraging_2024",
    "collection": "MyPapers",
    "file": "Webb et al. - 2024 - Foraging Under Uncertainty Follows the Marginal Va.pdf",
    "url": "http://biorxiv.org/lookup/doi/10.1101/2024.03.30.587253",
@@ -2267,8 +2267,8 @@
   },
   {
    "type": "misc",
-   "id": "leeSpyglassFrameworkReproducible2024",
-   "citekey": "leeSpyglassFrameworkReproducible2024",
+   "id": "lee_spyglass_2024",
+   "citekey": "lee_spyglass_2024",
    "collection": "MyPapers",
    "file": "Lee et al. - 2024 - Spyglass a framework for reproducible and shareab.pdf",
    "url": "http://biorxiv.org/lookup/doi/10.1101/2024.01.25.577295",
@@ -2368,8 +2368,8 @@
   },
   {
    "type": "misc",
-   "id": "casco-rodriguezReDiscriminativeKalman2024",
-   "citekey": "casco-rodriguezReDiscriminativeKalman2024",
+   "id": "casco-rodriguez_re_2024",
+   "citekey": "casco-rodriguez_re_2024",
    "collection": "MyPapers",
    "file": "Casco-Rodriguez et al. - 2024 - [Re] The Discriminative Kalman Filter for Bayesian.pdf",
    "url": "http://arxiv.org/abs/2401.14429",
@@ -2391,8 +2391,8 @@
   },
   {
    "type": "article",
-   "id": "ingabireEvaluationAerosolParticle2022a",
-   "citekey": "ingabireEvaluationAerosolParticle2022a",
+   "id": "ingabire_evaluation_2022-1",
+   "citekey": "ingabire_evaluation_2022-1",
    "collection": "MyPapers",
    "file": "Ingabire et al. - 2022 - Evaluation of Aerosol Particle Leak and Standard S.pdf",
    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788500",
@@ -2432,8 +2432,8 @@
   },
   {
    "type": "article",
-   "id": "zumstegPowerFeasibilityImplantable2005",
-   "citekey": "zumstegPowerFeasibilityImplantable2005",
+   "id": "zumsteg_power_2005",
+   "citekey": "zumsteg_power_2005",
    "collection": "MyPapers",
    "file": "Zumsteg et al. - 2005 - Power feasibility of implantable digital spike sor.pdf",
    "url": "https://ieeexplore.ieee.org/document/1506814/",
@@ -2473,8 +2473,8 @@
   },
   {
    "type": "article",
-   "id": "friendQuantifyingRecordingQuality2015a",
-   "citekey": "friendQuantifyingRecordingQuality2015a",
+   "id": "friend_quantifying_2015",
+   "citekey": "friend_quantifying_2015",
    "collection": "MyPapers",
    "file": "Friend et al. - 2015 - Quantifying Recording Quality in In Vivo Striatal .pdf",
    "url": "https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/0471142301.ns0628s70",
@@ -2498,6 +2498,192 @@
     "number": "1",
     "month": "January"
    }
+  },
+  {
+   "type": "misc",
+   "id": "chu_realtimedecoder_2024",
+   "citekey": "chu_realtimedecoder_2024",
+   "collection": "MyPapers",
+   "file": "Chu et al. - RealtimeDecoder A fast software module for online.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.05.03.592417",
+   "doi": "10.1101/2024.05.03.592417",
+   "title": "RealtimeDecoder: A fast software module for online clusterless decoding",
+   "month": "May",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Chu, Joshua P"
+    },
+    {
+     "name": "Coulter, Michael E"
+    },
+    {
+     "name": "Denovellis, Eric L."
+    },
+    {
+     "name": "Nguyen, Trevor Tk"
+    },
+    {
+     "name": "Liu, Daniel F"
+    },
+    {
+     "name": "Deng, Xinyi"
+    },
+    {
+     "name": "Eden, Uri T"
+    },
+    {
+     "name": "Kemere, Caleb T"
+    },
+    {
+     "name": "Frank, Loren M"
+    }
+   ]
+  },
+  {
+   "type": "misc",
+   "id": "diba_retuning_2022-2",
+   "citekey": "diba_retuning_2022-2",
+   "collection": "MyPapers",
+   "file": "Diba et al. - 2022 - Retuning of hippocampal representations during sle.pdf",
+   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
+   "doi": "10.21203/rs.3.rs-2191626/v1",
+   "title": "Retuning of hippocampal representations during sleep",
+   "month": "November",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Giri, Bapun"
+    },
+    {
+     "name": "Miyawaki, Hiroyuki"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "maboudi_uncovering_2018-2",
+   "citekey": "maboudi_uncovering_2018-2",
+   "collection": "MyPapers",
+   "file": "Maboudi et al. - 2018 - Uncovering temporal structure in hippocampal outpu.pdf",
+   "url": "https://elifesciences.org/articles/34467",
+   "doi": "10.7554/eLife.34467",
+   "title": "Uncovering temporal structure in hippocampal output patterns",
+   "year": "2018",
+   "author": [
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Ackermann, Etienne"
+    },
+    {
+     "name": "De Jong, Laurel Watkins"
+    },
+    {
+     "name": "Pfeiffer, Brad E"
+    },
+    {
+     "name": "Foster, David"
+    },
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "eLife",
+    "volume": "7",
+    "pages": "e34467",
+    "month": "June"
+   }
+  },
+  {
+   "type": "article",
+   "id": "maboudi_retuning_2024",
+   "citekey": "maboudi_retuning_2024",
+   "collection": "MyPapers",
+   "file": "Maboudi et al. - 2024 - Retuning of hippocampal representations during sle.pdf",
+   "url": "https://www.nature.com/articles/s41586-024-07397-x",
+   "doi": "10.1038/s41586-024-07397-x",
+   "title": "Retuning of hippocampal representations during sleep",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Giri, Bapun"
+    },
+    {
+     "name": "Miyawaki, Hiroyuki"
+    },
+    {
+     "name": "Kemere, Caleb"
+    },
+    {
+     "name": "Diba, Kamran"
+    }
+   ],
+   "journal": {
+    "name": "Nature",
+    "volume": "629",
+    "number": "8012",
+    "pages": "630--638",
+    "month": "May"
+   }
+  },
+  {
+   "type": "misc",
+   "id": "chu_realtimedecoder_2024-1",
+   "citekey": "chu_realtimedecoder_2024-1",
+   "collection": "MyPapers",
+   "file": "Chu et al. - 2024 - RealtimeDecoder A fast software module for online.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.05.03.592417",
+   "doi": "10.1101/2024.05.03.592417",
+   "title": "RealtimeDecoder: A fast software module for online clusterless decoding",
+   "month": "May",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Coulter, Michael E."
+    },
+    {
+     "name": "Denovellis, Eric L."
+    },
+    {
+     "name": "Nguyen, Trevor T. K."
+    },
+    {
+     "name": "Liu, Daniel F."
+    },
+    {
+     "name": "Deng, Xinyi"
+    },
+    {
+     "name": "Eden, Uri T."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    },
+    {
+     "name": "Frank, Loren M."
+    }
+   ]
   }
  ]
 }
