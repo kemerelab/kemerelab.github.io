@@ -61,8 +61,8 @@ understand the _internal representatiosn_ encoded within neural circuits. This i
 critical during periods like sleep in which animals are not behaving, and there are not external
 variables to correlate signals with. We are developing new approaches for observing and understanding
 the latent variables that underly learning, memory, decision making, and other critical cognitive
-functions. Recent papers using 
-[Gaussian Processes](https://www.biorxiv.org/content/10.1101/2024.03.04.583340v1.abstract)
+functions. Recent papers using [Statistical Decoding](https://www.nature.com/articles/s41586-024-07397-x),
+[Gaussian Processes Latent Variable Models](https://www.biorxiv.org/content/10.1101/2024.03.04.583340v1.abstract)
 and [Hidden Markov Models](https://elifesciences.org/articles/34467)
 </div>
 
