@@ -4,7 +4,7 @@ save_as: index.html
 url: index.html
 ---
 
-<article class="bluegrid" style="display:flex;" markdown="1">
+<article style="display:flex;" markdown="1">
 <div class="large-flex" markdown="1">
 ## Realtime Neural Engineering.
 
@@ -21,16 +21,16 @@ that are shared as open source.
 </div>
 
 <div class="small-flex-right">
-    <img src="images/Bird.png" alt="Realtime neural signal processing icon" style="height:300px;">
+    <img src="images/Bird2.png" alt="Realtime neural signal processing icon" style="height:300px;">
 </div>
 
 </article>
 
 <hr>
 
-<article style="display:flex;" markdown="1">
+<article class="bluegrid" style="display:flex;" markdown="1">
 <div class="small-flex-left">
-    <img src="images/research-features/Jadhav_F1_F2.jpg" style="height:300px" alt="Jadhav_et_al Science 2012">
+    <img src="images/research-features/Jadhav_F1_F2.png" style="height:300px" alt="Jadhav_et_al Science 2012">
 </div>
 <div class="large-flex" markdown="1">
 
@@ -50,7 +50,7 @@ inhibit the recall or long-term storage of traumatic episodes_.
 
 <hr>
 
-<article class="bluegrid" style="display:flex;" markdown="1">
+<article style="display:flex;" markdown="1">
 <div class="large-flex" markdown="1">
 
 ## Understanding the brain with machine learning {: id="research-latents"}
@@ -67,13 +67,13 @@ and [Hidden Markov Models](https://elifesciences.org/articles/34467)
 </div>
 
 <div class="small-flex-right">
-    <img class="featurette-image img-fluid" style="height:300px" src="images/research-features/GP-publicity.png" alt="Gaussian Process Manifolds">
+    <img class="featurette-image img-fluid" style="height:300px" src="images/research-features/GP-publicity2.png" alt="Gaussian Process Manifolds">
 </div>
 </article>
 
 <hr>
 
-<article style="display:flex;" markdown="1">
+<article class="bluegrid"  style="display:flex;" markdown="1">
 <div class="small-flex-left">
     <img class="featurette-image img-fluid" src="images/research-features/OpenSource.jpg" alt="Open Source Tools">
 </div>
@@ -89,7 +89,7 @@ More information about [tools for neuroscience and neural engineering](/research
 
 <hr>
 
-<article class="bluegrid" style="display:flex;" markdown="1">
+<article style="display:flex;" markdown="1">
 <div class="large-flex" markdown="1">
 ## Interested in Working Here? {: id="research-join"}
     
@@ -101,7 +101,7 @@ and [undergraduate research assistants](/interested.html).
 </div>
 </article>
 
-<article style="text-align: center;">
+<article class="bluegrid" style="text-align: center;">
 <div> <i>We are grateful for the organizations that support our work!.</i></div>
 <div> <img src="images/Funders.png" alt="Funders"></div>
 </article>

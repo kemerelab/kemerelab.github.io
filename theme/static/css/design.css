@@ -24,8 +24,11 @@
 
 
 .bluegrid {
+   /*
    background-image:url(/images/bluegrid-light.png);
    background-repeat:repeat;
+   */
+   background-color:rgb(229, 236, 247)
    /* background-attachment:fixed;*/
 }
 
@@ -68,7 +71,10 @@
  -------------------------------------------------- */
  @media only screen and (prefers-color-scheme: dark) {
    .bluegrid {
+      /*
       background-image:url(/images/bluegrid-light-darkmode.png);
+      */
+      background-color: rgb(1, 14, 26);
    }   
 }
 
