@@ -101,7 +101,14 @@ and [undergraduate research assistants](/interested.html).
 </div>
 </article>
 
-<article class="bluegrid" style="text-align: center;">
-<div> <i>We are grateful for the organizations that support our work!.</i></div>
-<div> <img src="images/Funders.png" alt="Funders"></div>
+<article class="funder-background" style="text-align: center;" markdown="1">
+#### _We are grateful for the organizations that support our work!_
+
+<img class="funder-image" src="images/funders/NSF-1500.png" alt="NSF">
+<img class="funder-image" src="images/funders/HFSP-1500.png" alt="HFSP">
+<img class="funder-image" src="images/funders/DARPA-1500.png" alt="DARPA">
+<img class="funder-image" src="images/funders/NINDS-1500.png" alt="NINDS">
+<img class="funder-image" src="images/funders/ARL-1500.png" alt="ARL">
+
+
 </article>
