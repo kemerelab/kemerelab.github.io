@@ -4,8 +4,8 @@ save_as: index.html
 url: index.html
 ---
 
-<article style="display:flex;" markdown="1">
-<div class="large-flex" markdown="1">
+<article style="display:flex;" class="feature" markdown="1">
+<div class="large-flex"  markdown="1">
 ## Realtime Neural Engineering.
 
 Our lab designs new ways of understanding and interacting with complex neural circuits in vivo.

@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Tools
 save_as: research/tools.html
 url: research/tools.html
 ---
