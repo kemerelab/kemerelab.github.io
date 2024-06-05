@@ -16,6 +16,14 @@ nav {
    align-items: first baseline;
 }
 
+:where(a:not([role=button])):is([aria-current]:not([aria-current=false])),
+[role=link]:is([aria-current]:not([aria-current=false])) {
+   font-weight: bold;
+  --pico-color: var(--pico-primary);
+  --pico-underline: var(--pico-primary-hover);
+  --pico-text-decoration: underline;
+}
+
 nav > .nav-links {
    position: auto;
    display: flex;
@@ -53,6 +61,12 @@ nav > .navbar-break {
    display: hidden;
    flex-basis:100%; 
    height:0;
+}
+
+.nav-menu-icon {
+   width: 1.5em;
+   height: 1.5em;
+   color: var(--pico-primary);
 }
 
 @media (max-width: 800px) {
@@ -156,12 +170,12 @@ article h2 {
    margin-right: calc(var(--pico-block-spacing-horizontal) * -1);
    margin-left: calc(var(--pico-block-spacing-horizontal) * -1);
    padding: calc(var(--pico-block-spacing-vertical) * 0.66) var(--pico-block-spacing-horizontal);
-   background-color: var(--pico-color-blue-100);
+   background-color: rgb(155,187,213);
    font-weight: bold;
 }
 
 .tool-highlight {
-   background: var(--pico-color-green-100);
+   background: rgb(194,219,154);
 }
 
 
@@ -175,6 +189,14 @@ article h2 {
       */
       background-color: rgb(1, 14, 26);
    }   
+
+   .admonition-title {
+      background-color: rgb(3,43,76);
+   }
+
+   .tool-highlight {
+      background: rgb(52, 82, 1);
+   }
 }
 
 

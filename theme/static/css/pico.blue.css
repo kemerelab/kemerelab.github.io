@@ -233,11 +233,13 @@ details summary[role=button]:not(.outline)::after {
   --pico-text-selection-color: rgba(116, 139, 248, 0.25);
   --pico-muted-color: #646b79;
   --pico-muted-border-color: #e7eaf0;
-  --pico-primary: #2060df;
+  /* --pico-primary: #2060df; */
+  --pico-primary: #065697;
   --pico-primary-background: #2060df;
   --pico-primary-border: var(--pico-primary-background);
   --pico-primary-underline: rgba(32, 96, 223, 0.5);
-  --pico-primary-hover: #184eb8;
+  /* --pico-primary-hover: #184eb8;s */
+  --pico-primary-hover: #345201;
   --pico-primary-hover-background: #1d59d0;
   --pico-primary-hover-border: var(--pico-primary-hover-background);
   --pico-primary-hover-underline: var(--pico-primary-hover);
