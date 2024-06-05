@@ -8,9 +8,6 @@
 }
 
 .header-text {
-   padding-bottom: 0px;
-   padding-top: 0px;
-   font-size: 20px;
 }
 
 nav {
@@ -42,6 +39,10 @@ nav > ul {
 nav > .nav-links > li {
    display: block;
    width: auto;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   font-size: 25px;
+   font-weight: 300 !important;
 }
 
 nav > #nav-check {
@@ -96,8 +97,8 @@ nav > .navbar-break {
 }
 
 .icon {
-   width: 1.5em;
-   height: 1.5em;
+   width: 1.25em;
+   height: 1.25em;
    /* vertical-align: -0.25em; */
 }
 
