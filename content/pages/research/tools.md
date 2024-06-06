@@ -12,12 +12,13 @@ Many items are available at our lab repository
 
 ### Bleeding-edge
 !!!tool-highlight "AJP GRIN-Ephys"
-    <img src="/images/research-features/tools/grin-electrode.png" alt="GRIN-Ephys" width="200" style="float: left; margin: 10px;"/>
+    <img src="/images/research-features/tools/grin-electrode.png" alt="GRIN-Ephys" width="200">{@class=tool-img}
 
     One of our ongoing projects is to develop easy ways for integrating electrophysiology with
     imaging in freely moving animals. We are using Aerosol Jet Printing to pattern electrodes
     directly onto the GRIN lenses used for miniscope imaging. This has the potential to vastly
     simplify manufacturing for these systems. __We are excited to collaborate on this project!__
+
 
 ### Software
 !!! tool "GhostiPy"
@@ -75,7 +76,7 @@ Many items are available at our lab repository
 
 
 !!!tool "MiniFAST"
-    <img src="/images/research-features/tools/MiniFASTmouse.jpg" alt="MiniFAST on Mouse" width="200" style="float: left; margin: 10px;"/>
+    <img src="/images/research-features/tools/MiniFASTmouse.jpg" alt="MiniFAST on Mouse" width="200"/>{@class=tool-img}
 
     We developed the [MiniFAST](https://github.com/jjuneau1/MiniFAST) 
     variant of the UCLA miniscope as part of our work towards enabling imaging of fast genetically-encoded 

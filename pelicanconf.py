@@ -23,6 +23,7 @@ MARKDOWN = {
         'smarty' : {
             'smart_angled_quotes' : 'true'
         },
+        'markdown.extensions.legacy_attrs': {},
     }
 
 }

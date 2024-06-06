@@ -24,6 +24,8 @@ nav {
   --pico-text-decoration: underline;
 }
 
+/* https://codepen.io/jo_Geek/pen/xgbaEr */
+
 nav > .nav-links {
    position: auto;
    display: flex;
@@ -85,10 +87,17 @@ nav > .navbar-break {
       width: 100%;
       background-color: whitesmoke;
       /* height: 0px; */
-      /* transition: all 0.3s ease-in; */
+      transition: all 0.3s ease-in;
       overflow-y: hidden;
       top: 50px;
+      border-radius: 10px;
+      overflow:hidden;
+      border-style: solid;
+      border-width: 1px;
+      border-color: var(--pico-primary);
+
       /* left: 0px; */
+
    }
    nav > .navbar-break {
       display: block;
@@ -96,6 +105,7 @@ nav > .navbar-break {
    nav > .nav-links > li {
       display: block;
       padding: 0;
+      padding-left: 10px;
    }
    nav > #nav-check:not(:checked) ~ .nav-links {
       height: 0px;
@@ -109,6 +119,16 @@ nav > .navbar-break {
       flex-grow:1;
    }
 }
+
+@media only screen and (prefers-color-scheme: dark) and (max-width: 800px)  {
+   nav > .nav-links {
+      background-color: var(--pico-background-color) !important;
+      border-style: solid;
+      border-width: 1px;
+      border-color: whitesmoke;
+   }
+}
+
 
 .icon {
    width: 1.25em;
@@ -176,6 +196,17 @@ article h2 {
 
 .tool-highlight {
    background: rgb(194,219,154);
+}
+
+.tool-img > img {
+   float: left; 
+   margin: 10px;
+}
+
+@media (max-width: 800px) {
+   .tool-img > img {
+      float: none; 
+   }
 }
 
 
