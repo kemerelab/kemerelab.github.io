@@ -1,14 +1,14 @@
 <div style="display:flex;">
-<div style="flex:1 1 200px;">
+<div class="directory-entry">
 {% if indiv.website %}
-<a href="#"><img class="media-object"
-  src="/images/headshots/{{ indiv.name | replace(' ','') }}.jpg" width="200px" alt="image"/></a>
+<a href="#"><img
+  src="/images/headshots/{{ indiv.name | replace(' ','') }}.jpg" alt="image"/></a>
 {% else %}
-<img class="media-object"
-  src="/images/headshots/{{ indiv.name | replace(' ','') }}.jpg" width="200px" alt="image"/>
+<img
+  src="/images/headshots/{{ indiv.name | replace(' ','') }}.jpg" alt="image"/>
 {% endif %}
 </div>
-<div style="padding-left:10px; flex:4 1;">
+<div class="directory-data">
   <h4>{{indiv.name}}</h4>
   <address>
     {% if indiv.group =="Alumni" or indiv.group=="Alumni2" or indiv.group=="Alumni3" %}

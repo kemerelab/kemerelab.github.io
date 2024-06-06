@@ -71,7 +71,7 @@ nav > .navbar-break {
    color: var(--pico-primary);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 48em) {
    nav {
       flex-wrap: wrap;
       justify-content: space-between;
@@ -120,7 +120,7 @@ nav > .navbar-break {
    }
 }
 
-@media only screen and (prefers-color-scheme: dark) and (max-width: 800px)  {
+@media only screen and (prefers-color-scheme: dark) and (max-width: 48em)  {
    nav > .nav-links {
       background-color: var(--pico-background-color) !important;
       border-style: solid;
@@ -203,7 +203,7 @@ article h2 {
    margin: 10px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 48em) {
    .tool-img > img {
       float: none; 
    }
@@ -247,18 +247,17 @@ article h2 {
 }
 
 
-
 .large-flex {
    flex:3 1 200px;
 }
 
-@media screen and (max-width: 64em) {
+@media screen and (max-width: 48em) {
    .small-flex-left {
        display: none !important;
    }
 }
 
-@media screen and (max-width: 64em) {
+@media screen and (max-width: 48em) {
    .small-flex-right {
        display: none !important;
    }
@@ -299,3 +298,35 @@ article h2 {
    border-color:rgb(229, 236, 247);
 }
 
+.directory-entry {
+   flex:1 1 200px;
+   flex-wrap: wrap;
+}
+.directory-entry > img {
+   width: 200px;
+}
+.directory-entry > a > img {
+   width: 200px;
+}
+
+.alumni-directory-entry {
+   flex:1 1 100px;
+}
+
+
+.directory-data {
+   padding-left:10px; 
+   flex:4 1;
+}
+
+@media (max-width: 48em) {
+   .directory-entry {
+      flex:1 1 100px;
+   }
+   .directory-entry > a > img {
+      width: 100px;
+   }
+   .directory-entry > img {
+      width: 100px;
+   }
+}
