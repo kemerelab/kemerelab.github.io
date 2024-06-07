@@ -310,9 +310,8 @@ article h2 {
    flex:1 1 100px;
 }
 
-
 .directory-data {
-   padding-left:10px; 
+   padding-left:0px; 
    flex:4 1;
 }
 
@@ -320,6 +319,12 @@ article h2 {
    .directory-entry {
       flex:1 1 100px;
    }
+
+   .directory-data {
+      padding-left:0px; 
+      flex:8 1;
+   }
+
    .directory-entry > a > img {
       width: 100px;
    }
