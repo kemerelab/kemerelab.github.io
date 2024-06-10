@@ -1340,55 +1340,6 @@
   },
   {
    "type": "article",
-   "id": "adams_vivo_2022",
-   "citekey": "adams_vivo_2022",
-   "collection": "MyPapers",
-   "file": "Full Text",
-   "url": "https://www.nature.com/articles/s41551-022-00851-z",
-   "doi": "10.1038/s41551-022-00851-z",
-   "title": "In vivo lensless microscopy via a phase mask generating diffraction patterns with high-contrast contours",
-   "year": "2022",
-   "author": [
-    {
-     "name": "Adams, Jesse K."
-    },
-    {
-     "name": "Yan, Dong"
-    },
-    {
-     "name": "Wu, Jimin"
-    },
-    {
-     "name": "Boominathan, Vivek"
-    },
-    {
-     "name": "Gao, Sibo"
-    },
-    {
-     "name": "Rodriguez, Alex V."
-    },
-    {
-     "name": "Kim, Soonyoung"
-    },
-    {
-     "name": "Carns, Jennifer"
-    },
-    {
-     "name": "Richards-Kortum, Rebecca"
-    },
-    {
-     "name": "Kemere, Caleb"
-    },
-    {
-     "name": "Veeraraghavan, Ashok"
-    },
-    {
-     "name": "Robinson, Jacob T."
-    }
-   ]
-  },
-  {
-   "type": "article",
    "id": "gaudry_projections_2021",
    "citekey": "gaudry_projections_2021",
    "collection": "MyPapers",
@@ -1559,32 +1510,6 @@
     "number": "1",
     "pages": "468",
     "month": "December"
-   }
-  },
-  {
-   "type": "article",
-   "id": "chu_ghostipy_2021",
-   "citekey": "chu_ghostipy_2021",
-   "collection": "MyPapers",
-   "file": "Full Text",
-   "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
-   "doi": "10.1523/ENEURO.0202-21.2021",
-   "title": "GhostiPy: An Efficient Signal Processing and Spectral Analysis Toolbox for Large Data",
-   "year": "2021",
-   "author": [
-    {
-     "name": "Chu, Joshua P."
-    },
-    {
-     "name": "Kemere, Caleb T."
-    }
-   ],
-   "journal": {
-    "name": "eneuro",
-    "volume": "8",
-    "number": "6",
-    "pages": "ENEURO.0202--21.2021",
-    "month": "November"
    }
   },
   {
@@ -1767,48 +1692,6 @@
    }
   },
   {
-   "type": "techreport",
-   "id": "juneau_minifast_2020-1",
-   "citekey": "juneau_minifast_2020-1",
-   "collection": "MyPapers",
-   "file": "Juneau et al. - 2020 - MiniFAST A sensitive and fast miniaturized micros.pdf",
-   "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
-   "doi": "10.1101/2020.11.03.367466",
-   "title": "MiniFAST: A sensitive and fast miniaturized microscope for \\textitin vivo neural recording",
-   "institution": "Neuroscience",
-   "year": "2020",
-   "month": "November",
-   "author": [
-    {
-     "name": "Juneau, Jill"
-    },
-    {
-     "name": "Duret, Guillaume"
-    },
-    {
-     "name": "Chu, Joshua P."
-    },
-    {
-     "name": "Rodriguez, Alexander V."
-    },
-    {
-     "name": "Morozov, Savva"
-    },
-    {
-     "name": "Aharoni, Daniel"
-    },
-    {
-     "name": "Robinson, Jacob T."
-    },
-    {
-     "name": "St-Pierre, Fran\u00e7ois"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ]
-  },
-  {
    "type": "inproceedings",
    "id": "gao_novel_2020",
    "citekey": "gao_novel_2020",
@@ -1846,35 +1729,6 @@
     "name": "IEEE",
     "address": "Montreal, QC, Canada"
    }
-  },
-  {
-   "type": "misc",
-   "id": "diba_retuning_2022-1",
-   "citekey": "diba_retuning_2022-1",
-   "collection": "MyPapers",
-   "file": "Submitted Version",
-   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
-   "doi": "10.21203/rs.3.rs-2191626/v1",
-   "title": "Retuning of hippocampal representations during sleep",
-   "month": "November",
-   "year": "2022",
-   "author": [
-    {
-     "name": "Diba, Kamran"
-    },
-    {
-     "name": "Maboudi, Kourosh"
-    },
-    {
-     "name": "Giri, Bapun"
-    },
-    {
-     "name": "Miyawaki, Hiroyuki"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ]
   },
   {
    "type": "article",
@@ -2117,48 +1971,6 @@
     },
     {
      "name": "Cunningham, John P."
-    }
-   ]
-  },
-  {
-   "type": "techreport",
-   "id": "juneau_minifast_2020-2",
-   "citekey": "juneau_minifast_2020-2",
-   "collection": "MyPapers",
-   "file": "Submitted Version",
-   "url": "http://biorxiv.org/lookup/doi/10.1101/2020.11.03.367466",
-   "doi": "10.1101/2020.11.03.367466",
-   "title": "MiniFAST: A sensitive and fast miniaturized microscope for \\textitin vivo neural recording",
-   "institution": "Neuroscience",
-   "year": "2020",
-   "month": "November",
-   "author": [
-    {
-     "name": "Juneau, Jill"
-    },
-    {
-     "name": "Duret, Guillaume"
-    },
-    {
-     "name": "Chu, Joshua P."
-    },
-    {
-     "name": "Rodriguez, Alexander V."
-    },
-    {
-     "name": "Morozov, Savva"
-    },
-    {
-     "name": "Aharoni, Daniel"
-    },
-    {
-     "name": "Robinson, Jacob T."
-    },
-    {
-     "name": "St-Pierre, Fran\u00e7ois"
-    },
-    {
-     "name": "Kemere, Caleb"
     }
    ]
   },
@@ -2541,75 +2353,6 @@
    ]
   },
   {
-   "type": "misc",
-   "id": "diba_retuning_2022-2",
-   "citekey": "diba_retuning_2022-2",
-   "collection": "MyPapers",
-   "file": "Diba et al. - 2022 - Retuning of hippocampal representations during sle.pdf",
-   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
-   "doi": "10.21203/rs.3.rs-2191626/v1",
-   "title": "Retuning of hippocampal representations during sleep",
-   "month": "November",
-   "year": "2022",
-   "author": [
-    {
-     "name": "Diba, Kamran"
-    },
-    {
-     "name": "Maboudi, Kourosh"
-    },
-    {
-     "name": "Giri, Bapun"
-    },
-    {
-     "name": "Miyawaki, Hiroyuki"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ]
-  },
-  {
-   "type": "article",
-   "id": "maboudi_uncovering_2018-2",
-   "citekey": "maboudi_uncovering_2018-2",
-   "collection": "MyPapers",
-   "file": "Maboudi et al. - 2018 - Uncovering temporal structure in hippocampal outpu.pdf",
-   "url": "https://elifesciences.org/articles/34467",
-   "doi": "10.7554/eLife.34467",
-   "title": "Uncovering temporal structure in hippocampal output patterns",
-   "year": "2018",
-   "author": [
-    {
-     "name": "Maboudi, Kourosh"
-    },
-    {
-     "name": "Ackermann, Etienne"
-    },
-    {
-     "name": "De Jong, Laurel Watkins"
-    },
-    {
-     "name": "Pfeiffer, Brad E"
-    },
-    {
-     "name": "Foster, David"
-    },
-    {
-     "name": "Diba, Kamran"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ],
-   "journal": {
-    "name": "eLife",
-    "volume": "7",
-    "pages": "e34467",
-    "month": "June"
-   }
-  },
-  {
    "type": "article",
    "id": "maboudi_retuning_2024",
    "citekey": "maboudi_retuning_2024",
@@ -2643,46 +2386,7 @@
     "pages": "630--638",
     "month": "May"
    }
-  },
-  {
-   "type": "misc",
-   "id": "chu_realtimedecoder_2024-1",
-   "citekey": "chu_realtimedecoder_2024-1",
-   "collection": "MyPapers",
-   "file": "Chu et al. - 2024 - RealtimeDecoder A fast software module for online.pdf",
-   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.05.03.592417",
-   "doi": "10.1101/2024.05.03.592417",
-   "title": "RealtimeDecoder: A fast software module for online clusterless decoding",
-   "month": "May",
-   "year": "2024",
-   "author": [
-    {
-     "name": "Chu, Joshua P."
-    },
-    {
-     "name": "Coulter, Michael E."
-    },
-    {
-     "name": "Denovellis, Eric L."
-    },
-    {
-     "name": "Nguyen, Trevor T. K."
-    },
-    {
-     "name": "Liu, Daniel F."
-    },
-    {
-     "name": "Deng, Xinyi"
-    },
-    {
-     "name": "Eden, Uri T."
-    },
-    {
-     "name": "Kemere, Caleb T."
-    },
-    {
-     "name": "Frank, Loren M."
-    }
+  }
    ]
   }
  ]
