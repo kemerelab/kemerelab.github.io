@@ -2,50 +2,10 @@
  "metadata": {
   "collection": "MyPapers",
   "source": "MyPapers.bib",
-  "created": "2024-05-15T19:00:27.697891",
-  "records": 72
+  "created": "2024-06-10T15:27:58.314526",
+  "records": 60
  },
  "records": [
-  {
-   "type": "article",
-   "id": "maboudi_uncovering_2018",
-   "citekey": "maboudi_uncovering_2018",
-   "collection": "MyPapers",
-   "file": "Maboudi et al. - 2018 - Uncovering temporal structure in hippocampal outpu.pdf",
-   "url": "https://elifesciences.org/articles/34467",
-   "doi": "10.7554/eLife.34467",
-   "title": "Uncovering temporal structure in hippocampal output patterns",
-   "year": "2018",
-   "author": [
-    {
-     "name": "Maboudi, Kourosh"
-    },
-    {
-     "name": "Ackermann, Etienne"
-    },
-    {
-     "name": "de Jong, Laurel Watkins"
-    },
-    {
-     "name": "Pfeiffer, Brad E"
-    },
-    {
-     "name": "Foster, David"
-    },
-    {
-     "name": "Diba, Kamran"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ],
-   "journal": {
-    "name": "eLife",
-    "volume": "7",
-    "pages": "e34467",
-    "month": "June"
-   }
-  },
   {
    "type": "inproceedings",
    "id": "ackermann_latent_2017",
@@ -328,33 +288,6 @@
   },
   {
    "type": "article",
-   "id": "dutta_analysis_2019",
-   "citekey": "dutta_analysis_2019",
-   "collection": "MyPapers",
-   "file": "Dutta et al_2018_Analysis of an open source, closed-loop, realtime system for hippocampal.pdf",
-   "doi": "10.1088/1741-2552/aae90e",
-   "title": "Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption",
-   "year": "2019",
-   "author": [
-    {
-     "name": "Dutta, Shayok"
-    },
-    {
-     "name": "Ackermann, Etienne"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ],
-   "journal": {
-    "name": "Journal of Neural Engineering",
-    "volume": "16",
-    "number": "1",
-    "pages": "016009"
-   }
-  },
-  {
-   "type": "article",
    "id": "kemere_model-based_2004",
    "citekey": "kemere_model-based_2004",
    "collection": "MyPapers",
@@ -604,8 +537,8 @@
   },
   {
    "type": "techreport",
-   "id": "maboudi_uncovering_2018-1",
-   "citekey": "maboudi_uncovering_2018-1",
+   "id": "maboudi_uncovering_2018",
+   "citekey": "maboudi_uncovering_2018",
    "collection": "MyPapers",
    "file": "Maboudi et al_2018_Uncovering temporal structure in hippocampal output patterns.pdf",
    "url": "http://biorxiv.org/lookup/doi/10.1101/242594",
@@ -1470,50 +1403,6 @@
   },
   {
    "type": "article",
-   "id": "donnarumma_framework_2021",
-   "citekey": "donnarumma_framework_2021",
-   "collection": "MyPapers",
-   "file": "Full Text",
-   "url": "http://www.nature.com/articles/s41598-020-79744-7",
-   "doi": "10.1038/s41598-020-79744-7",
-   "title": "A framework to identify structured behavioral patterns within rodent spatial trajectories",
-   "year": "2021",
-   "author": [
-    {
-     "name": "Donnarumma, Francesco"
-    },
-    {
-     "name": "Prevete, Roberto"
-    },
-    {
-     "name": "Maisto, Domenico"
-    },
-    {
-     "name": "Fuscone, Simone"
-    },
-    {
-     "name": "Irvine, Emily M."
-    },
-    {
-     "name": "van der Meer, Matthijs A. A."
-    },
-    {
-     "name": "Kemere, Caleb"
-    },
-    {
-     "name": "Pezzulo, Giovanni"
-    }
-   ],
-   "journal": {
-    "name": "Scientific Reports",
-    "volume": "11",
-    "number": "1",
-    "pages": "468",
-    "month": "December"
-   }
-  },
-  {
-   "type": "article",
    "id": "santaniello_editorial_2021",
    "citekey": "santaniello_editorial_2021",
    "collection": "MyPapers",
@@ -1550,6 +1439,32 @@
     "volume": "15",
     "pages": "737737",
     "month": "August"
+   }
+  },
+  {
+   "type": "article",
+   "id": "chu_ghostipy_2021",
+   "citekey": "chu_ghostipy_2021",
+   "collection": "MyPapers",
+   "file": "Chu and Kemere - 2021 - GhostiPy An Efficient Signal Processing and Spect.pdf",
+   "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
+   "doi": "10.1523/ENEURO.0202-21.2021",
+   "title": "GhostiPy: An Efficient Signal Processing and Spectral Analysis Toolbox for Large Data",
+   "year": "2021",
+   "author": [
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    }
+   ],
+   "journal": {
+    "name": "eneuro",
+    "volume": "8",
+    "number": "6",
+    "pages": "ENEURO.0202--21.2021",
+    "month": "November"
    }
   },
   {
@@ -1595,103 +1510,6 @@
    ]
   },
   {
-   "type": "article",
-   "id": "chu_ghostipy_2021-1",
-   "citekey": "chu_ghostipy_2021-1",
-   "collection": "MyPapers",
-   "file": "Chu and Kemere - 2021 - GhostiPy An Efficient Signal Processing and Spect.pdf",
-   "url": "https://www.eneuro.org/lookup/doi/10.1523/ENEURO.0202-21.2021",
-   "doi": "10.1523/ENEURO.0202-21.2021",
-   "title": "GhostiPy: An Efficient Signal Processing and Spectral Analysis Toolbox for Large Data",
-   "year": "2021",
-   "author": [
-    {
-     "name": "Chu, Joshua P."
-    },
-    {
-     "name": "Kemere, Caleb T."
-    }
-   ],
-   "journal": {
-    "name": "eneuro",
-    "volume": "8",
-    "number": "6",
-    "pages": "ENEURO.0202--21.2021",
-    "month": "November"
-   }
-  },
-  {
-   "type": "techreport",
-   "id": "diba_retuning_2022",
-   "citekey": "diba_retuning_2022",
-   "collection": "MyPapers",
-   "file": "Diba et al. - 2022 - Retuning of hippocampal representations during sle.pdf",
-   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
-   "doi": "10.21203/rs.3.rs-2191626/v1",
-   "title": "Retuning of hippocampal representations during sleep",
-   "institution": "In Review",
-   "year": "2022",
-   "month": "November",
-   "author": [
-    {
-     "name": "Diba, Kamran"
-    },
-    {
-     "name": "Maboudi, Kourosh"
-    },
-    {
-     "name": "Giri, Bapun"
-    },
-    {
-     "name": "Miyawaki, Hiroyuki"
-    },
-    {
-     "name": "Kemere, Caleb"
-    }
-   ]
-  },
-  {
-   "type": "article",
-   "id": "ingabire_evaluation_2022",
-   "citekey": "ingabire_evaluation_2022",
-   "collection": "MyPapers",
-   "file": "Ingabire et al. - 2022 - Evaluation of Aerosol Particle Leak and Standard S.pdf",
-   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788500",
-   "doi": "10.1001/jamanetworkopen.2021.45811",
-   "title": "Evaluation of Aerosol Particle Leak and Standard Surgical Mask Fit With 3 Elastomeric Harness Designs",
-   "year": "2022",
-   "author": [
-    {
-     "name": "Ingabire, Jeannette"
-    },
-    {
-     "name": "McKenney, Hannah"
-    },
-    {
-     "name": "Sebesta, Charles"
-    },
-    {
-     "name": "Badhiwala, Krishna"
-    },
-    {
-     "name": "Kemere, Caleb"
-    },
-    {
-     "name": "Kapur, Sahil"
-    },
-    {
-     "name": "Robinson, Jacob T."
-    }
-   ],
-   "journal": {
-    "name": "JAMA Network Open",
-    "volume": "5",
-    "number": "1",
-    "pages": "e2145811",
-    "month": "January"
-   }
-  },
-  {
    "type": "inproceedings",
    "id": "gao_novel_2020",
    "citekey": "gao_novel_2020",
@@ -1731,11 +1549,40 @@
    }
   },
   {
-   "type": "article",
-   "id": "dutta_analysis_2019-1",
-   "citekey": "dutta_analysis_2019-1",
+   "type": "misc",
+   "id": "diba_retuning_2022",
+   "citekey": "diba_retuning_2022",
    "collection": "MyPapers",
-   "file": "Dutta et al. - 2019 - Analysis of an open source, closed-loop, realtime .pdf",
+   "file": "Diba et al. - 2022 - Retuning of hippocampal representations during sle.pdf",
+   "url": "https://www.researchsquare.com/article/rs-2191626/v1",
+   "doi": "10.21203/rs.3.rs-2191626/v1",
+   "title": "Retuning of hippocampal representations during sleep",
+   "month": "November",
+   "year": "2022",
+   "author": [
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Maboudi, Kourosh"
+    },
+    {
+     "name": "Giri, Bapun"
+    },
+    {
+     "name": "Miyawaki, Hiroyuki"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ]
+  },
+  {
+   "type": "article",
+   "id": "dutta_analysis_2019",
+   "citekey": "dutta_analysis_2019",
+   "collection": "MyPapers",
+   "file": "Dutta et al_2018_Analysis of an open source, closed-loop, realtime system for hippocampal.pdf",
    "url": "https://iopscience.iop.org/article/10.1088/1741-2552/aae90e",
    "doi": "10.1088/1741-2552/aae90e",
    "title": "Analysis of an open source, closed-loop, realtime system for hippocampal sharp-wave ripple disruption",
@@ -1757,41 +1604,6 @@
     "number": "1",
     "pages": "016009",
     "month": "February"
-   }
-  },
-  {
-   "type": "article",
-   "id": "fan_sputtered_2020-1",
-   "citekey": "fan_sputtered_2020-1",
-   "collection": "MyPapers",
-   "file": "Fan et al. - 2020 - Sputtered porous Pt for wafer-scale manufacture of.pdf",
-   "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ab965c",
-   "doi": "10.1088/1741-2552/ab965c",
-   "title": "Sputtered porous Pt for wafer-scale manufacture of low-impedance flexible microelectrodes",
-   "year": "2020",
-   "author": [
-    {
-     "name": "Fan, Bo"
-    },
-    {
-     "name": "Rodriguez, Alexander V"
-    },
-    {
-     "name": "Vercosa, Daniel G"
-    },
-    {
-     "name": "Kemere, Caleb"
-    },
-    {
-     "name": "Robinson, Jacob T"
-    }
-   ],
-   "journal": {
-    "name": "Journal of Neural Engineering",
-    "volume": "17",
-    "number": "3",
-    "pages": "036029",
-    "month": "June"
    }
   },
   {
@@ -1852,8 +1664,8 @@
   },
   {
    "type": "article",
-   "id": "donnarumma_framework_2021-1",
-   "citekey": "donnarumma_framework_2021-1",
+   "id": "donnarumma_framework_2021",
+   "citekey": "donnarumma_framework_2021",
    "collection": "MyPapers",
    "file": "Donnarumma et al. - 2021 - A framework to identify structured behavioral patt.pdf",
    "url": "https://www.nature.com/articles/s41598-020-79744-7",
@@ -1896,8 +1708,8 @@
   },
   {
    "type": "article",
-   "id": "adams_vivo_2022-1",
-   "citekey": "adams_vivo_2022-1",
+   "id": "adams_vivo_2022",
+   "citekey": "adams_vivo_2022",
    "collection": "MyPapers",
    "file": "Adams et al. - 2022 - In vivo lensless microscopy via a phase mask gener.pdf",
    "url": "https://www.nature.com/articles/s41551-022-00851-z",
@@ -2203,8 +2015,8 @@
   },
   {
    "type": "article",
-   "id": "ingabire_evaluation_2022-1",
-   "citekey": "ingabire_evaluation_2022-1",
+   "id": "ingabire_evaluation_2022",
+   "citekey": "ingabire_evaluation_2022",
    "collection": "MyPapers",
    "file": "Ingabire et al. - 2022 - Evaluation of Aerosol Particle Leak and Standard S.pdf",
    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2788500",
@@ -2312,45 +2124,44 @@
    }
   },
   {
-   "type": "misc",
-   "id": "chu_realtimedecoder_2024",
-   "citekey": "chu_realtimedecoder_2024",
+   "type": "article",
+   "id": "maboudi_uncovering_2018-1",
+   "citekey": "maboudi_uncovering_2018-1",
    "collection": "MyPapers",
-   "file": "Chu et al. - RealtimeDecoder A fast software module for online.pdf",
-   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.05.03.592417",
-   "doi": "10.1101/2024.05.03.592417",
-   "title": "RealtimeDecoder: A fast software module for online clusterless decoding",
-   "month": "May",
-   "year": "2024",
+   "file": "Maboudi et al. - 2018 - Uncovering temporal structure in hippocampal outpu.pdf",
+   "url": "https://elifesciences.org/articles/34467",
+   "doi": "10.7554/eLife.34467",
+   "title": "Uncovering temporal structure in hippocampal output patterns",
+   "year": "2018",
    "author": [
     {
-     "name": "Chu, Joshua P"
+     "name": "Maboudi, Kourosh"
     },
     {
-     "name": "Coulter, Michael E"
+     "name": "Ackermann, Etienne"
     },
     {
-     "name": "Denovellis, Eric L."
+     "name": "De Jong, Laurel Watkins"
     },
     {
-     "name": "Nguyen, Trevor Tk"
+     "name": "Pfeiffer, Brad E"
     },
     {
-     "name": "Liu, Daniel F"
+     "name": "Foster, David"
     },
     {
-     "name": "Deng, Xinyi"
+     "name": "Diba, Kamran"
     },
     {
-     "name": "Eden, Uri T"
-    },
-    {
-     "name": "Kemere, Caleb T"
-    },
-    {
-     "name": "Frank, Loren M"
+     "name": "Kemere, Caleb"
     }
-   ]
+   ],
+   "journal": {
+    "name": "eLife",
+    "volume": "7",
+    "pages": "e34467",
+    "month": "June"
+   }
   },
   {
    "type": "article",
@@ -2386,7 +2197,46 @@
     "pages": "630--638",
     "month": "May"
    }
-  }
+  },
+  {
+   "type": "misc",
+   "id": "chu_realtimedecoder_2024",
+   "citekey": "chu_realtimedecoder_2024",
+   "collection": "MyPapers",
+   "file": "Chu et al. - 2024 - RealtimeDecoder A fast software module for online.pdf",
+   "url": "http://biorxiv.org/lookup/doi/10.1101/2024.05.03.592417",
+   "doi": "10.1101/2024.05.03.592417",
+   "title": "RealtimeDecoder: A fast software module for online clusterless decoding",
+   "month": "May",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Chu, Joshua P."
+    },
+    {
+     "name": "Coulter, Michael E."
+    },
+    {
+     "name": "Denovellis, Eric L."
+    },
+    {
+     "name": "Nguyen, Trevor T. K."
+    },
+    {
+     "name": "Liu, Daniel F."
+    },
+    {
+     "name": "Deng, Xinyi"
+    },
+    {
+     "name": "Eden, Uri T."
+    },
+    {
+     "name": "Kemere, Caleb T."
+    },
+    {
+     "name": "Frank, Loren M."
+    }
    ]
   }
  ]
