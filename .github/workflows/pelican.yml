@@ -24,7 +24,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install requirements
-        run: pip install "requirements.txt"
+        run: pip install requirements.txt
       - name: Build Pelican site
         run: |
           pelican \
