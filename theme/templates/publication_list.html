@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME|striptags }} - {{ page.title|striptags }}{%endblock%}
+
+{% block head %}
+  {{ super() }}
+
+  {% import 'translations.html' as translations with context %}
+  {% if translations.entry_hreflang(page) %}
+    {{ translations.entry_hreflang(page) }}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+<div style="display:flex"><div style="flex:3 1 200px;"><h3>Lab Publications</h3></div>
+<a href="#preprints"><div style="flex:1 1; font-size: small;">Jump to Preprints &#x25BC;</div></a></div>
+
+  {% for entry in DATA_PUBLICATIONS['records']|sort(attribute='year', reverse=True)  %}
+
+   {% if entry.type == 'article' or entry.type == 'inproceedings' or entry.type == 'incollection'  %}
+<article class="publications">
+   {% if entry.title %}
+   <b>{{ entry.title }}</b>
+   {% endif %}
+   {% for author in entry.author %}
+   {% set person = author.name.split(',') %}
+   {{ person[1] }} {{ person[0].strip() }}{{ ", " if not loop.last else "" }}{% endfor %}.
+
+   {% if entry.type == 'article' %}
+   {% if entry.journal %}{% if entry.journal.name %}<i>{{ entry.journal.name }}</i>{% endif %}{% endif %}
+   {% endif %}
+
+   {% if entry.type == 'inproceedings' or entry.type == 'incollection' %}
+   {% if entry.booktitle %}in <i>{{ entry.booktitle }}</i>{% endif %}
+   {% endif %}
+
+   {% if entry.year %}{{ entry.year }}.{% endif %}
+
+   {% if entry.url %}<a href="{{ entry.url }}">[LINK]</a>{% endif %} &nbsp;
+   {% if entry.file %}<a href="/pubs/{{ entry.file }}">[PDF]</a>{% endif %}
+</article>
+
+   {% endif %}
+  {% endfor %}
+
+  <h3 id="preprints">Lab Preprints</h3>
+
+  {% for entry in DATA_PUBLICATIONS['records']|sort(attribute='year', reverse=True)  %}
+
+   {% if entry.type == 'misc' or entry.type == 'techreport' %}
+<article class="publications">
+
+   {% if entry.title %}<b>{{ entry.title }}</b>{% endif %}
+   {% for author in entry.author %}
+   {% set person = author.name.split(',') %}
+   {{ person[1] }} {{ person[0].strip() }}{{ ", " if not loop.last else "" }}{% endfor %}.
+   <i>(Preprint)</i>
+   {% if entry.year %}{{ entry.year }}.{% endif %}
+   {% if entry.url %}<a href="{{ entry.url }}">[LINK]</a>{% endif %}
+</article>
+   {% endif %}
+  {% endfor %}
+
+</div>
+{% endblock %}

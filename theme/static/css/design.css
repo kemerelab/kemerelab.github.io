@@ -1,0 +1,334 @@
+@import url("pico.blue.css");
+@import url("pico.colors.css");
+
+.footer-text {
+   padding-bottom: 0px;
+   padding-top: 0px;
+   font-size: 20px;
+}
+
+.header-text {
+}
+
+nav {
+   flex-wrap: wrap;
+   justify-content: flex-start;
+   align-items: first baseline;
+}
+
+:where(a:not([role=button])):is([aria-current]:not([aria-current=false])),
+[role=link]:is([aria-current]:not([aria-current=false])) {
+   font-weight: bold;
+  --pico-color: var(--pico-primary);
+  --pico-underline: var(--pico-primary-hover);
+  --pico-text-decoration: underline;
+}
+
+/* https://codepen.io/jo_Geek/pen/xgbaEr */
+
+nav > .nav-links {
+   position: auto;
+   display: flex;
+   justify-content: flex-start;
+   align-items: first baseline;   
+   padding: 0;
+   margin: 0;
+}
+
+nav .nav-button {
+   display: none;
+}
+
+nav > ul {
+   display: block;
+   display: flex;
+   list-style: none;
+   padding: 0;
+   margin: 0;
+}
+nav > .nav-links > li {
+   display: block;
+   width: auto;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   font-size: 25px;
+   font-weight: 300 !important;
+}
+
+nav > #nav-check {
+   display: none;
+}
+
+nav > .navbar-break {
+   display: hidden;
+   flex-basis:100%; 
+   height:0;
+}
+
+.nav-menu-icon {
+   width: 1.5em;
+   height: 1.5em;
+   color: var(--pico-primary);
+}
+
+@media (max-width: 48em) {
+   nav {
+      flex-wrap: wrap;
+      justify-content: space-between;
+   }
+
+   nav > .nav-button {
+      display: block;
+      /* flex-grow: 1; */
+   }
+   nav > .nav-links {
+      /* position: absolute; */
+      display: block;
+      width: 100%;
+      background-color: whitesmoke;
+      /* height: 0px; */
+      transition: all 0.3s ease-in;
+      overflow-y: hidden;
+      top: 50px;
+      border-radius: 0px 0px 10px 10px;
+      overflow:hidden;
+      border-style: solid;
+      border-width: 1px;
+      border-color: var(--pico-primary);
+
+      /* left: 0px; */
+
+   }
+   nav > .navbar-break {
+      display: block;
+   }   
+   nav > .nav-links > li {
+      display: block;
+      padding: 0;
+      padding-left: 10px;
+   }
+   nav > #nav-check:not(:checked) ~ .nav-links {
+      height: 0px;
+   }
+   nav > #nav-check:checked ~ .nav-links {
+      /* height: calc(100vh - 50px); */
+      overflow-y: auto;
+   }
+
+   nav .brand {
+      flex-grow:1;
+   }
+}
+
+@media only screen and (prefers-color-scheme: dark) and (max-width: 48em)  {
+   nav > .nav-links {
+      background-color: var(--pico-background-color) !important;
+      border-color: whitesmoke;
+   }
+}
+
+.icon {
+   width: 1.25em;
+   height: 1.25em;
+   /* vertical-align: -0.25em; */
+}
+
+.small-icon {
+   width: 0.75em;
+   height: 0.75em;
+   vertical-align: 0em;
+}
+
+.brand {
+   height: 50px;
+   padding-right: 50px;
+}
+
+.bluegrid {
+   /*
+   background-image:url(/images/bluegrid-light.png);
+   background-repeat:repeat;
+   */
+   background-color:rgb(229, 236, 247)
+   /* background-attachment:fixed;*/
+}
+
+article p {
+   font-size: 1.25rem  !important;
+   font-weight: 300 !important;
+}
+
+article h2 {
+   font-size: 2rem !important;
+   font-weight: 500 !important;
+}
+
+.directory {
+   display: flex;
+}
+
+.publications {
+   font-size:small;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+
+.admonition {
+   margin-bottom: var(--pico-block-spacing-vertical);
+   padding: var(--pico-block-spacing-vertical) var(--pico-block-spacing-horizontal);
+   padding-top: 0px;
+   border-radius: 1rem;
+   background: var(--pico-card-background-color);
+   box-shadow: var(--pico-card-box-shadow);
+   overflow: hidden;
+}
+
+.admonition-title {
+   margin-right: calc(var(--pico-block-spacing-horizontal) * -1);
+   margin-left: calc(var(--pico-block-spacing-horizontal) * -1);
+   padding: calc(var(--pico-block-spacing-vertical) * 0.66) var(--pico-block-spacing-horizontal);
+   background-color: rgb(155,187,213);
+   font-weight: bold;
+}
+
+.tool-highlight {
+   background: rgb(194,219,154);
+}
+
+.tool-img > img {
+   float: left; 
+   margin: 10px;
+}
+
+@media (max-width: 48em) {
+   .tool-img > img {
+      float: none; 
+   }
+}
+
+
+
+ /* RESPONSIVE CSS
+ -------------------------------------------------- */
+ @media only screen and (prefers-color-scheme: dark) {
+   .bluegrid {
+      /*
+      background-image:url(/images/bluegrid-light-darkmode.png);
+      */
+      background-color: rgb(1, 14, 26);
+   }   
+
+   .admonition-title {
+      background-color: rgb(3,43,76);
+   }
+
+   .tool-highlight {
+      background: rgb(52, 82, 1);
+   }
+}
+
+
+
+.small-flex-right {
+   flex:1 1 200px; 
+   padding-left: 10px; 
+   justify-content: right; 
+   display: flex;
+}
+
+.small-flex-left {
+   flex:1 1 200px; 
+   padding-right: 10px; 
+   justify-content: right; 
+   display: flex;
+}
+
+
+.large-flex {
+   flex:3 1 200px;
+}
+
+@media screen and (max-width: 48em) {
+   .small-flex-left {
+       display: none !important;
+   }
+}
+
+@media screen and (max-width: 48em) {
+   .small-flex-right {
+       display: none !important;
+   }
+}
+
+
+/* CSS for directory */
+.large-column {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+   grid-gap: 20px;
+}
+
+.medium-column {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+   grid-gap: 20px;
+   padding: 20px;
+}
+
+.small-column {
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+   grid-gap: 20px;
+}
+
+.funder-image {
+   border-radius: 4px;
+   padding: 5px;
+   width: 300px;
+}
+
+
+.funder-background {
+   background-color:rgb(245, 245, 245);
+   border-width: thin;
+   border-style: solid;
+   border-color:rgb(229, 236, 247);
+}
+
+.directory-entry {
+   flex:1 1 200px;
+   flex-wrap: wrap;
+}
+.directory-entry > img {
+   width: 200px;
+}
+.directory-entry > a > img {
+   width: 200px;
+}
+
+.alumni-directory-entry {
+   flex:1 1 100px;
+}
+
+.directory-data {
+   padding-left:0px; 
+   flex:4 1;
+}
+
+@media (max-width: 48em) {
+   .directory-entry {
+      flex:1 1 100px;
+   }
+
+   .directory-data {
+      padding-left:0px; 
+      flex:8 1;
+   }
+
+   .directory-entry > a > img {
+      width: 100px;
+   }
+   .directory-entry > img {
+      width: 100px;
+   }
+}

@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME|striptags }} - {{ page.title|striptags }}{%endblock%}
+
+{% block head %}
+  {{ super() }}
+
+  {% import 'translations.html' as translations with context %}
+  {% if translations.entry_hreflang(page) %}
+    {{ translations.entry_hreflang(page) }}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+
+<div class="container">
+<h2>Lab People</h2>
+
+<div class="large-column">
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="PI" %}
+  <div>
+    {% include 'directory_entry.html' %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+
+<div class="large-column">
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Postdocs" %}
+  <div>
+    {% include 'directory_entry.html' %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+
+<div class="large-column">
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Graduate Students" %}
+  <article>
+    {% include 'directory_entry.html' %}
+  </article>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div class="large-column">
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Undergraduate Students" %}
+  <article>
+    {% include 'directory_entry.html' %}
+  </article>
+  {% endif %}
+  {% endfor %}
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Volunteers" %}
+  <article>
+    {% include 'directory_entry.html' %}
+  </article>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<h3>Alumni</h3>
+
+<div class="medium-column">
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Alumni3" %}
+  <div>
+    {% include 'alumni_directory_entry.html' %}
+  </div>
+  {% endif %}
+  {% endfor %}
+
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Alumni" %}
+  <div>
+    {% include 'alumni_directory_entry.html' %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<div class="medium-column">
+  {% for indiv in DATA_PEOPLE['people'] %}
+  {% if indiv.group =="Alumni2" %}
+  <div>
+    {% include 'alumni_directory_entry.html' %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+</div>
+{% endblock %}
