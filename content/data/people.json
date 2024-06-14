@@ -37,15 +37,17 @@
     {
       "name": "James Webb",
       "group": "Alumni",
-      "title": "MD/PhD Student BCM Neuroscience program",
+      "title": "MD/PhD BCM Neuroscience program",
+      "currentRole": "Postdoc Baylor College of Medicine",
       "interests": "Deep learning, hippocampus and decision making"
     },
     {
        "name": "Shayok Dutta",
        "group": "Alumni",
-       "title": "PhD Student Electrical and Computer Engineering",
-       "interests": "Realtime systems, neural signal processing",
-       "currentRole": "Postdoc UC Denver"
+       "title": "PhD Electrical and Computer Engineering",
+       "interests": "Realtime systems, neural signal processing, mental health",
+       "currentRole": "Postdoc CU School of Medicine",
+       "website": "<a href=\"https://shayokdutta.github.io/\">shayokdutta.github.io</a>"
      },
      {
        "name": "Joshua Chu",
