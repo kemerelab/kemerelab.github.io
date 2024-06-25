@@ -38,7 +38,7 @@
       "name": "James Webb",
       "group": "Alumni",
       "title": "MD/PhD BCM Neuroscience program",
-      "currentRole": "Postdoc Baylor College of Medicine",
+      "currentRole": "Postdoc Baylor College of Medicine | Co-director, Clinical Applications & Machine Learning Lead, NeuralAscension LLC",
       "interests": "Deep learning, hippocampus and decision making"
     },
     {
@@ -46,13 +46,14 @@
        "group": "Alumni",
        "title": "PhD Electrical and Computer Engineering",
        "interests": "Realtime systems, neural signal processing, mental health",
-       "currentRole": "Postdoc CU School of Medicine",
+       "currentRole": "Postdoc CU School of Medicine | Founder, Co-director & Systems Engineering Lead, NeuralAscension LLC",
        "website": "<a href=\"https://shayokdutta.github.io/\">shayokdutta.github.io</a>"
      },
      {
        "name": "Joshua Chu",
        "group": "Alumni",
-       "title": "PhD Student Electrical and Computer Engineering",
+       "title": "PhD Electrical and Computer Engineering",
+       "currentRole": "Software Engineer, Odyssey Space Research | Co-director & Signal Processing Lead, NeuralAscension LLC",
        "interests": "Realtime systems, neural signal processing"
      },
      {
