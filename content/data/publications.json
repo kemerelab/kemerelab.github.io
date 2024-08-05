@@ -2,8 +2,8 @@
  "metadata": {
   "collection": "MyPapers",
   "source": "MyPapers.bib",
-  "created": "2024-06-10T15:27:58.314526",
-  "records": 60
+  "created": "2024-08-05T18:01:48.152154",
+  "records": 61
  },
  "records": [
   {
@@ -2238,6 +2238,38 @@
      "name": "Frank, Loren M."
     }
    ]
+  },
+  {
+   "type": "article",
+   "id": "luo_extended_2024",
+   "citekey": "luo_extended_2024",
+   "collection": "MyPapers",
+   "file": "Luo et al. - 2024 - Extended Poisson Gaussian-Process Latent Variable .pdf",
+   "url": "https://direct.mit.edu/neco/article/36/8/1449/123710/Extended-Poisson-Gaussian-Process-Latent-Variable",
+   "doi": "10.1162/neco_a_01685",
+   "title": "Extended Poisson Gaussian-Process Latent Variable Model for Unsupervised Neural Decoding",
+   "year": "2024",
+   "author": [
+    {
+     "name": "Luo, Della Daiyi"
+    },
+    {
+     "name": "Giri, Bapun"
+    },
+    {
+     "name": "Diba, Kamran"
+    },
+    {
+     "name": "Kemere, Caleb"
+    }
+   ],
+   "journal": {
+    "name": "Neural Computation",
+    "volume": "36",
+    "number": "8",
+    "pages": "1449--1475",
+    "month": "July"
+   }
   }
  ]
 }
