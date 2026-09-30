@@ -20,6 +20,29 @@ Many items are available at our lab repository
     simplify manufacturing for these systems. __We are excited to collaborate on this project!__
 
 
+### Electrophysiology Acquisition
+!!!tool "GLANCE"
+    [GLANCE](https://glanceneuro.org) — Gigabit Low-latency Acquisition for
+    Neuroscience and Closed-loop Experiments — is our open-source acquisition
+    system for Intan RHD2000-style headstages. An FPGA (Xilinx Zynq-7020 on a
+    MicroZed, with a carrier board we designed) records up to 256 channels at
+    30 kS/s and streams them over gigabit Ethernet, one UDP datagram per sample,
+    so nothing on the acquisition side stands between a spike and a detector.
+
+    <img src="/images/research-features/tools/glance-board.jpg" alt="GLANCE carrier board with MicroZed" width="400"/>
+
+    The FPGA does more than move samples: it extracts a ~3 kHz LFP band with an
+    on-chip filter cascade, plays arbitrary stimulus waveforms out of two SMA
+    connectors independently of the network, and reads a motion sensor on each
+    headstage — all stamped with the same master clock, so movement and spikes
+    align without host-side clock matching.
+
+    Everything is open: [firmware and FPGA design](https://github.com/glanceneuro/glance-neuro)
+    (MIT), the [carrier PCB](https://github.com/glanceneuro/glance-neuro-hardware)
+    (CERN-OHL-P), and an [Open Ephys plugin](https://github.com/glanceneuro/glance-neuro-plugin)
+    (GPL-3). Documentation and getting-started guide at
+    [glanceneuro.org](https://glanceneuro.org).
+
 ### Software
 !!! tool "GhostiPy"
     [GhostiPy](https://github.com/kemerelab/ghostipy/) 
